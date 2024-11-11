@@ -55,7 +55,7 @@ p {
   font-size: 0.7em;
 }
 header {
-  background-color: #3f1f69;
+  background-color: #311a4d;
   color: #ffffff;
   display: float;
   position: sticky;
@@ -77,8 +77,8 @@ header {
 }
 
 .nav-list a:hover {
-  background-color: #FEFEFA;
-  color: #500bff;
+  background-color: #311a4d;
+  color: #FEFEFA;
 }
 
 @media screen and (max-width:99999999999px) {
