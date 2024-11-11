@@ -55,8 +55,7 @@ p {
   font-size: 0.7em;
 }
 header {
-  display: flex;
-  flex-wrap: nowrap;
+  display: float;
   justify-content: space-between;
 }
 
