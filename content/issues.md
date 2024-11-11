@@ -2,13 +2,7 @@
 title: Research
 ---
 
-{{< card img="gallery/cir/first_page.png" url="gallery/cir/paper.pdf" >}}
-###  Center for Individual Rights: 35th Anniversary Retrospective
 
-Covered some of the most important legal cases from a public-interest law firm pertaining free speech, equal protection, and federalism.
-
-_Available [for download](gallery/cir/paper.pdf)._
-{{< /card >}}
 
 {{< card img="gallery/ftc/first_page.png" url="gallery/ftc/paper.pdf" >}}
 ###  Policing Corporations: An Analysis of Big Tech
