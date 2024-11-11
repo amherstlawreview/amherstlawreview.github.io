@@ -79,7 +79,7 @@ header {
 
 @media screen and (max-width:480px) {
   .nav-list {
-    flex-grow: 1;
+    flex-grow: 0;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
