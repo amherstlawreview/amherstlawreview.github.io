@@ -55,6 +55,8 @@ p {
   font-size: 0.7em;
 }
 header {
+  background-color: #3f1f69;
+  color: #ffffff;
   display: float;
   position: sticky;
   top: 0;
