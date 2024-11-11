@@ -78,7 +78,7 @@ header {
 
 .nav-list a:hover {
   background-color: #FEFEFA;
-  color: #FEFEFA;
+  color: #500bff;
 }
 
 @media screen and (max-width:99999999999px) {
