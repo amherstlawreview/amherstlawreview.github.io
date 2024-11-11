@@ -56,6 +56,9 @@ p {
 }
 header {
   display: float;
+  position: sticky;
+  top: 0;
+  z-index: 999;
   justify-content: space-between;
 }
 
