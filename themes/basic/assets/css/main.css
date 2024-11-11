@@ -47,12 +47,12 @@ p {
 
 .hero-bar h1 {
   margin: 0;
-  font-size: 2.5em;
+  font-size: 2.0em;
 }
 
 .hero-bar p {
   margin: 10px 0 0;
-  font-size: 1.2em;
+  font-size: 0.9em;
 }
 header {
   display: flex;
