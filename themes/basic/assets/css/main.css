@@ -76,7 +76,7 @@ header {
   color: #FEFEFA;
 }
 
-@media screen and (max-width:480px) {
+@media screen and (max-width:99999999999px) {
   .nav-list {
     flex-grow: 0;
     display: float;
