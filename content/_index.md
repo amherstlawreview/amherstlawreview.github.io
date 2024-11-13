@@ -3,45 +3,29 @@ title: Home
 ---
 
 {{< rawhtml >}}
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Custom Carousel</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-
-<div class="carousel-container">
-  <div class="carousel">
+<div class="carousel">
+  <div class="carousel-inner">
     <div class="carousel-item active">
-      <span class="carousel-tag"><a href="#articles">Articles</a></span>
-      <h2 class="carousel-title"><a href="#article1">The Future of Privacy Law in a Digital Age</a></h2>
-      <p class="carousel-author"><a href="#author1">Jane Doe</a></p>
-      <p class="carousel-blurb">This article explores the evolving legal landscape surrounding digital privacy, focusing on recent legislation and key court decisions.</p>
-      <p class="carousel-date">Published on March 1, 2023</p>
-      <div class="carousel-tags">
-        <a href="#privacy" class="tag">Privacy Law</a>
-        <a href="#technology" class="tag">Technology</a>
-        <a href="#legislation" class="tag">Legislation</a>
-      </div>
+      <h2>Article 1</h2>
+      <p>Content for the first article.</p>
     </div>
-    <!-- Additional carousel items with similar structure -->
+    <div class="carousel-item">
+      <h2>Article 2</h2>
+      <p>Content for the second article.</p>
+    </div>
+    <div class="carousel-item">
+      <h2>Article 3</h2>
+      <p>Content for the third article.</p>
+    </div>
   </div>
-  <div class="carousel-controls">
-    <button class="carousel-btn prev">&lt;</button>
-    <button class="carousel-btn next">&gt;</button>
-  </div>
+  <button class="carousel-control left" onclick="prevSlide()">&#10094;</button>
+  <button class="carousel-control right" onclick="nextSlide()">&#10095;</button>
   <div class="carousel-indicators">
-    <span class="indicator active"></span>
-    <span class="indicator"></span>
-    <span class="indicator"></span>
+    <span class="indicator" onclick="goToSlide(0)"></span>
+    <span class="indicator" onclick="goToSlide(1)"></span>
+    <span class="indicator" onclick="goToSlide(2)"></span>
   </div>
 </div>
-
-<script src="script.js"></script>
-</body>
-</html>
 {{< /rawhtml >}}
 
 The Amherst College Law Review (ACLR) was born out of the desire to foster undergraduate scholarship in the liberal arts. Among our peers, the ACLR stands alone for its interdisciplinary approach to the study of law.

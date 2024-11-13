@@ -10,76 +10,65 @@
 
         {{- partial "footer.html" . -}}
 
-        <!-- Carousel JavaScript -->
         <script>
-            let currentIndex = 0;
-            const items = document.querySelectorAll('.carousel-item');
-            const indicators = document.querySelectorAll('.indicator');
-            const totalItems = items.length;
+let currentIndex = 0;
+const items = document.querySelectorAll('.carousel-item');
+const indicators = document.querySelectorAll('.indicator');
+const totalItems = items.length;
 
-            function showSlide(index) {
-                const offset = -index * 100;
-                document.querySelector('.carousel').style.transform = `translateX(${offset}%)`;
+function showSlide(index) {
+  const offset = -index * 100;
+  document.querySelector('.carousel-inner').style.transform = `translateX(${offset}%)`;
+  
+  indicators.forEach((indicator, i) => {
+    indicator.classList.toggle('active', i === index);
+  });
 
-                indicators.forEach((indicator, i) => {
-                    indicator.classList.toggle('active', i === index);
-                });
+  currentIndex = index;
+}
 
-                currentIndex = index;
-            }
+function nextSlide() {
+  const nextIndex = (currentIndex + 1) % totalItems;
+  showSlide(nextIndex);
+}
 
-            function nextSlide() {
-                const nextIndex = (currentIndex + 1) % totalItems;
-                showSlide(nextIndex);
-            }
+function prevSlide() {
+  const prevIndex = (currentIndex - 1 + totalItems) % totalItems;
+  showSlide(prevIndex);
+}
 
-            function prevSlide() {
-                const prevIndex = (currentIndex - 1 + totalItems) % totalItems;
-                showSlide(prevIndex);
-            }
+function goToSlide(index) {
+  showSlide(index);
+}
 
-            function goToSlide(index) {
-                showSlide(index);
-            }
+// Automatic slide transition
+setInterval(nextSlide, 5000);
 
-            // Automatic slide transition every 5 seconds
-            setInterval(nextSlide, 5000);
-
-            // Initial display
-            showSlide(currentIndex);
-
-            // Event listeners for indicators
-            indicators.forEach((indicator, index) => {
-                indicator.addEventListener("click", () => {
-                    goToSlide(index);
-                });
-            });
-
-            document.querySelector(".carousel-btn.next").addEventListener("click", nextSlide);
-            document.querySelector(".carousel-btn.prev").addEventListener("click", prevSlide);
+// Initial display
+showSlide(currentIndex);
         </script>
 
-        <!-- Footnote JavaScript -->
         <script>
-            document.querySelectorAll('.footnote-link').forEach(link => {
-                link.addEventListener('click', function(event) {
-                    event.preventDefault();
-                    const footnoteId = this.getAttribute('href').substring(1);
-                    const footnoteContent = document.getElementById(footnoteId).textContent;
-                    document.getElementById('full-footnote-text').textContent = footnoteContent;
-                    document.getElementById('footnote-modal').style.display = 'block';
-                });
-            });
+          document.querySelectorAll('.footnote-link').forEach(link => {
+  link.addEventListener('click', function(event) {
+    event.preventDefault();
+    const footnoteId = this.getAttribute('href').substring(1);
+    const footnoteContent = document.getElementById(footnoteId).textContent;
+    document.getElementById('full-footnote-text').textContent = footnoteContent;
+    document.getElementById('footnote-modal').style.display = 'block';
+  });
+});
 
-            document.querySelector('.close').onclick = function() {
-                document.getElementById('footnote-modal').style.display = 'none';
-            };
+document.querySelector('.close').onclick = function() {
+  document.getElementById('footnote-modal').style.display = 'none';
+};
 
-            window.onclick = function(event) {
-                if (event.target == document.getElementById('footnote-modal')) {
-                    document.getElementById('footnote-modal').style.display = 'none';
-                }
-            };
+window.onclick = function(event) {
+  if (event.target == document.getElementById('footnote-modal')) {
+    document.getElementById('footnote-modal').style.display = 'none';
+  }
+};
+
         </script>
     </body>
 </html>
