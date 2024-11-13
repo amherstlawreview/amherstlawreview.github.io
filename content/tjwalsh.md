@@ -13,21 +13,22 @@ title: TJ Walsh
 </head>
 <body>
   <header>
-    <h1 class="article-title">The Title of the Article</h1>
-    <p class="author">by Author Name</p>
+    <h1 class="article-title">Aesthetics for the Public Good: The Fifth Amendment’s Takings Clause and Development Restriction Policies</h1>
+    <p class="author">Thomas J. Walsh – The University of Alabama</p>
   </header>
   <main>
     <section class="content">
       <article>
-        <p>This is the introductory paragraph. Here's a citation reference<sup><a href="#fn1" class="footnote-link">1</a></sup> that can be viewed on the right side or clicked to see the full footnote.</p>
+        <p>As stated by the Takings Clause of the Fifth Amendment, it is not permissible that
+“private property be taken for public use, without just compensation”.<sup><a href="#fn1" class="footnote-link">1</a></sup> that can be viewed on the right side or clicked to see the full footnote.</p>
 
-        <p>More text continues with other citations<sup><a href="#fn2" class="footnote-link">2</a></sup> and relevant content that makes up the body of the article.</p>
+<p>More text continues with other citations<sup><a href="#fn2" class="footnote-link">2</a></sup> and relevant content that makes up the body of the article.</p>
       </article>
       
       <!-- Right Side Footnotes -->
       <aside class="footnotes">
         <div id="fn1" class="footnote-summary">
-          <span class="footnote-number">1</span> Short footnote summary for quick reference.
+          <span class="footnote-number">1</span> Cornell Law School, “Takings,” Legal Information Institute, https://www.law.cornell.edu/wex/takings. Accessed February 15, 2024.
         </div>
         <div id="fn2" class="footnote-summary">
           <span class="footnote-number">2</span> Another short summary for the second footnote.
