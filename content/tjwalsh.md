@@ -87,6 +87,7 @@ main {
   display: flex;
   justify-content: center;
   padding: 2rem;
+  position: static;
 }
 
 .content {
