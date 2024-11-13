@@ -104,18 +104,6 @@ title: Home
         <a href="#ethics" class="tag">Ethics</a>
       </div>
     </div>
-    <div class="carousel-item">
-      <span class="carousel-tag"><a href="#articles">Articles</a></span>
-      <h2 class="carousel-title"><a href="#article4">Climate Change Litigation: Challenges and Future Directions</a></h2>
-      <p class="carousel-author"><a href="#author4">Emily L. Green – Yale Law School</a></p>
-      <p class="carousel-blurb">This article examines the recent trends in climate change litigation, focusing on the challenges plaintiffs face in holding corporations accountable for environmental harm. It evaluates landmark cases and discusses future directions for environmental law.</p>
-      <p class="carousel-date">Published on November 1, 2024</p>
-      <div class="carousel-tags">
-        <a href="#climatelaw" class="tag">Climate Law</a>
-        <a href="#environmentallaw" class="tag">Environmental Law</a>
-        <a href="#litigation" class="tag">Litigation</a>
-      </div>
-      </div>
   </div>
 
   <div class="carousel-controls">
