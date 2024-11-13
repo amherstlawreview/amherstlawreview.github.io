@@ -153,13 +153,15 @@ body {
   line-height: 1.6;
 }
 
+/* Carousel styling */
 .carousel-container {
   position: relative;
-  max-width: 100%;
-  height: 67.5vh; /* Reduced height by ~10-15% */
   overflow: hidden;
+  width: 100%;
+  max-width: 800px;
+  margin: auto;
   display: flex;
-  justify-content: center;
+  align-items: center;
 }
 
 .carousel {
@@ -168,39 +170,41 @@ body {
 }
 
 .carousel-item {
-  width: 100%;
-  padding: 2rem;
-  box-sizing: border-box;
+  min-width: 100%;
+  transition: opacity 1s ease;
+  opacity: 0;
 }
 
+.carousel-item.active {
+  opacity: 1;
+}
+
+/* Carousel item details */
 .carousel-tag a {
-  font-size: 0.9rem;
-  color: #3f1f69;
-  text-transform: uppercase;
-  font-weight: bold;
   text-decoration: none;
+  color: #3f1f69;
+  font-weight: bold;
 }
 
 .carousel-title a {
-  font-size: 1.6rem;
-  color: #000;
   text-decoration: none;
+  color: #000;
+  font-size: 1.5em;
+  font-weight: bold;
 }
 
 .carousel-author a {
-  font-size: 1rem;
-  color: #555;
   text-decoration: none;
+  color: #666;
 }
 
 .carousel-blurb {
-  font-size: 1rem;
-  color: #666;
-  margin: 1rem 0;
+  font-size: 1em;
+  color: #333;
 }
 
 .carousel-date {
-  font-size: 0.8rem;
+  font-size: 0.875em;
   color: #999;
 }
 
@@ -209,35 +213,47 @@ body {
 }
 
 .carousel-tags .tag {
-  font-size: 0.8rem;
-  color: #3f1f69;
-  background-color: #efefef;
-  padding: 0.3rem 0.5rem;
-  margin-right: 0.3rem;
-  border-radius: 3px;
+  display: inline-block;
+  margin-right: 5px;
+  padding: 0.25em 0.5em;
+  background-color: #eee;
+  color: #333;
+  border-radius: 4px;
+  font-size: 0.75em;
   text-decoration: none;
 }
 
-.carousel-btn {
+/* Updated Carousel Controls */
+.carousel-controls {
   position: absolute;
   top: 50%;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
   transform: translateY(-50%);
-  background-color: #fff;
-  color: #3f1f69;
+  pointer-events: none;  /* Ensures controls don't interfere with underlying content */
+}
+
+.carousel-btn {
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
   border: none;
-  border-radius: 50%;
-  padding: 0.5rem;
+  padding: 1rem;
   cursor: pointer;
+  pointer-events: auto;  /* Allows buttons to be clickable */
 }
 
 .carousel-btn.prev {
-  left: 1rem;
+  position: absolute;
+  left: -50px;  /* Moves button outside of carousel content */
 }
 
 .carousel-btn.next {
-  right: 1rem;
+  position: absolute;
+  right: -50px;  /* Moves button outside of carousel content */
 }
 
+/* Carousel Indicators */
 .carousel-indicators {
   position: absolute;
   bottom: 0.5rem;
@@ -317,8 +333,10 @@ header .ascii {
 }
 
 footer {
-  font-size: 0.9rem;
-  margin-top: 0.8rem;
+  background-color: #333;
+  color: white;
+  padding: 1em 0;
+  text-align: center;
 }
 
 .anchor {
