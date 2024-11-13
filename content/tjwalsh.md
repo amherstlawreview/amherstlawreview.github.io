@@ -13,8 +13,10 @@ title: TJ Walsh
 </head>
 <body>
   <header>
-    <h1 class="article-title">Aesthetics for the Public Good: The Fifth Amendment’s Takings Clause and Development Restriction Policies</h1>
-    <p class="author">Thomas J. Walsh – The University of Alabama</p>
+    <div class="article-header">
+      <h1 class="article-title">Aesthetics for the Public Good: The Fifth Amendment’s Takings Clause and Development Restriction Policies</h1>
+      <p class="author">Thomas J. Walsh – The University of Alabama</p>
+    </div>
   </header>
   <main>
     <section class="content">
@@ -58,6 +60,12 @@ body {
   line-height: 1.6;
 }
 
+.article-header {
+  padding: 0 1rem; /* Adds left and right padding */
+  max-width: 60rem;
+  margin: 0 auto;
+}
+
 .article-title {
   font-size: 1.6rem;
   margin: 0;
@@ -78,11 +86,6 @@ main {
   display: flex;
   width: 60rem;
   max-width: 100%;
-}
-
-/* Specific rule for Amherst College Law Review header */
-.amherst-college-law-review-header {
-  font-size: 2rem; /* Adjust the size as needed to match other headers */
 }
 
 article {
