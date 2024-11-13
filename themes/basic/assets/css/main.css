@@ -45,6 +45,7 @@ p {
 .hero-bar {
   background-color: #3f1f69;
   color: #ffffff;
+  position: sticky;
   padding: 20px;
   text-align: center;
   border-bottom: 1px solid #ddd;
@@ -63,7 +64,7 @@ header {
   background-color: #311a4d;
   color: #ffffff;
   display: float;
-  position: static;
+  position: sticky;
   top: 0;
   z-index: 999;
   justify-content: space-between;
@@ -71,7 +72,6 @@ header {
 
 .nav-list {
   font-family: "Palatino Linotype", Palatino, monospace;
-  position: sticky;
   list-style-type: none;
   line-height: 1.5rem;
   text-align: start;
