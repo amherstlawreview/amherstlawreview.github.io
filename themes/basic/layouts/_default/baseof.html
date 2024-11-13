@@ -11,17 +11,15 @@
         {{- partial "footer.html" . -}}
 
         <script>
-            let currentIndex = 0;
+let currentIndex = 0;
 const items = document.querySelectorAll('.carousel-item');
 const indicators = document.querySelectorAll('.indicator');
 const totalItems = items.length;
 
 function showSlide(index) {
-  // Calculate offset for the carousel items container
   const offset = -index * 100;
   document.querySelector('.carousel-inner').style.transform = `translateX(${offset}%)`;
   
-  // Update active indicator
   indicators.forEach((indicator, i) => {
     indicator.classList.toggle('active', i === index);
   });
@@ -44,11 +42,10 @@ function goToSlide(index) {
 }
 
 // Automatic slide transition
-setInterval(nextSlide, 5000); // Change slide every 5 seconds
+setInterval(nextSlide, 5000);
 
 // Initial display
 showSlide(currentIndex);
-
         </script>
     </body>
 </html>
