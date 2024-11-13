@@ -1,6 +1,6 @@
 body {
   margin: 1rem auto;
-  max-width: 40rem;
+  max-width: none;
   padding: 0 0.62rem;
   font-family: "Palatino Linotype", Palatino, serif;
   font-size: 1.2rem;
@@ -57,7 +57,6 @@ p {
 header {
   background-color: #311a4d;
   color: #ffffff;
-  max-width: none;
   display: float;
   position: sticky;
   top: 0;
