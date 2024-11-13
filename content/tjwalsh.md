@@ -59,15 +59,6 @@ body {
   line-height: 1.6;
 }
 
-header {
-  background-color: #311a4d;
-  color: #ffffff;
-  position: sticky;
-  top: 0;
-  z-index: 999;
-  padding: 0.5rem 0; /* Remove side padding */
-}
-
 .article-title {
   font-size: 2rem;
   margin: 0;
