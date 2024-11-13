@@ -22,7 +22,10 @@ title: TJ Walsh
     <section class="content">
       <article>
         <p>As stated by the Takings Clause of the Fifth Amendment, it is not permissible that
-“private property be taken for public use, without just compensation”.<sup><a href="#fn1" class="footnote-link">1</a></sup> <sup><a href="#fn2" class="footnote-link">2</a></sup></p>
+“private property be taken for public use, without just compensation”.<sup><a href="#fn1" class="footnote-link">1</a></sup> <sup><a href="#fn2" class="footnote-link">2</a></sup> The Fourteenth
+Amendment extends these rights from the federal government to the states, establishing that it is
+likewise impermissible for “any State to deprive any person of life, liberty, or property, without
+due process of law.”<sup><a href="#fn3" class="footnote-link">3</a></sup></p>
       </article>
       
       <!-- Right Side Footnotes -->
@@ -32,6 +35,10 @@ title: TJ Walsh
         </div>
         <div id="fn2" class="footnote-summary">
           <span class="footnote-number">2</span> Cornell Law School, “Fifth Amendment,” Legal Information Institute, https://www.law.cornell.edu/constitution/fifth_amendment. Accessed February 15, 2024.
+        </div>
+        <div id="fn3" class="footnote-summary">
+          <span class="footnote-number">3</span> Cornell Law School, “Fourteenth Amendment,” Legal Information Institute,
+https://www.law.cornell.edu/constitution/amendmentxiv. Accessed February 15, 2024.
         </div>
       </aside>
     </section>
