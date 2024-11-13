@@ -9,6 +9,60 @@ title: Home
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Custom Carousel</title>
   <link rel="stylesheet" href="style.css">
+  <style>
+    /* Inline CSS for demonstration */
+    .carousel-container {
+      position: relative;
+      width: 100%;
+      max-width: 800px;
+      margin: auto;
+      overflow: hidden;
+    }
+    .carousel {
+      display: flex;
+      transition: transform 0.5s ease;
+    }
+    .carousel-item {
+      min-width: 100%;
+      display: none; /* Hide non-active items */
+      flex-shrink: 0;
+    }
+    .carousel-item.active {
+      display: block; /* Display only the active item */
+    }
+    .carousel-controls {
+      position: absolute;
+      top: 50%;
+      width: 100%;
+      display: flex;
+      justify-content: space-between;
+      transform: translateY(-50%);
+    }
+    .carousel-btn {
+      background-color: rgba(0, 0, 0, 0.5);
+      color: white;
+      border: none;
+      cursor: pointer;
+      padding: 10px;
+      font-size: 18px;
+    }
+    .carousel-indicators {
+      text-align: center;
+      padding: 10px 0;
+    }
+    .indicator {
+      display: inline-block;
+      width: 10px;
+      height: 10px;
+      background-color: #bbb;
+      border-radius: 50%;
+      margin: 0 5px;
+      cursor: pointer;
+    }
+    .indicator.active {
+      background-color: #333;
+    }
+  </style>
 </head>
 <body>
 
@@ -63,7 +117,35 @@ title: Home
   </div>
 </div>
 
-<script src="script.js"></script>
+<script>
+  const items = document.querySelectorAll('.carousel-item');
+  const indicators = document.querySelectorAll('.indicator');
+  let currentIndex = 0;
+
+  document.querySelector('.next').addEventListener('click', () => {
+    showItem(currentIndex + 1);
+  });
+
+  document.querySelector('.prev').addEventListener('click', () => {
+    showItem(currentIndex - 1);
+  });
+
+  indicators.forEach((indicator, index) => {
+    indicator.addEventListener('click', () => {
+      showItem(index);
+    });
+  });
+
+  function showItem(index) {
+    items[currentIndex].classList.remove('active');
+    indicators[currentIndex].classList.remove('active');
+    
+    currentIndex = (index + items.length) % items.length;
+
+    items[currentIndex].classList.add('active');
+    indicators[currentIndex].classList.add('active');
+  }
+</script>
 </body>
 </html>
 {{< /rawhtml >}}
