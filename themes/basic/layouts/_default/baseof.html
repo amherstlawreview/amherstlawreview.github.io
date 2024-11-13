@@ -10,37 +10,6 @@
 
         {{- partial "footer.html" . -}}
 
-<script>
-    document.addEventListener('DOMContentLoaded', function() {
-      const footnotes = {
-        "1": "Cornell Law School, 'Takings,' Legal Information Institute, https://www.law.cornell.edu/wex/takings. Accessed February 15, 2024.",
-        "2": "Cornell Law School, 'Fifth Amendment,' Legal Information Institute, https://www.law.cornell.edu/constitution/fifth_amendment. Accessed February 15, 2024.",
-        "3": "Cornell Law School, 'Fourteenth Amendment,' Legal Information Institute, https://www.law.cornell.edu/constitution/amendmentxiv. Accessed February 15, 2024.",
-        "4": "Penn Central Transportation Co. v. City of New York, 438 U.S. 104 (1978).",
-        "5": "Ibid., Penn Central Transportation Co. v. City of New York."
-      };
-  
-      document.querySelectorAll('.footnote-link').forEach(link => {
-        link.addEventListener('click', function(event) {
-          event.preventDefault();
-          const footnoteId = this.dataset.footnote;  // Get footnote id
-          const footnoteText = footnotes[footnoteId]; // Fetch the text
-  
-          if (!footnoteText) {
-            console.error(`Footnote with id ${footnoteId} not found.`);
-            return;
-          }
-
-          let footnoteEl = document.createElement('div');
-          footnoteEl.className = 'inline-footnote';
-          footnoteEl.innerHTML = `<span class="footnote-number">${footnoteId}</span> ${footnoteText}`;
-  
-          this.closest('p').appendChild(footnoteEl);
-        });
-      });
-    });
-</script>
-          
         <!-- Carousel JavaScript -->
         <script>
             let currentIndex = 0;
