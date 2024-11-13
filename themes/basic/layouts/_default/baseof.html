@@ -47,5 +47,28 @@ setInterval(nextSlide, 5000);
 // Initial display
 showSlide(currentIndex);
         </script>
+
+        <script>
+          document.querySelectorAll('.footnote-link').forEach(link => {
+  link.addEventListener('click', function(event) {
+    event.preventDefault();
+    const footnoteId = this.getAttribute('href').substring(1);
+    const footnoteContent = document.getElementById(footnoteId).textContent;
+    document.getElementById('full-footnote-text').textContent = footnoteContent;
+    document.getElementById('footnote-modal').style.display = 'block';
+  });
+});
+
+document.querySelector('.close').onclick = function() {
+  document.getElementById('footnote-modal').style.display = 'none';
+};
+
+window.onclick = function(event) {
+  if (event.target == document.getElementById('footnote-modal')) {
+    document.getElementById('footnote-modal').style.display = 'none';
+  }
+};
+
+        </script>
     </body>
 </html>
