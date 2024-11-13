@@ -59,12 +59,6 @@ body {
   line-height: 1.6;
 }
 
-header {
-  text-align: center;
-  padding: 2rem 0;
-  border-bottom: 1px solid #ccc;
-}
-
 .article-title {
   font-size: 2rem;
   margin: 0;
