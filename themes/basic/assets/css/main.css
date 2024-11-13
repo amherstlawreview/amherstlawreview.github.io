@@ -47,18 +47,23 @@ p {
   color: #ffffff;
   position: sticky;
   padding: 20px;
-  text-align: center;
+  text-align: left; /* Aligns content to the left */
   border-bottom: 1px solid #ddd;
 }
 
-.hero-bar h1 {
+.hero-bar h1,
+.hero-bar p {
   margin: 0;
+  padding-left: 0; /* Ensures they align flush to the left */
+}
+
+.hero-bar h1 {
   font-size: 1.8em;
 }
 
 .hero-bar p {
-  margin: 0;
   font-size: 0.7em;
+  margin-top: 0.2em; /* Adjusts spacing between title and subtitle */
 }
 header {
   background-color: #311a4d;
