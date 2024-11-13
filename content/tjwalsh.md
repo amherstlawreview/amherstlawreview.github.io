@@ -3,6 +3,7 @@ title: TJ Walsh
 ---
 
 {{< rawhtml >}}
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -20,7 +21,8 @@ title: TJ Walsh
   <main>
     <section class="content">
       <article>
-        <p>As stated by the Takings Clause of the Fifth Amendment, it is not permissible that “private property be taken for public use, without just compensation”.<sup><a href="#fn1" class="footnote-link">1</a></sup> <sup><a href="#fn2" class="footnote-link">2</a></sup></p>
+        <p>As stated by the Takings Clause of the Fifth Amendment, it is not permissible that
+“private property be taken for public use, without just compensation”.<sup><a href="#fn1" class="footnote-link">1</a></sup> <sup><a href="#fn2" class="footnote-link">2</a></sup></p>
       </article>
       
       <!-- Right Side Footnotes -->
