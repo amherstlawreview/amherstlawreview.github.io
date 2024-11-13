@@ -58,6 +58,24 @@ p {
 }
 
 .hero-bar h1,
+/* Reset margin and padding for body and html to avoid any gaps */
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+/* Header styling */
+header {
+  background-color: #311a4d;
+  color: #ffffff;
+  position: sticky;
+  top: 0;
+  z-index: 999;
+  padding: 0.5rem 0; /* Remove side padding */
+  margin: 0; /* Ensure no margin */
+}
+
+/* Other existing styles */
 .hero-bar p {
   margin: 0;
 }
@@ -69,14 +87,6 @@ p {
 .hero-bar p {
   font-size: 0.7em;
   margin-top: 0.2em; /* Adjusts spacing between title and subtitle */
-}
-header {
-  background-color: #311a4d;
-  color: #ffffff;
-  position: sticky;
-  top: 0;
-  z-index: 999;
-  padding: 0.5rem 0; /* Remove side padding */
 }
 
 .header-content {
