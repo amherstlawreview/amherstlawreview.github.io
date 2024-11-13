@@ -81,6 +81,11 @@ main {
   max-width: 100%;
 }
 
+/* Specific rule for Amherst College Law Review header */
+.amherst-college-law-review-header {
+  font-size: 2rem; /* Adjust the size as needed to match other headers */
+}
+
 article {
   flex: 3;
   padding-right: 2rem;
