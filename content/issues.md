@@ -5,8 +5,9 @@ title: Research
 {{< card img="gallery/issue8/first_page.png" url="gallery/issue8/paper.pdf" >}}
 ###  Issue Eight
 
-Traced the recent shift in the government's antitrust strategy following the appointment of FTC Chair Lina Khan.
-
+{{< dropdown heading="**Authors**" >}}
+Aesthetics for the Public Good: The Fifth Amendment’s Takings Clause and Development Restriction Policies Thomas J. Walsh – The University of Alabama
+{{< /dropdown >}}
 _Available [for download](gallery/isssue8/paper.pdf)._
 {{< /card >}}
 
