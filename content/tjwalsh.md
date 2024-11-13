@@ -27,27 +27,29 @@ title: TJ Walsh
 <hr>
 <p>Introduction</p>
       <p>As stated by the Takings Clause of the Fifth Amendment, it is not permissible that “private property be taken for public use, without just compensation”.<sup><a href="#fn1" class="footnote-link">1</a></sup> <sup><a href="#fn2" class="footnote-link">2</a></sup> The Fourteenth Amendment extends these rights from the federal government to the states, establishing that it is likewise impermissible for “any State to deprive any person of life, liberty, or property, without due process of law.”<sup><a href="#fn3" class="footnote-link">3</a></sup></p> The Takings Clause specifies that one whose property is taken by the government for public use is entitled to just compensation, but it fails to specify further details regarding its implementation or capacities.<sup><a href="#fn4" class="footnote-link">4</a></sup> <sup><a href="#fn5" class="footnote-link">5</a></sup> Chief among concerns of policymakers and property owners alike, the Takings Clause fails to specify how to determine whether an imposition by the government on one’s private property might constitute a compensable taking.</p>
-      
-      <!-- Footnote Content Inline -->
-      <div id="fn1" class="footnote-summary">
-        <span class="footnote-number">1</span> Cornell Law School, “Takings,” Legal Information Institute, https://www.law.cornell.edu/wex/takings. Accessed February 15, 2024.
-      </div>
-      <div id="fn2" class="footnote-summary">
-        <span class="footnote-number">2</span> Cornell Law School, “Fifth Amendment,” Legal Information Institute, https://www.law.cornell.edu/constitution/fifth_amendment. Accessed February 15, 2024.
-      </div>
-      <div id="fn3" class="footnote-summary">
-        <span class="footnote-number">3</span> Cornell Law School, “Fourteenth Amendment,” Legal Information Institute, https://www.law.cornell.edu/constitution/amendmentxiv. Accessed February 15, 2024.
-      </div>
-      <div id="fn4" class="footnote-summary">
-        <span class="footnote-number">4</span> US Department of Housing and Urban Development, “Eminent Domain.” Accessed February 15, 2024.
-      </div>
-      <div id="fn5" class="footnote-summary">
-        <span class="footnote-number">5</span> US Department of Justice, “Fifth Amendment Takings Law,” https://www.justice.gov/enrd natural-resources-section fifth-amendment-takings-law#:~:text=Also%20known%20as %20the%20%22Takings the%20payment%20of%20just%20compensation. Accessed February 15, 2024.
-      </div>
       </article>
+      
+      <!-- Right Side Footnotes -->
+  <aside class="footnotes">
+        <div id="fn1" class="footnote-summary">
+          <span class="footnote-number">1</span> Cornell Law School, “Takings,” Legal Information Institute, https://www.law.cornell.edu/wex/takings. Accessed February 15, 2024.
+        </div>
+        <div id="fn2" class="footnote-summary">
+          <span class="footnote-number">2</span> Cornell Law School, “Fifth Amendment,” Legal Information Institute, https://www.law.cornell.edu/constitution/fifth_amendment. Accessed February 15, 2024.
+        </div>
+        <div id="fn3" class="footnote-summary">
+          <span class="footnote-number">3</span> Cornell Law School, “Fourteenth Amendment,” Legal Information Institute, https://www.law.cornell.edu/constitution/amendmentxiv. Accessed February 15, 2024.
+        </div>
+        <div id="fn4" class="footnote-summary">
+          <span class="footnote-number">4</span> US Department of Housing and Urban Development, “Eminent Domain.” Accessed February 15, 2024.
+        </div>
+        <div id="fn5" class="footnote-summary">
+          <span class="footnote-number">5</span> US Department of Justice, “Fifth Amendment Takings Law,” https://www.justice.gov/enrd natural-resources-section fifth-amendment-takings-law#:~:text=Also%20known%20as %20the%20%22Takings the%20payment%20of%20just%20compensation. Accessed February 15, 2024.
+        </div>
+      </aside>
     </section>
   </main>
-
+  
   <!-- Modal for Full Footnote Details -->
   <div id="footnote-modal" class="modal">
     <div class="modal-content">
@@ -55,7 +57,7 @@ title: TJ Walsh
       <p id="full-footnote-text"></p>
     </div>
   </div>
-
+  
   <script src="script.js"></script>
 </body>
 </html>
@@ -102,6 +104,12 @@ main {
 article {
   flex: 3;
   padding-right: 2rem;
+}
+
+aside.footnotes {
+  flex: 1;
+  padding-left: 1rem;
+  border-left: 1px solid #ccc;
 }
 
 .footnote-link {

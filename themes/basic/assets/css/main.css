@@ -143,18 +143,6 @@ a {
   color: #500bff;
 }
 
-.inline-footnote {
-  font-size: 0.9rem;
-  color: #555;
-  margin-left: 0.5rem;
-  display: inline;
-}
-.inline-footnote .footnote-number {
-  font-weight: bold;
-  color: #333;
-  margin-right: 0.2rem;
-}
-
 /* General Carousel Styling */
 body {
   font-family: "Georgia", serif;
