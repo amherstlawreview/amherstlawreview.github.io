@@ -7,15 +7,19 @@ title: Research
 
 {{< dropdown heading="**Articles**" >}}
 **Aesthetics for the Public Good: The Fifth Amendment’s Takings Clause and Development Restriction Policies** 
+
 *Thomas J. Walsh – The University of Alabama*
 
 **All Deserve the Freedom to Love: A Case for the Legal Recognition of Polyamorous Relationships** 
+
 *Finn Helgesen – Middlebury College*
 
 **The AI-Authorship Copyright Question: How a Court Case and a Bureaucratic Decision Changed Intellectual Property Law** 
+
 *Adam Frank – Columbia University*
 
 **What to the Enslaved is the Right to Have Rights?** 
+
 *Crystal Foretia – Columbia University*
 {{< /dropdown >}}
 
