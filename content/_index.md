@@ -26,8 +26,36 @@ title: Home
         <a href="#envlaw" class="tag">Environmental Law</a>
       </div>
     </div>
-    <!-- Additional carousel items with similar structure -->
+
+    <!-- New Carousel Item 2 -->
+    <div class="carousel-item">
+      <span class="carousel-tag"><a href="#articles">Articles</a></span>
+      <h2 class="carousel-title"><a href="#article2">Digital Privacy in the Age of Surveillance: Re-evaluating the Fourth Amendment</a></h2>
+      <p class="carousel-author"><a href="#author2">Jane M. Lee – Stanford University</a></p>
+      <p class="carousel-blurb">With the rise of digital technology, the boundaries of privacy and government surveillance are increasingly blurred. This article explores how the Fourth Amendment is applied to digital privacy, examining recent court cases and proposing a framework for protecting individual privacy in an era of pervasive surveillance.</p>
+      <p class="carousel-date">Published on September 5, 2024</p>
+      <div class="carousel-tags">
+        <a href="#digitallaw" class="tag">Digital Law</a>
+        <a href="#privacylaw" class="tag">Privacy Law</a>
+        <a href="#fourthamendment" class="tag">Fourth Amendment</a>
+      </div>
+    </div>
+
+    <!-- New Carousel Item 3 -->
+    <div class="carousel-item">
+      <span class="carousel-tag"><a href="#articles">Articles</a></span>
+      <h2 class="carousel-title"><a href="#article3">Artificial Intelligence and Liability: Who Pays When Algorithms Make Mistakes?</a></h2>
+      <p class="carousel-author"><a href="#author3">Michael K. Johnson – Harvard Law School</a></p>
+      <p class="carousel-blurb">As artificial intelligence systems are deployed in high-stakes scenarios, questions around accountability and liability emerge. This article discusses the legal implications of AI errors, analyzing who is responsible and how liability should be determined when machines make life-impacting mistakes.</p>
+      <p class="carousel-date">Published on August 12, 2024</p>
+      <div class="carousel-tags">
+        <a href="#aitechnology" class="tag">AI Technology</a>
+        <a href="#liabilitylaw" class="tag">Liability Law</a>
+        <a href="#ethics" class="tag">Ethics</a>
+      </div>
+    </div>
   </div>
+
   <div class="carousel-controls">
     <button class="carousel-btn prev">&lt;</button>
     <button class="carousel-btn next">&gt;</button>
