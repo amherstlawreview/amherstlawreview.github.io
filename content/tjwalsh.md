@@ -20,9 +20,7 @@ title: TJ Walsh
     <section class="content">
       <article>
         <p>As stated by the Takings Clause of the Fifth Amendment, it is not permissible that
-“private property be taken for public use, without just compensation”.<sup><a href="#fn1" class="footnote-link">1</a></sup> that can be viewed on the right side or clicked to see the full footnote.</p>
-
-<p>More text continues with other citations<sup><a href="#fn2" class="footnote-link">2</a></sup> and relevant content that makes up the body of the article.</p>
+“private property be taken for public use, without just compensation”.<sup><a href="#fn1" class="footnote-link">1</a></sup><sup><a href="#fn2" class="footnote-link">2</a></sup></p>
       </article>
       
       <!-- Right Side Footnotes -->
@@ -31,7 +29,7 @@ title: TJ Walsh
           <span class="footnote-number">1</span> Cornell Law School, “Takings,” Legal Information Institute, https://www.law.cornell.edu/wex/takings. Accessed February 15, 2024.
         </div>
         <div id="fn2" class="footnote-summary">
-          <span class="footnote-number">2</span> Another short summary for the second footnote.
+          <span class="footnote-number">2</span> Cornell Law School, “Fifth Amendment,” Legal Information Institute, https://www.law.cornell.edu/constitution/fifth_amendment. Accessed February 15, 2024.
         </div>
       </aside>
     </section>
