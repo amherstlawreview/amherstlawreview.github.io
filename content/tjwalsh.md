@@ -71,7 +71,6 @@ body {
   padding: 0 1rem; /* Adds left and right padding */
   max-width: 60rem;
   margin: 0 auto;
-  position: static;
 }
 
 .article-title {
