@@ -5,8 +5,18 @@ title: Research
 {{< card img="gallery/issue8/first_page.png" url="gallery/issue8/paper.pdf" >}}
 ###  Issue Eight
 
-{{< dropdown heading="**Authors**" >}}
-Aesthetics for the Public Good: The Fifth Amendment’s Takings Clause and Development Restriction Policies Thomas J. Walsh – The University of Alabama
+{{< dropdown heading="**Articles**" >}}
+**Aesthetics for the Public Good: The Fifth Amendment’s Takings Clause and Development Restriction Policies** 
+*Thomas J. Walsh – The University of Alabama*
+
+**All Deserve the Freedom to Love: A Case for the Legal Recognition of Polyamorous Relationships** 
+*Finn Helgesen – Middlebury College*
+
+**The AI-Authorship Copyright Question: How a Court Case and a Bureaucratic Decision Changed Intellectual Property Law** 
+*Adam Frank – Columbia University*
+
+**What to the Enslaved is the Right to Have Rights?** 
+*Crystal Foretia – Columbia University*
 {{< /dropdown >}}
 
 _Available [for download](gallery/isssue8/paper.pdf)._
