@@ -73,11 +73,18 @@ p {
 header {
   background-color: #311a4d;
   color: #ffffff;
-  display: float;
   position: sticky;
   top: 0;
   z-index: 999;
-  justify-content: space-between;
+  padding: 0.5rem 0; /* Remove side padding */
+}
+
+.header-content {
+  max-width: 60rem;
+  margin: auto; /* Centers content like the body text */
+  padding: 0 0.62rem; /* Matches body padding */
+  display: flex;
+  justify-content: start;
 }
 
 .nav-list {
