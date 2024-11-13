@@ -27,7 +27,11 @@ title: TJ Walsh
         <p>In Penn Central Transportation Company v. City of New York and Tahoe-Sierra Preservation Council, Inc. v. Tahoe Regional Planning Agency, arguments for the unconstitutionality of policies restricting development by the Fifth and Fourteenth Amendments were made. These cases feature the creation and implementation of policy evaluation criteria which would be situationally applied to find that legitimate public interest to preserve a distinct aesthetic outweighed the utility of economic development in cases deemed worthy by legislation.</p>
         <hr>
         <p>Introduction</p>
-        <p>As stated by the Takings Clause of the Fifth Amendment, it is not permissible that “private property be taken for public use, without just compensation”.<sup><a href="#fn1" class="footnote-link">1</a></sup> The Fourteenth Amendment extends these rights from the federal government to the states, establishing that it is likewise impermissible for “any State to deprive any person of life, liberty, or property, without due process of law.”<sup><a href="#fn2" class="footnote-link">2</a></sup> The Takings Clause specifies that one whose property is taken by the government for public use is entitled to just compensation, but it fails to specify further details regarding its implementation or capacities.<sup><a href="#fn3" class="footnote-link">3</a></sup></p>
+        <p>As stated by the Takings Clause of the Fifth Amendment, it is not permissible that “private property be taken for public use, without just compensation.”<sup><a href="#fn1" class="footnote-link">1</a></sup> The Fourteenth Amendment extends these rights from the federal government to the states, establishing that it is likewise impermissible for “any State to deprive any person of life, liberty, or property, without due process of law.”<sup><a href="#fn2" class="footnote-link">2</a></sup> The Takings Clause specifies that one whose property is taken by the government for public use is entitled to just compensation, but it fails to specify further details regarding its implementation or capacities.<sup><a href="#fn3" class="footnote-link">3</a></sup></p>
+
+        <p>For example, in Penn Central Transportation Co. v. City of New York,<sup><a href="#fn4" class="footnote-link">4</a></sup> the United States Supreme Court considered whether the imposition of a landmark preservation law violated the Takings Clause. The decision to restrict development based on aesthetic considerations was deemed not a “taking” under the law.<sup><a href="#fn5" class="footnote-link">5</a></sup></p>
+
+        <p>The Court’s decision emphasized the necessity of weighing the value of individual property rights against the broader public interest in preserving aesthetic landmarks. This case demonstrates how the public interest in aesthetics can sometimes outweigh property rights in economic development situations.<sup><a href="#fn6" class="footnote-link">6</a></sup></p>
       </article>
     </section>
 
@@ -44,6 +48,18 @@ title: TJ Walsh
       <div class="footnote" id="fn3">
         <p class="footnote-number">3</p>
         <p>Cornell Law School, “Fourteenth Amendment,” Legal Information Institute, https://www.law.cornell.edu/constitution/amendmentxiv. Accessed February 15, 2024.</p>
+      </div>
+      <div class="footnote" id="fn4">
+        <p class="footnote-number">4</p>
+        <p>Penn Central Transportation Co. v. City of New York, 438 U.S. 104 (1978). <i>U.S. Supreme Court</i>.</p>
+      </div>
+      <div class="footnote" id="fn5">
+        <p class="footnote-number">5</p>
+        <p>Ibid., <i>Penn Central Transportation Co. v. City of New York</i>.</p>
+      </div>
+      <div class="footnote" id="fn6">
+        <p class="footnote-number">6</p>
+        <p>U.S. Supreme Court, <i>Penn Central Transportation Co. v. City of New York</i>, 438 U.S. 104 (1978).</p>
       </div>
     </aside>
   </main>
