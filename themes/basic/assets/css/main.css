@@ -133,48 +133,55 @@ a {
   color: #500bff;
 }
 
+/* General Carousel Styling */
 .carousel {
   position: relative;
-  max-width: 60rem;
-  margin: 2rem auto;
+  width: 100%;
+  height: 75vh; /* Occupies a large portion of the viewport height */
   overflow: hidden;
-  border: 1px solid #ddd;
-  border-radius: 5px;
 }
 
 .carousel-inner {
   display: flex;
   transition: transform 0.5s ease-in-out;
+  height: 100%;
   width: 100%;
 }
 
 .carousel-item {
   min-width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
   box-sizing: border-box;
   padding: 2rem;
   text-align: center;
 }
 
 .carousel-item h2 {
-  font-size: 1.8rem;
+  font-size: 2.5rem;
   margin-bottom: 1rem;
 }
 
 .carousel-item p {
-  font-size: 1.2rem;
+  font-size: 1.4rem;
+  max-width: 60%;
 }
 
+/* Smaller Circular Navigation Controls */
 .carousel-control {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   background: rgba(0, 0, 0, 0.3);
   color: white;
   border: none;
   border-radius: 50%;
-  width: 2rem;
-  height: 2rem;
+  width: 1.5rem; /* Smaller size */
+  height: 1.5rem;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -187,24 +194,25 @@ a {
 }
 
 .carousel-control.left {
-  left: 10px;
+  left: 15px;
 }
 
 .carousel-control.right {
-  right: 10px;
+  right: 15px;
 }
 
+/* Smaller Carousel Indicators */
 .carousel-indicators {
   text-align: center;
   position: absolute;
-  bottom: 15px;
+  bottom: 20px;
   width: 100%;
 }
 
 .indicator {
   display: inline-block;
-  width: 8px;
-  height: 8px;
+  width: 6px; /* Smaller size */
+  height: 6px;
   margin: 0 3px;
   background-color: #bbb;
   border-radius: 50%;
