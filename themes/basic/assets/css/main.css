@@ -168,7 +168,7 @@ body {
 }
 
 .carousel-item {
-  width: 100%;
+  width: 100vw;
   padding: 2rem;
   box-sizing: border-box;
 }
