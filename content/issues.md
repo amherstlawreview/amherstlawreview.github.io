@@ -29,12 +29,46 @@ _Available [for download](gallery/isssue8/paper.pdf)._
 
 {{< /card >}}
 
-{{< card img="gallery/ftc/first_page.png" url="gallery/ftc/paper.pdf" >}}
-###  Policing Corporations: An Analysis of Big Tech
+{{< card img="gallery/issue7/first_page.png" url="gallery/issue7/paper.pdf" >}}
+###  Issue Seven
 
-Traced the recent shift in the government's antitrust strategy following the appointment of FTC Chair Lina Khan.
+Summer 2023
 
-_Available [for download](gallery/ftc/paper.pdf)._
+{{< dropdown heading="**Articles**" >}}
+**Climate-Based Asylum and Refugee Policy: The Problem and Possible Reforms** 
+
+*Amelia Miller | Tufts University ‘23*
+
+*Edited by Evan Lichman ‘23*
+
+**Discussions of Race in Public Education: The Politicization of Critical Race Theory & its Modern Implications**  
+
+*Alayna Vantine | Roger Williams University ‘22*
+
+*Edited by Antonia Brillembourg ‘25*
+
+**Fatal Lawyering: Ineffective Assistance of Counsel Claims as Lifelines for Death-Row Prisoners** 
+
+*Chloe Metz | Amherst College ‘23, University of Virginia School of Law ‘26*
+
+*Edited by Jaden Richards ‘25*
+
+**Analysis of the Minamata Convention on Mercury and its Effectiveness** 
+
+*Lara Kowalcyk | Wellesley College ‘24*
+
+*Edited by Sean Kim ‘25*
+
+**Prison Abolitionism and Consequentialism** 
+
+*Kai Smith | Tufts University ‘21*
+
+*Edited by Anika Graf ‘24*
+
+{{< /dropdown >}}
+
+_Available [for download](gallery/isssue7/paper.pdf)._
+
 {{< /card >}}
 
 {{< card img="gallery/fyse/first_page.png" url="gallery/fyse/paper.pdf" >}}
