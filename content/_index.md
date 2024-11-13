@@ -16,14 +16,14 @@ title: Home
   <div class="carousel">
     <div class="carousel-item active">
       <span class="carousel-tag"><a href="#articles">Articles</a></span>
-      <h2 class="carousel-title"><a href="#article1">The Future of Privacy Law in a Digital Age</a></h2>
-      <p class="carousel-author"><a href="#author1">Jane Doe</a></p>
-      <p class="carousel-blurb">This article explores the evolving legal landscape surrounding digital privacy, focusing on recent legislation and key court decisions.</p>
-      <p class="carousel-date">Published on March 1, 2023</p>
+      <h2 class="carousel-title"><a href="#article1">Aesthetics for the Public Good: The Fifth Amendment’s Takings Clause and Development Restriction Policies</a></h2>
+      <p class="carousel-author"><a href="#author1">Thomas J. Walsh – The University of Alabama</a></p>
+      <p class="carousel-blurb">The Takings Clause specifies that one whose property is taken by the government for public use is entitled to just compensation, but it fails to specify further details regarding its implementation. Chief among concerns of policymakers and property owners alike, the Takings Clause fails to specify how to determine whether an imposition by the government on one’s private property might constitute a compensable taking.</p>
+      <p class="carousel-date">Published on October 17, 2024</p>
       <div class="carousel-tags">
-        <a href="#privacy" class="tag">Privacy Law</a>
-        <a href="#technology" class="tag">Technology</a>
-        <a href="#legislation" class="tag">Legislation</a>
+        <a href="#conlaw" class="tag">Constitutional Law</a>
+        <a href="#propertylaw" class="tag">Property Law</a>
+        <a href="#envlaw" class="tag">Environmental Law</a>
       </div>
     </div>
     <!-- Additional carousel items with similar structure -->
