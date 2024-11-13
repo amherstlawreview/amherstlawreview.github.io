@@ -1,36 +1,4 @@
 <!DOCTYPE html>
-
-
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Amherst Law Review</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <header class="header">
-    <div class="title-section">
-      <h1 class="main-title">Amherst Law Review</h1>
-      <p class="subtitle">Interdisciplinary Journal of Legal Studies</p>
-    </div>
-    <nav class="menu-bar">
-      <ul class="nav-list">
-        <li><a href="#about">About</a></li>
-        <li><a href="#articles">Articles</a></li>
-        <li><a href="#contact">Contact</a></li>
-      </ul>
-    </nav>
-  </header>
-  <main>
-    <section class="content">
-      <!-- Main article content goes here -->
-    </section>
-  </main>
-  <script src="script.js"></script>
-</body>
-</html>
-
 <html lang="en">
     {{- partial "head.html" . -}}
     <body>
@@ -100,29 +68,6 @@ window.onclick = function(event) {
     document.getElementById('footnote-modal').style.display = 'none';
   }
 };
-
-        </script>
-
-        <script>
-          document.addEventListener('DOMContentLoaded', () => {
-  const titleSection = document.querySelector('.title-section');
-  const menuBar = document.querySelector('.menu-bar');
-  const scrollTrigger = 150; // Adjust the scroll distance where the menu becomes sticky
-
-  window.addEventListener('scroll', () => {
-    if (window.scrollY > scrollTrigger) {
-      // Hide the title section and make the menu sticky
-      titleSection.style.opacity = '0';
-      titleSection.style.visibility = 'hidden';
-      menuBar.classList.add('sticky');
-    } else {
-      // Restore the title section and remove sticky class
-      titleSection.style.opacity = '1';
-      titleSection.style.visibility = 'visible';
-      menuBar.classList.remove('sticky');
-    }
-  });
-});
 
         </script>
     </body>
