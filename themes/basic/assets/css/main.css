@@ -1,8 +1,7 @@
-div { max-width: 40rem; }
-
 body {
   margin: 1rem auto;
   padding: 0 0.62rem;
+  max-width: none;
   font-family: "Palatino Linotype", Palatino, serif;
   font-size: 1.2rem;
   line-height: 1.8rem;
