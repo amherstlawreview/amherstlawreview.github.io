@@ -59,13 +59,13 @@ body {
 }
 
 .article-title {
-  font-size: 2rem;
+  font-size: 1.6rem;
   margin: 0;
 }
 
 .author {
-  font-size: 1rem;
-  color: #666;
+  font-size: 0.8rem;
+  color: #FFFFFF;
 }
 
 main {
