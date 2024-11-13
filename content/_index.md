@@ -26,8 +26,6 @@ title: Home
         <a href="#envlaw" class="tag">Environmental Law</a>
       </div>
     </div>
-
-    <!-- New Carousel Item 2 -->
     <div class="carousel-item">
       <span class="carousel-tag"><a href="#articles">Articles</a></span>
       <h2 class="carousel-title"><a href="#article2">Digital Privacy in the Age of Surveillance: Re-evaluating the Fourth Amendment</a></h2>
@@ -40,8 +38,6 @@ title: Home
         <a href="#fourthamendment" class="tag">Fourth Amendment</a>
       </div>
     </div>
-
-    <!-- New Carousel Item 3 -->
     <div class="carousel-item">
       <span class="carousel-tag"><a href="#articles">Articles</a></span>
       <h2 class="carousel-title"><a href="#article3">Artificial Intelligence and Liability: Who Pays When Algorithms Make Mistakes?</a></h2>
