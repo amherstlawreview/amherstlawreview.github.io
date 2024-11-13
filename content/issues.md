@@ -2,7 +2,13 @@
 title: Research
 ---
 
+{{< card img="gallery/issue8/first_page.png" url="gallery/issue8/paper.pdf" >}}
+###  Issue Eight
 
+Traced the recent shift in the government's antitrust strategy following the appointment of FTC Chair Lina Khan.
+
+_Available [for download](gallery/isssue8/paper.pdf)._
+{{< /card >}}
 
 {{< card img="gallery/ftc/first_page.png" url="gallery/ftc/paper.pdf" >}}
 ###  Policing Corporations: An Analysis of Big Tech
