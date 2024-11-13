@@ -31,8 +31,6 @@ _Available [for download](gallery/isssue8/paper.pdf)._
 
 {{< card img="gallery/issue7/first_page.png" url="gallery/issue7/paper.pdf" >}}
 
-<div class="line"></div>
-
 ###  Issue Seven
 
 Summer 2023
