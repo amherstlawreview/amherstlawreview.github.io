@@ -140,7 +140,7 @@ aside.footnotes {
   color: #aaa;
   float: right;
   font-size: 1.5rem;
-  font-weight: normal;
+  font-weight: bold;
   cursor: pointer;
 }
 
