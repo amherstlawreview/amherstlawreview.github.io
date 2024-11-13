@@ -5,6 +5,8 @@ title: Research
 {{< card img="gallery/issue8/first_page.png" url="gallery/issue8/paper.pdf" >}}
 ###  Issue Eight
 
+Fall 2023 & Spring 2024
+
 {{< dropdown heading="**Articles**" >}}
 **Aesthetics for the Public Good: The Fifth Amendment’s Takings Clause and Development Restriction Policies** 
 
