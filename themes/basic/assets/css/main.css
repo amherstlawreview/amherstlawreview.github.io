@@ -46,15 +46,20 @@ p {
   background-color: #3f1f69;
   color: #ffffff;
   position: sticky;
-  padding: 20px;
-  text-align: left; /* Aligns content to the left */
+  padding: 20px 0; /* Remove side padding */
   border-bottom: 1px solid #ddd;
+}
+
+.hero-bar-content {
+  max-width: 60rem;
+  margin: auto; /* Centers content like the body text */
+  padding: 0 0.62rem; /* Matches body padding */
+  text-align: left;
 }
 
 .hero-bar h1,
 .hero-bar p {
   margin: 0;
-  padding-left: 0; /* Ensures they align flush to the left */
 }
 
 .hero-bar h1 {
