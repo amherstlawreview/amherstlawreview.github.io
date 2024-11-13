@@ -205,7 +205,7 @@ body {
 }
 
 .carousel-tags {
-  margin-top: 0.5rem;
+  margin-top: 0.25rem;
 }
 
 .carousel-tags .tag {
@@ -240,7 +240,7 @@ body {
 
 .carousel-indicators {
   position: absolute;
-  bottom: 1rem;
+  bottom: 0.5rem;
   width: 100%;
   text-align: center;
 }
