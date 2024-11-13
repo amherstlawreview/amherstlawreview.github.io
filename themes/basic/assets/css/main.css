@@ -52,11 +52,13 @@ p {
 }
 
 .hero-bar h1 {
+  left: 150px;
   margin: 0;
   font-size: 1.8em;
 }
 
 .hero-bar p {
+  left: 150px;
   margin: 0;
   font-size: 0.7em;
 }
