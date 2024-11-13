@@ -20,7 +20,7 @@ title: TJ Walsh
     <section class="content">
       <article>
         <p>As stated by the Takings Clause of the Fifth Amendment, it is not permissible that
-“private property be taken for public use, without just compensation”.<sup><a href="#fn1" class="footnote-link">1</a></sup><sup><a href="#fn2" class="footnote-link">2</a></sup></p>
+“private property be taken for public use, without just compensation”.<sup><a href="#fn1" class="footnote-link">1</a></sup> <sup><a href="#fn2" class="footnote-link">2</a></sup></p>
       </article>
       
       <!-- Right Side Footnotes -->
