@@ -24,6 +24,11 @@ title: TJ Walsh
         <p>As stated by the Takings Clause of the Fifth Amendment, it is not permissible that “private property be taken for public use, without just compensation”.<sup><a href="#fn1" class="footnote-link">1</a></sup> <sup><a href="#fn2" class="footnote-link">2</a></sup> The Fourteenth Amendment extends these rights from the federal government to the states, establishing that it is likewise impermissible for “any State to deprive any person of life, liberty, or property, without due process of law.” The Takings Clause specifies that one whose property is taken by the government for public use is entitled to just compensation, but it fails to specify further details regarding its implementation or capacities. Chief among concerns of policymakers and property owners alike, the Takings Clause fails to specify how to determine whether an imposition by the government on one’s private property might constitute a compensable taking.</p>
         <p>
         In <em>Penn Central Transportation Company v. City of New York</em> and <em>Tahoe-Sierra Preservation Council, Inc. v. Tahoe Regional Planning Agency</em>, arguments for the unconstitutionality of policies restricting development by the Fifth and Fourteenth Amendments were made. In each case, it was found that no taking was committed by the government in imposing these restrictions. These cases feature the creation and implementation of policy evaluation criteria, which would be situationally applied to find that legitimate public interest to preserve a distinct aesthetic outweighed the utility of economic development in cases deemed worthy by legislation. </p>
+<br>
+  <h3><em>Penn Central Transportation Company v. City of New York3</em></h3>
+<br>
+<p>In 1978, the Court of Appeals of New York ruled on a case in which the Penn Central Transportation Company appealed a decision by New York City to restrict development atop a site which had been designated a “landmark”. This case, Penn Central Transportation Company v. City of New York, challenged whether the city’s restrictions on development atop Penn Central’s property, Grand Central Terminal, constituted a compensable taking as guaranteed by the Fifth and Fourteenth Amendments.
+</p>
       </article>
       
       <!-- Right Side Footnotes -->
