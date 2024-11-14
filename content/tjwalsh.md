@@ -132,7 +132,7 @@ body {
   padding: 0;
   background-color: #f8f8f8;
   color: #333;
-  line-height: 1.6;
+  line-height: 1.3;
 }
 
 .article-header {
