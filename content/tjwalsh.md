@@ -132,7 +132,7 @@ body {
   padding: 0;
   background-color: #f8f8f8;
   color: #333;
-  line-height: 1.3;
+  line-height: 1.5;
 }
 
 .article-header {
@@ -176,6 +176,7 @@ aside.footnotes {
 
 .footnote-link {
   color: #0077cc;
+  font-size: 0.9rem;
   text-decoration: none;
   cursor: pointer;
 }
