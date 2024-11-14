@@ -21,9 +21,9 @@ title: TJ Walsh
   <main>
     <section class="content">
       <article>
-        <p>As stated by the Takings Clause of the Fifth Amendment, it is not permissible that “private property be taken for public use, without just compensation”.<sup><a href="#fn1" class="footnote-link">1</a></sup> <sup><a href="#fn2" class="footnote-link">2</a></sup> The Fourteenth Amendment extends these rights from the federal government to the states, establishing that it is likewise impermissible for “any State to deprive any person of life, liberty, or property, without due process of law.”<sup><a href="#fn3" class="footnote-link">3</a></sup> The Takings Clause specifies that one whose property is taken by the government for public use is entitled to just compensation, but it fails to specify further details regarding its implementation or capacities.<sup><a href="#fn4" class="footnote-link">4</a></sup> Chief among concerns of policymakers and property owners alike, the Takings Clause fails to specify how to determine whether an imposition by the government on one’s private property might constitute a compensable taking.</p>
+        <p>As stated by the Takings Clause of the Fifth Amendment, it is not permissible that “private property be taken for public use, without just compensation”.<sup><a href="#fn1" class="footnote-link">1</a></sup> <sup><a href="#fn2" class="footnote-link">2</a></sup> The Fourteenth Amendment extends these rights from the federal government to the states, establishing that it is likewise impermissible for “any State to deprive any person of life, liberty, or property, without due process of law.”<sup><a href="#fn3" class="footnote-link">3</a></sup> The Takings Clause specifies that one whose property is taken by the government for public use is entitled to just compensation, but it fails to specify further details regarding its implementation or capacities.<sup><a href="#fn4" class="footnote-link">4</a></sup><sup><a href="#fn5" class="footnote-link">5</a></sup> Chief among concerns of policymakers and property owners alike, the Takings Clause fails to specify how to determine whether an imposition by the government on one’s private property might constitute a compensable taking.</p>
         <p>
-        In <em>Penn Central Transportation Company v. City of New York</em> and <em>Tahoe-Sierra Preservation Council, Inc. v. Tahoe Regional Planning Agency</em>, arguments for the unconstitutionality of policies restricting development by the Fifth and Fourteenth Amendments were made. In each case, it was found that no taking was committed by the government in imposing these restrictions. These cases feature the creation and implementation of policy evaluation criteria, which would be situationally applied to find that legitimate public interest to preserve a distinct aesthetic outweighed the utility of economic development in cases deemed worthy by legislation. </p>
+        In <em>Penn Central Transportation Company v. City of New York</em> and <em>Tahoe-Sierra Preservation Council, Inc. v. Tahoe Regional Planning Agency</em>, arguments for the unconstitutionality of policies restricting development by the Fifth and Fourteenth Amendments were made.<sup><a href="#fn6" class="footnote-link">6</a></sup><sup><a href="#fn7" class="footnote-link">7</a></sup> In each case, it was found that no taking was committed by the government in imposing these restrictions. These cases feature the creation and implementation of policy evaluation criteria, which would be situationally applied to find that legitimate public interest to preserve a distinct aesthetic outweighed the utility of economic development in cases deemed worthy by legislation. </p>
 
   <h3><em>Penn Central Transportation Company v. City of New York</em></h3>
 
@@ -65,6 +65,15 @@ This ruling established the precedent that laws restricting the alteration of ex
         </div>
         <div id="fn4" class="footnote-summary">
           <span class="footnote-number">4</span> US Department of Housing and Urban Development, “Eminent Domain.” Accessed February 15, 2024.
+        </div>
+        <div id="fn5" class="footnote-summary">
+          <span class="footnote-number">5</span> US Department of Justice, “Fifth Amendment Takings Law.” Accessed February 15, 2024.
+        </div>
+        <div id="fn6" class="footnote-summary">
+          <span class="footnote-number">6</span> <em>Penn Central Transportation Co. v. City of New York</em>, 438 US 104 (1978).
+        </div>
+        <div id="fn7" class="footnote-summary">
+          <span class="footnote-number">7</span> <em>Tahoe-Sierra Preservation Council, Inc. v. Tahoe Regional Planning Agency</em>, 535 US 302 (2002).
         </div>
         </div>
       </aside>
