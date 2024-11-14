@@ -8,7 +8,7 @@ title: Research
 Fall 2023 & Spring 2024
 
 {{< dropdown heading="**Articles**" >}}
-[**Aesthetics for the Public Good: The Fifth Amendment’s Takings Clause and Development Restriction Policies**](content/tjwalsh.md) 
+[**Aesthetics for the Public Good: The Fifth Amendment’s Takings Clause and Development Restriction Policies**](tjwalsh) 
 
 *Thomas J. Walsh – The University of Alabama*
 
