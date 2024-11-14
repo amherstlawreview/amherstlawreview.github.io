@@ -25,7 +25,7 @@ title: TJ Walsh
       </article>
       
       <!-- Right Side Footnotes -->
-      <aside class="footnotes">
+  <aside class="footnotes">
         <div id="fn1" class="footnote-summary">
           <span class="footnote-number">1</span> Cornell Law School, “Takings,” Legal Information Institute, https://www.law.cornell.edu/wex/takings. Accessed February 15, 2024.
         </div>
