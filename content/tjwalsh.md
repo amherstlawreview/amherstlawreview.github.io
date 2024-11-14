@@ -187,6 +187,7 @@ aside.footnotes {
 }
 
 .footnote-number {
+  font-size: 0.9rem;
   font-weight: bold;
   color: #333;
 }
