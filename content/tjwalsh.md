@@ -33,7 +33,7 @@ title: TJ Walsh
 The Grand Central Terminal was designated a landmark by the New York City Landmarks Preservation Committee on August 2, 1967.<sup><a href="#fn10" class="footnote-link">10</a></sup> This action followed the adoption of the Landmarks Preservation Law in 1965, also known as the “Landmarks Law,” which sought to foster “civic pride in the beauty and noble accomplishments of the past” through the protection of important cultural and historical landmarks in the city.<sup><a href="#fn11" class="footnote-link">11</a></sup> This law would require that the owner of a landmark keep the building’s exterior in “good repair,” and alterations to their exterior must be approved by the Landmarks Preservation Commission. The law’s creation and adoption were based upon widespread agreement among the city’s residents and leaders that implementing such a program would yield greater economic benefits to New York than the development it would restrict.<sup><a href="#fn12" class="footnote-link">12</a></sup> A 1968 ordinance gave owners of landmark sites opportunities for transferring development rights to nearby parcels, thus mitigating damages to property owners caused by the Landmarks Law.<sup><a href="#fn13" class="footnote-link">13</a></sup>
 </p>
 <p>
-In January 1968, Penn Central entered into a 50-year lease with UGP Properties, Inc. Under the terms of the lease, UGP was to construct a large office building above the Grand Central Terminal. UGP was to pay a substantial lease fee to Penn Central annually during and after construction of the building. Two building plans, one being a 55-story office building to be built atop the terminal and another 53-story building which required significant alterations to the building’s facades for construction atop the terminal, were submitted to the Landmarks Preservation Commission. In September 1968, the Commission denied a certificate of no exterior effect. Appellants applied for certificates of appropriateness for the two proposed plans, which resulted in four days of hearings with over 80 witnesses; these applications were also denied.
+In January 1968, Penn Central entered into a 50-year lease with UGP Properties, Inc. Under the terms of the lease, UGP was to construct a large office building above the Grand Central Terminal.<sup><a href="#fn14" class="footnote-link">14</a></sup> UGP was to pay a substantial lease fee to Penn Central annually during and after construction of the building. Two building plans, one being a 55-story office building to be built atop the terminal and another 53-story building which required significant alterations to the building’s facades for construction atop the terminal, were submitted to the Landmarks Preservation Commission. In September 1968, the Commission denied a certificate of no exterior effect.<sup><a href="#fn15" class="footnote-link">15</a></sup> Appellants applied for certificates of appropriateness for the two proposed plans, which resulted in four days of hearings with over 80 witnesses; these applications were also denied.
 </p>
 <p>
 Penn Central did not pursue a judicial review of these denied certificate applications, nor did they attempt to develop an alternative to the proposed building plans which might be deemed more suitable an alteration to the Grand Central Terminal. Instead, they filed suit in the New York Supreme Court. The appellants asserted that the city had taken their property with neither just compensation nor due process, thus violating rights guaranteed to them by the Fifth and Fourteenth Amendments.
@@ -48,7 +48,7 @@ In considering the appellants’ assertion that the city had committed a compens
 This ruling established the precedent that laws restricting the alteration of existing property do not, on their own, constitute a compensable taking of property. If continued operation and monetary return on investment following development restrictions on a property are unaffected by said restrictions, it is permissible for a government to impose these restrictions without compensation afforded to property owners. Two years after this ruling, in 1980, the state of New York passed its State Historic Preservation Act and established the State Register of Historic Places.
 </p>
 <p>
-<em>Penn Central v. City of New York</em> set forth a procedure which established a precedent for ad hoc policy evaluation, demonstrating that unique circumstances around a policy’s enactment ought to be evaluated in comparable cases. <em>Seawall Associates v. City of New York</em> used a similar approach to Penn Central to determine that the city had gone beyond its legal limits to restrict development of single-room occupancy properties. <em>Society for Ethical Culture v. Spatt</em> applied the <em>Penn Central v. City of New York</em> method to determine that a religious building’s designation under the Landmarks Law was valid so long as the free exercise of religion was not impeded, thus reversing a previous ruling.
+<em>Penn Central v. City of New York</em> set forth a procedure which established a precedent for ad hoc policy evaluation, demonstrating that unique circumstances around a policy’s enactment ought to be evaluated in comparable cases.<sup><a href="#fn16" class="footnote-link">16</a></sup> <em>Seawall Associates v. City of New York</em> used a similar approach to Penn Central to determine that the city had gone beyond its legal limits to restrict development of single-room occupancy properties.<sup><a href="#fn17" class="footnote-link">17</a></sup> <em>Society for Ethical Culture v. Spatt</em> applied the <em>Penn Central v. City of New York</em> method to determine that a religious building’s designation under the Landmarks Law was valid so long as the free exercise of religion was not impeded, thus reversing a previous ruling.<sup><a href="#fn18" class="footnote-link">18</a></sup>
 </p>
       </article>
       
@@ -91,6 +91,21 @@ This ruling established the precedent that laws restricting the alteration of ex
         </div>
         <div id="fn13" class="footnote-summary">
           <span class="footnote-number">13</span> New York City Buildings, “1968 Building Code of the City of New York,” https://www.nyc.gov/site/buildings/codes/1968-construction-codes.page. Accessed February 18, 2024.
+        </div>
+        <div id="fn14" class="footnote-summary">
+          <span class="footnote-number">14</span> “Excerpt from Justice Brennan’s Opinion for the Court,” <em>The Bridge – Harvard University</em>, https://cyber.harvard.edu/bridge/LawEconomics/1978penn.htm. Accessed February 19, 2024.
+        </div>
+        <div id="fn15" class="footnote-summary">
+          <span class="footnote-number">15</span> “Certificate of No Effect,” New York City Landmarks Preservation Committee, https://www.nyc.gov/site/lpc/applications/certificate-of-no-effect.page. Accessed February 19, 2024.
+        </div>
+        <div id="fn16" class="footnote-summary">
+          <span class="footnote-number">16</span> Siedel, George, “Landmarks Preservation After Penn Central,” Real Property, Probate, and Trust Journal, Summer 1982, https://www.jstor.org/stable/20781603?seq=9.
+        </div>
+        <div id="fn17" class="footnote-summary">
+          <span class="footnote-number">17</span> <em>Seawall Associates v. City of New York</em>, 74 F. Supp. 2d 109 (SDNY 1999).
+        </div>
+        <div id="fn18" class="footnote-summary">
+          <span class="footnote-number">18</span> <em>Society of Ethical Culture v. Spatt</em>, 68 F. 3d 1 (2d Cir. 1995).
         </div>
         </div>
       </aside>
