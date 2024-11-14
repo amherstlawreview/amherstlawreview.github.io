@@ -39,7 +39,7 @@ title: TJ Walsh
           <span class="footnote-number">4</span> US Department of Housing and Urban Development, “Eminent Domain.” Accessed February 15, 2024.
         </div>
         <div id="fn5" class="footnote-summary">
-          <span class="footnote-number">5</span> US Department of Justice, “Fifth Amendment Takings Law,” https://www.justice.gov/enrd/natural-resources-section/fifth-amendment-takings-law#:~:text=Also%20known%20as%20the%20%22Takings,the%20payment%20of%20just%20compensation. Accessed February 15, 2024.
+          <span class="footnote-number">5</span> US Department of Justice, “Fifth Amendment Takings Law,” https://www.justice.gov/enrd/natural-resources-sectionfifth-amendment-takings-law#:~:text=Also%20known%20as%20the%20%22Takingsthe%20payment%20of%20just%20compensation. Accessed February 15, 2024.
         </div>
       </aside>
     </section>
