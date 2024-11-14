@@ -27,10 +27,10 @@ title: TJ Walsh
 
   <h3><em>Penn Central Transportation Company v. City of New York</em></h3>
 
-<p>In 1978, the Court of Appeals of New York ruled on a case in which the Penn Central Transportation Company appealed a decision by New York City to restrict development atop a site which had been designated a “landmark”. This case, Penn Central Transportation Company v. City of New York, challenged whether the city’s restrictions on development atop Penn Central’s property, Grand Central Terminal, constituted a compensable taking as guaranteed by the Fifth and Fourteenth Amendments.
+<p>In 1978, the Court of Appeals of New York ruled on a case in which the Penn Central Transportation Company appealed a decision by New York City to restrict development atop a site which had been designated a “landmark”.<sup><a href="#fn9" class="footnote-link">9</a></sup> This case, <em>Penn Central Transportation Company v. City of New York</em>, challenged whether the city’s restrictions on development atop Penn Central’s property, Grand Central Terminal, constituted a compensable taking as guaranteed by the Fifth and Fourteenth Amendments.
 </p>
 <p>
-The Grand Central Terminal was designated a landmark by the New York City Landmarks Preservation Committee on August 2, 1967. This action followed the adoption of the Landmarks Preservation Law in 1965, also known as the “Landmarks Law,” which sought to foster “civic pride in the beauty and noble accomplishments of the past” through the protection of important cultural and historical landmarks in the city. This law would require that the owner of a landmark keep the building’s exterior in “good repair,” and alterations to their exterior must be approved by the Landmarks Preservation Commission. The law’s creation and adoption were based upon widespread agreement among the city’s residents and leaders that implementing such a program would yield greater economic benefits to New York than the development it would restrict. A 1968 ordinance gave owners of landmark sites opportunities for transferring development rights to nearby parcels, thus mitigating damages to property owners caused by the Landmarks Law.
+The Grand Central Terminal was designated a landmark by the New York City Landmarks Preservation Committee on August 2, 1967.<sup><a href="#fn10" class="footnote-link">10</a></sup> This action followed the adoption of the Landmarks Preservation Law in 1965, also known as the “Landmarks Law,” which sought to foster “civic pride in the beauty and noble accomplishments of the past” through the protection of important cultural and historical landmarks in the city.<sup><a href="#fn11" class="footnote-link">11</a></sup> This law would require that the owner of a landmark keep the building’s exterior in “good repair,” and alterations to their exterior must be approved by the Landmarks Preservation Commission. The law’s creation and adoption were based upon widespread agreement among the city’s residents and leaders that implementing such a program would yield greater economic benefits to New York than the development it would restrict.<sup><a href="#fn12" class="footnote-link">12</a></sup> A 1968 ordinance gave owners of landmark sites opportunities for transferring development rights to nearby parcels, thus mitigating damages to property owners caused by the Landmarks Law.<sup><a href="#fn13" class="footnote-link">13</a></sup>
 </p>
 <p>
 In January 1968, Penn Central entered into a 50-year lease with UGP Properties, Inc. Under the terms of the lease, UGP was to construct a large office building above the Grand Central Terminal. UGP was to pay a substantial lease fee to Penn Central annually during and after construction of the building. Two building plans, one being a 55-story office building to be built atop the terminal and another 53-story building which required significant alterations to the building’s facades for construction atop the terminal, were submitted to the Landmarks Preservation Commission. In September 1968, the Commission denied a certificate of no exterior effect. Appellants applied for certificates of appropriateness for the two proposed plans, which resulted in four days of hearings with over 80 witnesses; these applications were also denied.
@@ -77,6 +77,20 @@ This ruling established the precedent that laws restricting the alteration of ex
         </div>
         <div id="fn8" class="footnote-summary">
           <span class="footnote-number">8</span> Bell, Abraham, “Private Takings,” Yale Law School, 2007, https://law.yale.edu/sites/default/files/documents/pdf/Intellectual_Life/LEO_Bell_Private_Takings.pdf.
+        </div>
+        <div id="fn9" class="footnote-summary">
+          <span class="footnote-number">9</span> Landmarks Preservation Commission, “LP-0266,” August 2, 1967, http://s-media.nyc.gov/agencies/lpc/lp/0266.pdf.
+        <div id="fn10" class="footnote-summary">
+          <span class="footnote-number">10</span> New York City Administrative Code, “Landmarks Preservation and Historic Districts,” https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-133896. Accessed February 16, 2024.
+        </div>
+        <div id="fn11" class="footnote-summary">
+          <span class="footnote-number">11</span> “Development Rights Transfer in New York City,” The Yale Law Journal, December 1972, https://www.jstor.org/stable/795117.
+        </div>
+        <div id="fn12" class="footnote-summary">
+          <span class="footnote-number">12</span> “About LPC,” New York City Landmarks Preservation Committee. Accessed February 18, 2024.
+        </div>
+        <div id="fn13" class="footnote-summary">
+          <span class="footnote-number">13</span> New York City Buildings, “1968 Building Code of the City of New York,” https://www.nyc.gov/site/buildings/codes/1968-construction-codes.page. Accessed February 18, 2024.
         </div>
         </div>
       </aside>
