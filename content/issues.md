@@ -12,15 +12,15 @@ Fall 2023 & Spring 2024
 
 *Thomas J. Walsh – The University of Alabama*
 
-**All Deserve the Freedom to Love: A Case for the Legal Recognition of Polyamorous Relationships** 
+[**All Deserve the Freedom to Love: A Case for the Legal Recognition of Polyamorous Relationships**](helgesen) 
 
 *Finn Helgesen – Middlebury College*
 
-**The AI-Authorship Copyright Question: How a Court Case and a Bureaucratic Decision Changed Intellectual Property Law** 
+[**The AI-Authorship Copyright Question: How a Court Case and a Bureaucratic Decision Changed Intellectual Property Law**](frank) 
 
 *Adam Frank – Columbia University*
 
-**What to the Enslaved is the Right to Have Rights?** 
+[**What to the Enslaved is the Right to Have Rights?**](foretia) 
 
 *Crystal Foretia – Columbia University*
 {{< /dropdown >}}
