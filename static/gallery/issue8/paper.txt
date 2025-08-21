@@ -1,0 +1,3823 @@
+    Amherst College Law
+         Review
+
+
+
+
+Volume VIII
+Fall 2023 & Spring 2024
+                          Amherst College Law Review: Issue VIII
+
+
+                                      Editor’s Note
+
+
+       We are pleased to present the Amherst College Law Review’s eighth issue. During
+our semester in Fall 2023, we welcomed many new members and had rich discussions
+about the many articles we received. We also welcomed guest speakers, Miriam
+Becker-Cohen ’11, Mirah Curzer ’08, and Jennifer Astrada ’08, who offered an
+invaluable perspective on careers, legal questions, and their time at Amherst College.
+       We would like to extend congratulations to our editorial board and contributors for
+their hard work in putting this publication together. We would like to give a special
+thanks to Camille who took over the publication for the spring semester while we were
+studying abroad. We do hope that you enjoy this issue, and we welcome any comments,
+feedback, or submissions to aclawreview@amherst.edu.
+
+
+       Cheers,
+       Antonia Brillembourg and Sean Kim
+       Co-Editors-in-Chief of the Amherst College Law Review, Fall 2023
+
+
+
+
+       To echo Sean and Antonia’s note, the 2023-2024 academic year was an excellent
+year for our Law Review. We received a diverse selection of compelling articles that
+prompted thought-provoking debates, and enjoyed working with our authors throughout
+the editing process. Thank you, all, for your valuable contributions and hard work! I look
+forward to seeing what this next year of the Law Review will bring.
+
+
+       Best,
+       Camille Shilland
+       Editor-in-Chief of the Amherst College Law Review, Spring 2024
+
+
+
+
+                                             2
+                         Amherst College Law Review: Issue VIII
+
+
+
+
+                                  Editorial Board
+                Antonia Brillembourg ‘25 – Co-Editor-in-Chief, Fall
+                      Sean Kim ‘25 – Co-Editor-in-Chief, Fall
+                   Camille Shilland ‘25 – Editor-in-Chief, Spring
+                        Jaden Richards ‘25 – Articles Editor
+                        Amelia Cogan ‘24 – Articles Editor
+                         Noa Costom ‘24 – Articles Editor
+                          Avery Cook ‘24 – Articles Editor
+                     Julia Morgan-Canales ‘24 – Articles Editor
+
+
+                               Statement of Purpose
+      The Amherst College Law Review (ACLR) was born out of the desire to
+foster undergraduate scholarship in the liberal arts. Among our peers, the ACLR
+stands alone for its interdisciplinary approach to the study of law.
+      Given the ever-changing nature of our society, students of law encounter a
+host of new, troubling, and intriguing questions including, but not limited to,
+increasing inequality, salience of technology, and neoliberal globalization. These
+questions cannot be fully posed, much less answered, within the scope of
+conventional legal training and/or the traditional social sciences.
+      The mission of the ACLR is to pose these questions and to strive to answer
+them with the nuance, clarity, probity, and rigor provided by the liberal arts
+tradition. This journal brings the best scholarship of the contemporary humanities
+to bear on the most difficult and urgent juridical problems of our time.
+
+
+
+
+                                           3
+                         Amherst College Law Review: Issue VIII
+
+
+
+
+                              Submission Information
+       The Amherst College Law Review accepts electronic submissions at:
+                             aclawreview@amherst.edu
+Please read the full Submission Format Guidelines information prior to submitting
+                                     your paper.
+                    https://aclawreview.com/format-guidelines/
+
+
+
+
+Disclaimer: Academic freedom, the scholarly pursuit of knowledge, and the free
+expression of opinion are at the heart of institutions of higher education, including
+Amherst College. Consistent with those views, The Amherst College Law Review
+is published by students of Amherst College. The content of and views expressed
+in the articles published, however, are solely the responsibility of the individual
+authors and do not necessarily reflect the views or policy of the Law Review, its
+editorial board, the Amherst College Department of Law, Jurisprudence, and Social
+Thought, or the Faculty, Administration, and Trustees of Amherst College.
+All articles are the property of the Amherst College Law Review and may not
+be copied or reproduced without express written consent of the journal.
+Copyright 2024
+
+
+
+
+                                           4
+                    Amherst College Law Review: Issue VIII
+
+
+
+Table of Contents
+
+
+Aesthetics for the Public Good: The Fifth
+Amendment’s Takings Clause and Development
+Restriction Policies
+Thomas J. Walsh – The University of Alabama
+                                                             2
+
+All Deserve the Freedom to Love: A Case for the
+Legal Recognition of Polyamorous Relationships
+Finn Helgesen – Middlebury College
+                                                             20
+
+The AI-Authorship Copyright Question: How a
+Court Case and a Bureaucratic Decision Changed
+Intellectual Property Law
+Adam Frank – Columbia University
+                                                             38
+
+What to the Enslaved is the Right to Have
+Rights?
+Crystal Foretia – Columbia Unviersity
+                                                             49
+                                      5
+                                 Amherst College Law Review: Issue VIII
+
+
+Aesthetics for the Public Good: The Fifth Amendment’s Takings
+Clause and Development Restriction Policies
+
+Thomas J. Walsh
+The University of Alabama – Class of 2025
+
+Abstract
+        As stated by the Takings Clause of the Fifth Amendment, it is impermissible that “private
+property be taken for public use, without just compensation.” The Fourteenth Amendment
+extends these rights from the federal government to the states, establishing that it is likewise
+impermissible for “any State to deprive any person of life, liberty, or property, without due
+process of law.” The Takings Clause specifies that one whose property is taken by the
+government for public use is entitled to just compensation, but it fails to specify further details
+regarding its implementation. Chief among concerns of policymakers and property owners alike,
+the Takings Clause fails to specify how to determine whether an imposition by the government
+on one’s private property might constitute a compensable taking.
+        In Penn Central Transportation Company v. City of New York and Tahoe-Sierra
+Preservation Council, Inc. v. Tahoe Regional Planning Agency, arguments for the
+unconstitutionality of policies restricting development by the Fifth and Fourteenth Amendments
+were made. These cases feature the creation and implementation of policy evaluation criteria
+which would be situationally applied to find that legitimate public interest to preserve a distinct
+aesthetic outweighed the utility of economic development in cases deemed worthy by legislation.
+
+
+
+Introduction
+
+        As stated by the Takings Clause of the Fifth Amendment, it is not permissible that
+
+“private property be taken for public use, without just compensation”.1,2 The Fourteenth
+
+Amendment extends these rights from the federal government to the states, establishing that it is
+
+likewise impermissible for “any State to deprive any person of life, liberty, or property, without
+
+due process of law.”3 The Takings Clause specifies that one whose property is taken by the
+
+1
+  Cornell Law School, “Takings,” Legal Information Institute, https://www.law.cornell.edu/wex/takings. Accessed
+February 15, 2024.
+2
+  Cornell Law School, “Fifth Amendment,” Legal Information Institute,
+https://www.law.cornell.edu/constitution/fifth_amendment. Accessed February 15, 2024.
+3
+  Cornell Law School, “Fourteenth Amendment,” Legal Information Institute,
+https://www.law.cornell.edu/constitution/amendmentxiv. Accessed February 15, 2024.
+
+                                                        6
+                               Amherst College Law Review: Issue VIII
+
+government for public use is entitled to just compensation, but it fails to specify further details
+
+regarding its implementation or capacities.4,5 Chief among concerns of policymakers and
+
+property owners alike, the Takings Clause fails to specify how to determine whether an
+
+imposition by the government on one’s private property might constitute a compensable taking.
+
+        In Penn Central Transportation Company v. City of New York and Tahoe-Sierra
+
+Preservation Council, Inc. v. Tahoe Regional Planning Agency, arguments for the
+
+unconstitutionality of policies restricting development by the Fifth and Fourteenth Amendments
+
+were made.6,7 In each case, it was found that no taking was committed by the government in
+
+imposing these restrictions. These cases feature the creation and implementation of policy
+
+evaluation criteria, which would be situationally applied to find that legitimate public interest to
+
+preserve a distinct aesthetic outweighed the utility of economic development in cases deemed
+
+worthy by legislation.8
+
+
+
+
+4
+  US Department of Housing and Urban Development, “Eminent Domain.” Accessed February 15, 2024.
+5
+  US Department of Justice, “Fifth Amendment Takings Law,”
+https://www.justice.gov/enrd/natural-resources-section/fifth-amendment-takings-law#:~:text=Also%20known%20as
+%20the%20%22Takings,the%20payment%20of%20just%20compensation. Accessed February 15, 2024.
+6
+  Penn Central Transportation Co. v. City of New York, 438 US 104 (1978).
+7
+  Tahoe-Sierra Preservation Council, Inc. v. Tahoe Regional Planning Agency, 535 US 302 (2002).
+8
+  Bell, Abraham, “Private Takings,” Yale Law School, 2007,
+https://law.yale.edu/sites/default/files/documents/pdf/Intellectual_Life/LEO_Bell_Private_Takings.pdf.
+
+                                                     7
+                               Amherst College Law Review: Issue VIII
+
+Penn Central Transportation Company v. City of New York
+
+
+
+        In 1978, the Court of Appeals of New York ruled on a case in which the Penn Central
+
+Transportation Company appealed a decision by New York City to restrict development atop a
+
+site which had been designated a “landmark”.9 This case, Penn Central Transportation Company
+
+v. City of New York, challenged whether the city’s restrictions on development atop Penn
+
+Central’s property, Grand Central Terminal, constituted a compensable taking as guaranteed by
+
+the Fifth and Fourteenth Amendments.
+
+        The Grand Central Terminal was designated a landmark by the New York City
+
+Landmarks Preservation Committee on August 2, 1967.10 This action followed the adoption of
+
+the Landmarks Preservation Law in 1965, also known as the “Landmarks Law,” which sought to
+
+foster “civic pride in the beauty and noble accomplishments of the past” through the protection
+
+of important cultural and historical landmarks in the city.11 This law would require that the owner
+
+of a landmark keep the building’s exterior in “good repair,” and alterations to their exterior must
+
+be approved by the Landmarks Preservation Commission. The law’s creation and adoption were
+
+based upon widespread agreement among the city’s residents and leaders that implementing such
+
+a program would yield greater economic benefits to New York than the development it would
+
+restrict.12 A 1968 ordinance gave owners of landmark sites opportunities for transferring
+
+
+
+
+9
+  Landmarks Preservation Commission, “LP-0266,” August 2, 1967,
+http://s-media.nyc.gov/agencies/lpc/lp/0266.pdf.
+10
+   New York City Administrative Code, “Landmarks Preservation and Historic Districts,”
+https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-133896. Accessed February 16, 2024.
+11
+   “Development Rights Transfer in New York City,” The Yale Law Journal, December 1972,
+https://www.jstor.org/stable/795117.
+12
+   “About LPC,” New York City Landmarks Preservation Committee,
+https://www.nyc.gov/site/lpc/about/about-lpc.page#:~:text=The%20Landmarks%20Preservation%20Commission%2
+0is,%2C%20most%20notably%2C%20Pennsylvania%20Station. Accessed February 18, 2024.
+
+                                                    8
+                                 Amherst College Law Review: Issue VIII
+
+development rights to nearby parcels, thus mitigating damages to property owners caused by the
+
+Landmarks Law.13
+
+        In January 1968, Penn Central entered into a 50-year lease with UGP Properties, Inc.
+
+Under the terms of the lease, UGP was to construct a large office building above the Grand
+
+Central Terminal.14 UGP was to pay a substantial lease fee to Penn Central annually during and
+
+after construction of the building. Two building plans, one being a 55-story office building to be
+
+built atop the terminal and another 53-story building which required significant alterations to the
+
+building’s facades for construction atop the terminal, were submitted to the Landmarks
+
+Preservation Commission. In September 1968, the Commission denied a certificate of no exterior
+
+effect.15 Appellants applied for certificates of appropriateness for the two proposed plans, which
+
+resulted in four days of hearings with over 80 witnesses; these applications were also denied.
+
+        Penn Central did not pursue a judicial review of these denied certificate applications, nor
+
+did they attempt to develop an alternative to the proposed building plans which might be deemed
+
+more suitable an alteration to the Grand Central Terminal. Instead, they filed suit in the New
+
+York Supreme Court. The appellants asserted that the city had taken their property with neither
+
+just compensation nor due process, thus violating rights guaranteed to them by the Fifth and
+
+Fourteenth Amendments.
+
+        In considering the appellants’ assertion that they had been denied due process, the Court
+
+considered several conditions. Due process would not be violated if use of property as it had
+
+been before the government’s imposition was still permitted; the appellants had failed to prove
+
+that they were unable to earn a reasonable return on their investment in a property as-is; if the
+13
+   New York City Buildings, “1968 Building Code of the City of New York,”
+https://www.nyc.gov/site/buildings/codes/1968-construction-codes.page. Accessed February 18, 2024.
+14
+   “Excerpt from Justice Brennan’s Opinion for the Court,” The Bridge – Harvard University,
+https://cyber.harvard.edu/bridge/LawEconomics/1978penn.htm. Accessed February 19, 2024.
+15
+   “Certificate of No Effect,” New York City Landmarks Preservation Committee,
+https://www.nyc.gov/site/lpc/applications/certificate-of-no-effect.page. Accessed February 19, 2024.
+
+                                                        9
+                             Amherst College Law Review: Issue VIII
+
+property in question was unable to make a reasonable return on investment, the appellants’
+
+profits from nearby holdings could be partially attributed to a property; and the transferrable
+
+nature of lost development rights above a property provided just compensation for the
+
+appellants’ loss of said development rights. After an ad hoc evaluation of each condition, the
+
+Court ruled that Penn Central was not denied due process as prohibited by the Fourteenth
+
+Amendment. The lack of interference with existing business operations and viability of
+
+continued return on real estate investment led them to conclude that due process had not been
+
+violated. The Court also makes a pertinent assertion that Penn Central was provided viable
+
+alternatives for earning the financial returns projected from their proposed development at the
+
+Grand Central Terminal, such as creating a different design to build atop the terminal or
+
+appealing the commission’s decision, but they did not pursue these alternatives.
+
+       In considering the appellants’ assertion that the city had committed a compensable taking
+
+without just compensation in violation of the Fifth Amendment, the Court considered several
+
+other conditions. First, not all government actions that restrict economic values constitute a
+
+taking. As such, an understanding of the circumstances around an alleged taking is required to
+
+determine whether a compensable taking has occurred. Diminution in property value resulting
+
+from zoning laws cannot, on its own, establish a taking. A zoning law which exclusively restricts
+
+modification of existing property features does not restrict airspace above the property, nor does
+
+it restrict gainful development of other portions of the property. If a zoning law which does not
+
+interfere with continued operation or revenue gains from a property and allows for development
+
+rights to be transferred to other properties, then such a law reasonably mitigates financial
+
+burdens imposed upon a property owner by said zoning law. The New York Court of Appeals
+
+ruled that the city’s application of its Landmarks Law did not constitute a compensable taking.
+
+
+
+                                                 10
+                                 Amherst College Law Review: Issue VIII
+
+As such, the Court held that the application of the Landmarks Law to the Penn Central
+
+Transportation Company’s Grand Central Terminal did not constitute an unjust taking of the
+
+company’s property as prohibited by the Fifth Amendment.
+
+        This ruling established the precedent that laws restricting the alteration of existing
+
+property do not, on their own, constitute a compensable taking of property. If continued
+
+operation and monetary return on investment following development restrictions on a property
+
+are unaffected by said restrictions, it is permissible for a government to impose these restrictions
+
+without compensation afforded to property owners. Two years after this ruling, in 1980, the state
+
+of New York passed its State Historic Preservation Act and established the State Register of
+
+Historic Places.
+
+        Penn Central v. City of New York set forth a procedure which established a precedent for
+
+ad hoc policy evaluation, demonstrating that unique circumstances around a policy’s enactment
+
+ought to be evaluated in comparable cases.16 Seawall Associates v. City of New York used a
+
+similar approach to Penn Central to determine that the city had gone beyond its legal limits to
+
+restrict development of single-room occupancy properties.17 Society for Ethical Culture v. Spatt
+
+applied the Penn Central v. City of New York method to determine that a religious building’s
+
+designation under the Landmarks Law was valid so long as the free exercise of religion was not
+
+impeded, thus reversing a previous ruling.18
+
+
+
+Tahoe-Sierra Preservation Council, Inc. v. Tahoe Regional Planning Agency
+
+
+
+
+16
+   Siedel, George, “Landmarks Preservation After Penn Central,” Real Property, Probate, and Trust Journal,
+Summer 1982, https://www.jstor.org/stable/20781603?seq=9.
+17
+   Seawall Associates v. City of New York, 74 F. Supp. 2d 109 (SDNY 1999).
+18
+   Society of Ethical Culture v. Spatt, 68 F. 3d 1 (2d Cir. 1995).
+
+                                                       11
+                                Amherst College Law Review: Issue VIII
+
+        In January 2002, the Supreme Court heard arguments on the case of Tahoe-Sierra
+
+Preservation Council, Inc. v. Tahoe Regional Planning Agency.19 The arguments presented by the
+
+Tahoe-Sierra Preservation Council, representing roughly 2,000 landowners near Lake Tahoe in
+
+Nevada and California, asserted that a compensable taking had been committed by the bi-state
+
+Tahoe Regional Planning Agency, and they had not been justly compensated for such a taking.
+
+The alleged taking came as a result of temporary moratoria restricting property development in
+
+the agency’s jurisdiction was temporarily halted.20
+
+        Lake Tahoe, nestled in the Sierra Nevada Mountains along the border between Nevada
+
+and California, is known worldwide as a major tourist destination due to its natural beauty. In
+
+addition to the alpine scenery surrounding the lake, the water in Lake Tahoe has been noted for
+
+being extraordinarily clear and blue.21,22 However, land development beginning in roughly 1960
+
+throughout the Lake Tahoe Basin had led to deterioration of the picturesque water noted in
+
+earlier accounts of the lake. In response to elevated levels of algae and pollution in the lake,
+
+Nevada and California gained approval from Congress and the President to enact the 1980 Tahoe
+
+Regional Planning Compact.23
+
+        The Compact required the adoption by the Tahoe Regional Planning Agency (TRPA) of
+
+new standards for air quality, water quality, soil conservation, vegetation preservation, and noise.
+
+The Compact prohibited the development of new subdivisions, condominiums, and apartment
+19
+   Tahoe Sierra Preservation Council, Inc. v. Tahoe Regional Planning Agency, 535 US 302 (2002).
+20
+   Fox, Tedra, “Lake Tahoe’s Temporary Development Moratorium: Why a Stitch in Time Should Not Define the
+Property Interest in a Takings Claim,” Ecology Law Quarterly, June 2006,
+https://lawcat.berkeley.edu/record/1117764?ln=en.
+21
+   University of California, Davis, “Tahoe: State of the Lake Report 2015,” Tahoe Environmental Research Center,
+https://tahoe.ucdavis.edu/sites/g/files/dgvnsk4286/files/inline-files/2_exec_summary.pdf. Accessed February 21,
+2024.
+22
+   Sonner, Scott, “This US Lake is Overrun By Tourists, Jolting the Region Into Managing Huge Crowds,” USA
+Today, July 24, 2023,
+https://www.usatoday.com/story/travel/destinations/2023/07/24/lake-tahoe-busy-tourist-crowds/70455636007/#:~:te
+xt=Roughly%20one%2Dthird%20the%20size,around%2015%20million%20each%20year.
+23
+   Tahoe Regional Planning Agency, “Bi-State Compact,” https://www.trpa.gov/regional-plan/bi-state-compact/.
+Accessed February 22, 2024.
+
+                                                      12
+                                 Amherst College Law Review: Issue VIII
+
+buildings; all cities and counties within the Lake Tahoe Basin were also subject to restricted
+
+quantities of building permits from 1981 to 1983.24 The first moratorium, Ordinance 81-5, would
+
+become effective in the summer of 1981, but the region would fail to meet the thresholds
+
+required by the Compact. An additional resolution in 1983, Resolution 83-21, would impose
+
+another 8-month moratorium on all construction on sensitive lands in the Basin.25 In 1984 and
+
+1987, again, construction on sensitive lands in the Basin would be temporarily prohibited.26,27
+
+        Following the adoption of the 1984 plan, petitioners filed parallel actions in federal courts
+
+in Nevada and California. These would be consolidated and tried in Nevada. The group of
+
+petitioners was comprised of the Tahoe-Sierra Preservation Council, representing roughly 2,000
+
+landowners and more than 400 individual owners of vacant lots throughout the impacted region.
+
+The individual owners in the class had purchased properties prior to the effective date of the
+
+1980 Compact. Following litigation spanning multiple decades, the Supreme Court heard an
+
+appeal of the case following hearings by the District Court and, subsequently, the Court of
+
+Appeals. At each level, the precedent set by Penn Central was referenced for its circumstantial
+
+and adaptable approach to evaluating whether a governmental action constituted a taking.
+
+        The District Court, imitating Penn Central’s approach, evaluated the intent and
+
+circumstances surrounding the TRPA’s temporary moratoria.28 By the Penn Central precedent, a
+
+combination of factors must be considered, namely the interference imposed by regulations on
+
+
+
+24
+   Tahoe Regional Planning Agency, “TRPA Governing Board Packets,” December 1981,
+https://www.trpa.gov/wp-content/uploads/documents/archive/1981-DECEMBER.pdf.
+25
+   Tahoe Regional Planning Agency, “TRPA Governing Board Packets,” September 1983,
+https://www.trpa.gov/wp-content/uploads/documents/archive/1983-SEPTEMBER.pdf.
+26
+   Tahoe Regional Planning Agency, “Environmental Impact for Adoption of a Regional Plan for the Lake Tahoe
+Basin,” April 17, 1986,
+https://www.trpa.gov/wp-content/uploads/documents/archive/TRPA_Regional_Plan_Supp_EIS_1984.pdf.
+27
+   Tahoe Regional Planning Agency, “TRPA Governing Board Packets,” July 1987,
+https://www.trpa.gov/wp-content/uploads/documents/archive/1987-JULY.pdf.
+28
+   Tahoe-Sierra Preservation Council, Inc. v. Tahoe Regional Planning Agency, 34 F. Supp. 2d 1226 (D. Nev. 1999).
+
+                                                       13
+                                 Amherst College Law Review: Issue VIII
+
+“reasonable investment-backed expectations.”29 The Court concluded that land purchasers “did
+
+not have reasonable, investment-backed expectations that they would be able to build
+
+single-family homes on their land within the six-year period involved in this lawsuit” given that
+
+the “average holding time of a lot in the Tahoe area between lot purchase and home construction
+
+[was] twenty-five years.” As such, it was illogical to conclude that the average individual
+
+represented by the Council had intentions and expectations of achieving the development they
+
+claimed would have taken place upon their property in the relatively short time where moratoria
+
+restricted development in the basin. The District Court also considered Lucas v. South Carolina
+
+Coastal Council, concluding that a taking was committed under the categorical rule used in the
+
+case.30 Lucas was a legal battle over the construction of a luxurious beach home near Charleston
+
+which was halted by coastal development regulations, and the Supreme Court ruled South
+
+Carolina’s actions unconstitutional.
+
+        However, an appeal by the TRPA to the Ninth Circuit Court challenged whether Lucas’
+
+rule applied.31 The Ninth Circuit Court would rule that Lucas applied only in the event that a
+
+regulation permanently denies all economically productive use of a tract of land. The moratoria
+
+in Penn Central, instead, denied development only temporarily. The Circuit Court also ruled that
+
+another case cited, First English Evangelical Lutheran Church v. Los Angeles County, only
+
+concerned whether monetary compensation was a proper remedy for a taking, and it did not
+
+concern whether or not a taking had occurred.32 The Court ruled that Penn Central’s ad hoc
+
+approach to analyzing whether a taking had occurred was the proper framework for such a case,
+
+and the petitioners could not make a claim of a taking under the Lucas approach.
+29
+   Washburn, Robert, “’Reasonable Investment-backed Expectations’ As a Factor in Defining Property Interest,”
+Journal of Urban and Contemporary Law, January 1996,
+https://openscholarship.wustl.edu/cgi/viewcontent.cgi?article=1090&context=law_urbanlaw
+30
+   Lucas v. South Carolina Coastal Council, 505 US 1003 (1992).
+31
+   Tahoe Sierra Preservation Council, Inc. v. Tahoe Regional Planning Agency, 216 F.3d 764 (9th Cir. 2000).
+32
+   First English Evangelical Lutheran Church v. Los Angeles County, 482 US 304 (1987).
+
+                                                       14
+                              Amherst College Law Review: Issue VIII
+
+        The Supreme Court, hearing the case after a further appeal by the petitioners, held that
+
+the “moratoria ordered by TRPA are not per se takings of property requiring compensation under
+
+the Takings Clause.” Per se takings involve a physical taking of property by the government, and
+
+just compensation is required when the government executes such a physical intrusion onto
+
+private property.33 In an evaluation of the case in the style of Penn Central, similar to that of
+
+Palazzolo v. Rhode Island, the Court found that a permanent deprivation of economic use had not
+
+occurred.34 The Court found that “‘fairness and justice’ will not be better served by a categorical
+
+rule that any deprivation of economic use, no matter how brief, constitutes a compensable
+
+taking.” Essentially, it was determined that the moratoria were justified and fair due to their
+
+distribution of burden about many parties and the temporary nature of the moratoria. Moreover,
+
+the Supreme Court wished to avoid the precedent of any temporary development restrictions
+
+being ruled a compensable taking requiring substantial financial resources to be distributed to
+
+any affected parties in the future. To set such a precedent would incentivize policymakers to
+
+avoid such development restrictions entirely, and this would likely lead to a lack of regulations
+
+advocating for the public interest in development restrictions. This could result in negative and
+
+unexpected consequences as motivated parties would have a legal precedent to halt any
+
+development limitation policies. Negative externalities could proliferate as litigious actors could
+
+easily oppose and halt initiatives serving the public good, such as preventing conservation
+
+easements.35
+
+
+
+
+33
+   Echeverria, John, “What Is a Physical Taking?” UC Davis Law Review, December 2020,
+https://lawreview.law.ucdavis.edu/archives/54/2/what-physical-taking.
+34
+   Palazzolo v. Rhode Island, 533 US 606 (2001).
+35
+   McLaughlin, Nancy, “Enforcing Conservation Easements: The Through Line,” Georgetown Environmental Law
+Review, 2022,
+https://www.law.georgetown.edu/environmental-law-review/wp-content/uploads/sites/18/2022/11/GT-GELR220023.
+pdf.
+
+                                                   15
+                               Amherst College Law Review: Issue VIII
+
+           The conclusion in Tahoe-Sierra applied rules and criteria developed for ascertaining
+
+whether a taking had been committed in Penn Central. The Tahoe-Sierra case purposely avoided
+
+establishing a new precedent for hearing similar cases in the future, unlike the preceding Penn
+
+Central or Kelo v. New London.36 The latter case set a controversial precedent in establishing that
+
+the government could take property and sell it to private developers while still serving the
+
+“public good,” opposing many contemporary ideas about usage under eminent domain.
+
+Tahoe-Sierra continues to be cited by analyses of modern legal and political issues, such as the
+
+government’s response to the COVID-19 pandemic, but its strategic avoidance of setting a
+
+radical new precedent has lent itself to fewer citations in case law than many contemporary
+
+cases.37
+
+
+
+Combined Analysis
+
+           Penn Central finds that the government is able to restrict economic development in order
+
+to maintain aesthetic value integral to a locale’s major attraction. Additionally, it determines that
+
+legislature deeming such aesthetic appearance more valuable than economic development was
+
+sufficient for legal permissibility of economic development restrictions. The case deals with the
+
+preservation of Grand Central Terminal’s aesthetic beauty, attracting visitors and tourists due to
+
+its ornate craftsmanship and distinctive architecture. Legislation enacted by New York City
+
+determined that the appearance and attractive qualities of Grand Central Terminal outweighed
+
+the value of economic development atop the structure. The Court upheld the constitutionality of
+
+the legislation due to the specific circumstances of the legal dispute, and their decision was made
+
+
+36
+  Kelo v. City of New London, 545 US 469 (2005).
+37
+  Wulf, Henry, “Inverse Condemnation and Government Pandemic Response,” Casetext, May 22, 2020,
+https://casetext.com/analysis/inverse-condemnation-and-government-pandemic-response-1?sort=relevance&results
+Nav=false&q=.
+
+                                                     16
+                             Amherst College Law Review: Issue VIII
+
+strategically so as to ensure that the result would provide beneficial guidance on deciding future
+
+cases of a similar nature.
+
+       Similarly, Tahoe-Sierra finds that the government is able to restrict economic
+
+development in order to maintain aesthetic value integral to a locale’s major attraction.
+
+Additionally, it determines that moratoria deeming such aesthetic appearance more valuable than
+
+economic development served a purpose sufficient for legal permissibility of economic
+
+development restrictions. The case deals with the preservation of aesthetic beauty, attracting
+
+visitors and tourists due to its uniquely beautiful water and grandiose alpine surroundings.
+
+Temporary development moratoria enacted in the Lake Tahoe Basin were based on a
+
+determination that the appearance and attractive qualities of Lake Tahoe outweighed the value of
+
+economic development atop the land surrounding the lake. Like in Penn Central, the Court
+
+upheld the constitutionality of the legislation due to the specific circumstances of the legal
+
+dispute, and their decision was made strategically so as to ensure that the result would avoid
+
+potential harm caused by the precedent of overcompensation for temporary restrictions.
+
+       Penn Central sought to maintain an aesthetic of man-made grandeur and Tahoe-Sierra
+
+sought to maintain a natural landscape which purposely lacks man-made objects. Despite the
+
+opposite settings of each case, their respective rulings jointly find that preservation of either
+
+man-made or natural beauty can be of such great value that they are worth halting economic
+
+development which might diminish them. Moreover, the Court defers to the decision-making
+
+capacity of legislators and policymakers in each case, saying of the Landmarks Law in Penn
+
+Central it was “enacted on the basis of legislative judgment that the preservation of landmarks
+
+benefits the citizenry both economically and by improving the overall quality of life.” This
+
+
+
+
+                                                  17
+                            Amherst College Law Review: Issue VIII
+
+sentiment is mirrored by the Court in Tahoe-Sierra, contending that “such an important change in
+
+the law should be the product of legislative rulemaking rather than adjudication.”
+
+        By analyzing both these cases in parallel, we can ascertain a broad series of specific
+
+circumstances and attitudes which could be useful in determining the constitutionality of
+
+uncompensated protection of aesthetic beauty through economic restrictions.
+
+
+   1. If economic development restrictions are temporary in nature, do not conflict with
+
+       preexisting economic functions, and do not actively alter the behavior of the average
+
+       property owner affected, it is likely that these restrictions do not constitute a compensable
+
+       taking.
+
+   2. If aesthetic appearance serves a beneficial purpose to the public in generating economic,
+
+       cultural, and tourism value, it is likely that economic development restrictions which
+
+       protect this aesthetic value serve the public interest, and are thus within the government’s
+
+       capacity to enact.
+
+   3. When a legislature determines that the aforementioned aesthetic appearance is worthy of
+
+       enacting broad economic development restrictions, the Court is often deferential towards
+
+       this policy judgment.
+
+   4. The unique economic and cultural circumstances regarding an alleged unconstitutional
+
+       taking are the most important factor in determining the constitutionality of the policy
+
+       action. This may involve evaluation of diminution of value or alteration of intended use.
+
+
+   It is noteworthy, however, that these rules are made to apply in cases where aesthetic
+
+appearance, not environmental conservation or some other end, are the basis for legal action.
+
+This list of conditions may not be exhaustive. Additionally, the subjective and circumstantial
+
+
+
+                                                18
+                               Amherst College Law Review: Issue VIII
+
+nature of evaluating an alleged unconstitutional taking make it impossible to create a perfect test
+
+of factors used to determine the constitutionality of economic development policy. Inverse
+
+condemnation, a remedy for property owners from whom property is taken without substantial
+
+government interests or wherein economic value from property is deprived, may be granted in
+
+opposition to the conditions above should the individual members of a particular court disagree
+
+with the methodology used in previous cases.38
+
+        It is likely that cases of this ilk will be seen in the coming years. In exclusive suburban
+
+areas of the United States facing skyrocketing housing costs and mounting political pressure,
+
+such as Marin County, CA, Oakland County, MI, and Fairfax County, VA, construction
+
+restrictions have been enacted to preserve exclusivity while often citing aesthetic appearance as a
+
+justification for such actions.39,40,41 Minimum lot sizes, for example, are often implemented with
+
+the express purpose of restricting housing supply.42 It has long been known that “income
+
+clustering,” wherein housing restrictions group people of similar incomes near one another, has
+
+come from strict rules on housing development.43 Directly resulting from these restrictions,
+
+socioeconomically disadvantaged individuals have often been priced out of purchasing or renting
+
+housing in these counties and others like them.
+
+        However, the tides of progressive political thought through the college-educated
+
+upper-middle class and upper class have brought such restrictions under fire. The state of
+38
+   Cornell Law School, “Inverse Condemnation,” Legal Information Institute,
+https://www.law.cornell.edu/wex/inverse_condemnation. Accessed February 26, 2024.
+39
+   Foley, Brian, “The Effects of Residential Minimum Lot Size Zoning on Land Development: The Case of Oakland
+County, Michigan,” AgEcon Search, 2004, https://ageconsearch.umn.edu/record/11169/.
+40
+   California Housing Partnership, “Marin County 2023 Housing Needs Report,” May 2023,
+https://chpc.net/resources/marin-county-housing-need-report-2023/.
+41
+   Fairfax County, Virginia, “Communitywide Strategic Housing Plan,” June 2018,
+https://www.fairfaxcounty.gov/housing/sites/housing/files/assets/documents/communitywide%20housing%20strateg
+ic%20plan/communitywide%20housing%20strategic%20plan%20final.pdf.
+42
+   Zhao, Weihua, “The Long-Run Effects of Minimum Lot Size Zoning on Housing Redevelopment,” Journal of
+Housing Economics, March 2022, https://doi.org/10.1016/j.jhe.2021.101806.
+43
+   Neiman, Max, “Zoning Policy, Income Clustering, and Suburban Change,” Social Science Quarterly 61 666-675
+(1980), December 1980, http://www.jstor.org/stable/42860778.
+
+                                                     19
+                                Amherst College Law Review: Issue VIII
+
+Washington, for example, recently eased its strict housing construction restrictions.44 Suffering
+
+from rapidly increasing housing costs throughout the state, Washington deemed that construction
+
+restrictions had needlessly prevented construction of housing for low- and middle-earning
+
+individuals which could provide a higher quality of life to the state’s residents. Washington has
+
+long held its natural beauty and cleanliness in high regard, but the value of equitable housing
+
+policies for its residents had begun to outweigh the relative value of protecting the vistas in and
+
+around their metropolitan areas. Of course, this leads to the conclusion that aesthetic beauty may
+
+be protected by restrictions put forth by the legislature, but restrictions may be loosened at the
+
+expense of aesthetic beauty, according to the needs of a constituency. Minneapolis, Minnesota
+
+eliminated single-family zoning restrictions, but saw success hampered by other housing
+
+restrictions even as new apartment buildings sprung up throughout the city.45 As such, it is most
+
+accurate to view aesthetic beauty as an economic good, itself, with its own level of value subject
+
+to the needs and desires of stakeholders.
+
+        Given that aesthetic appearance can be thought of as an economic good, implying that it
+
+has some sort of quantifiable value, it is presumable that further legal challenges could arise as
+
+prospective builders and property managers will challenge economic restrictions on their
+
+development projects similar to those of Penn Central or Tahoe-Sierra. If the value of economic
+
+development to a community or region outweighs the costs of such activity, including the loss of
+
+preexisting aesthetic beauty, we can expect that stakeholders may take legal action to loosen
+
+restrictions. In these situations, the reasonability of investment-backed expectations and the
+
+validity of building restrictions as an item in the public’s interest will come into question.
+
+
+44
+  HB-110, 2023, Washington State Legislature.
+45
+  Hanley, Allison, “Rethinking Zoning to Increase Affordable Housing,” Journal of Housing and Community
+Development, December 22, 2023,
+https://nahro.org/journal_article/rethinking-zoning-to-increase-affordable-housing/.
+
+                                                     20
+                               Amherst College Law Review: Issue VIII
+
+Though these hypothetical cases may often deal with neither breathtaking natural beauty nor
+
+world-renowned architecture, the conditions and principles ascertained from rulings in these
+
+cases should serve as a very broad guide for legal challenges moving forward.
+
+
+
+Conclusion
+
+          Penn Central Transportation Company v. City of New York and Tahoe-Sierra
+
+Preservation Council, Inc. v. Tahoe Regional Planning Agency set precedents and methodologies
+
+for evaluating economic development restrictions for the purpose of preserving valuable
+
+aesthetic appearance. The methods created and implemented in these cases will likely continue to
+
+provide a road map for evaluating a broad swath of ever-evolving property law rulings, policies,
+
+and legislation through the lens of the Fifth and Fourteenth Amendments.46 Cases such as Tyler v.
+
+Hennepin County continue to build upon the methods set forth in Penn Central and
+
+Tahoe-Sierra.47 Further evolution of legal thought around economic development and inverse
+
+condemnation ought to be guided by precedent set by Penn Central and Tahoe-Sierra, especially
+
+regarding sociopolitical issues such as the ongoing US housing crisis.48 Though not limited to
+
+this issue, it is possible that these two cases hold the key to unlocking a proper legal basis upon
+
+which more equitable housing policies can be enacted throughout the United States in the near
+
+future.
+
+
+
+
+46
+   Byrne, J. Peter, “Penn Central in Retrospect: The Past and Future of Historic Preservation Regulation,”
+Georgetown Environmental Law Review, 2021,
+https://scholarship.law.georgetown.edu/cgi/viewcontent.cgi?article=3464&context=facpub.
+47
+   Tyler v. Hennepin County, 598 US 631 (2023).
+48
+   American Civil Liberties Union, “Explanation of How Eminent Domain Can Be Used to Restore the Real Estate
+market and the Financial System Without the Adverse Consequences to the Current Holders of the Condemned
+Mortgages,
+https://www.aclu.org/wp-content/uploads/document/12-Paper_entitled_How_Eminent_Domain_Can_Be_Used_to_
+Restore_the_Real_Estate_Market.pdf. Accessed March 3, 2024.
+
+                                                     21
+                            Amherst College Law Review: Issue VIII
+
+                                         Bibliography
+
+“About LPC,” New York City Landmarks Preservation Committee,
+        https://www.nyc.gov/site/lpc/about/about-lpc.page#:~:text=The%20Landmarks%20Prese
+        rvation%20Commission%20is,%2C%20most%20notably%2C%20Pennsylvania%20Stati
+        on. Accessed February 18, 2024.
+American Civil Liberties Union, “Explanation of How Eminent Domain Can Be Used to Restore
+        the Real Estate market and the Financial System Without the Adverse Consequences to
+        the Current Holders of the Condemned Mortgages,
+        https://www.aclu.org/wp-content/uploads/document/12-Paper_entitled_How_Eminent_D
+        omain_Can_Be_Used_to_Restore_the_Real_Estate_Market.pdf. Accessed March 3,
+        2024.
+Bell, Abraham, “Private Takings,” Yale Law School, 2007,
+        https://law.yale.edu/sites/default/files/documents/pdf/Intellectual_Life/LEO_Bell_Private
+        _Takings.pdf.
+Byrne, J. Peter, “Penn Central in Retrospect: The Past and Future of Historic Preservation
+        Regulation,” Georgetown Environmental Law Review, 2021,
+        https://scholarship.law.georgetown.edu/cgi/viewcontent.cgi?article=3464&context=facpu
+        b.
+California Housing Partnership, “Marin County 2023 Housing Needs Report,” May 2023,
+        https://chpc.net/resources/marin-county-housing-need-report-2023/.
+“Certificate of No Effect,” New York City Landmarks Preservation Committee,
+        https://www.nyc.gov/site/lpc/applications/certificate-of-no-effect.page. Accessed
+        February 19, 2024.
+Cornell Law School, “Fifth Amendment,” Legal Information Institute,
+        https://www.law.cornell.edu/constitution/fifth_amendment. Accessed February 15, 2024.
+Cornell Law School, “Fourteenth Amendment,” Legal Information Institute,
+        https://www.law.cornell.edu/constitution/amendmentxiv. Accessed February 15, 2024.
+Cornell Law School, “Inverse Condemnation,” Legal Information Institute,
+        https://www.law.cornell.edu/wex/inverse_condemnation. Accessed February 26, 2024.
+Cornell Law School, “Takings,” Legal Information Institute,
+        https://www.law.cornell.edu/wex/takings. Accessed February 15, 2024.
+“Development Rights Transfer in New York City,” The Yale Law Journal, December 1972,
+        https://www.jstor.org/stable/795117.
+Echeverria, John, “What Is a Physical Taking?” UC Davis Law Review, December 2020,
+        https://lawreview.law.ucdavis.edu/archives/54/2/what-physical-taking.
+“Excerpt from Justice Brennan’s Opinion for the Court,” The Bridge – Harvard University,
+        https://cyber.harvard.edu/bridge/LawEconomics/1978penn.htm. Accessed February 19,
+        2024.
+Fairfax County, Virginia, “Communitywide Strategic Housing Plan,” June 2018,
+        https://www.fairfaxcounty.gov/housing/sites/housing/files/assets/documents/communityw
+
+                                               22
+                           Amherst College Law Review: Issue VIII
+
+        ide%20housing%20strategic%20plan/communitywide%20housing%20strategic%20plan
+        %20final.pdf.
+First English Evangelical Lutheran Church v. Los Angeles County, 482 US 304 (1987).
+Foley, Brian, “The Effects of Residential Minimum Lot Size Zoning on Land Development: The
+        Case of Oakland County, Michigan,” AgEcon Search, 2004,
+        https://ageconsearch.umn.edu/record/11169/.
+Fox, Tedra, “Lake Tahoe’s Temporary Development Moratorium: Why a Stitch in Time Should
+        Not Define the Property Interest in a Takings Claim,” Ecology Law Quarterly, June 2006,
+        https://lawcat.berkeley.edu/record/1117764?ln=en.
+Hanley, Allison, “Rethinking Zoning to Increase Affordable Housing,” Journal of Housing and
+        Community Development, December 22, 2023,
+        https://nahro.org/journal_article/rethinking-zoning-to-increase-affordable-housing/.
+Kelo v. City of New London, 545 US 469 (2005).
+Landmarks Preservation Commission, “LP-0266,” August 2, 1967,
+        http://s-media.nyc.gov/agencies/lpc/lp/0266.pdf.
+Lucas v. South Carolina Coastal Council, 505 US 1003 (1992).
+McLaughlin, Nancy, “Enforcing Conservation Easements: The Through Line,” Georgetown
+        Environmental Law Review, 2022,
+        https://www.law.georgetown.edu/environmental-law-review/wp-content/uploads/sites/18/
+        2022/11/GT-GELR220023.pdf.
+Neiman, Max, “Zoning Policy, Income Clustering, and Suburban Change,” Social Science
+        Quarterly 61 666-675 (1980), December 1980, http://www.jstor.org/stable/42860778.
+        HB-110, 2023, Washington State Legislature.
+New York City Administrative Code, “Landmarks Preservation and Historic Districts,”
+        https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-133896.
+        Accessed February 16, 2024.
+New York City Buildings, “1968 Building Code of the City of New York,”
+        https://www.nyc.gov/site/buildings/codes/1968-construction-codes.page. Accessed
+        February 18, 2024.
+Palazzolo v. Rhode Island, 533 US 606 (2001).
+Penn Central Transportation Co. v. City of New York, 438 US 104 (1978).
+Seawall Associates v. City of New York, 74 F. Supp. 2d 109 (SDNY 1999).
+Siedel, George, “Landmarks Preservation After Penn Central,” Real Property, Probate, and
+        Trust Journal, Summer 1982, https://www.jstor.org/stable/20781603?seq=9.
+Society of Ethical Culture v. Spatt, 68 F. 3d 1 (2d Cir. 1995).
+Sonner, Scott, “This US Lake is Overrun By Tourists, Jolting the Region Into Managing Huge
+        Crowds,” USA Today, July 24, 2023,
+        https://www.usatoday.com/story/travel/destinations/2023/07/24/lake-tahoe-busy-tourist-cr
+        owds/70455636007/#:~:text=Roughly%20one%2Dthird%20the%20size,around%2015%
+        20million%20each%20year.
+
+
+                                              23
+                            Amherst College Law Review: Issue VIII
+
+Tahoe Regional Planning Agency, “Bi-State Compact,”
+        https://www.trpa.gov/regional-plan/bi-state-compact/. Accessed February 22, 2024.
+Tahoe Regional Planning Agency, “Environmental Impact for Adoption of a Regional Plan for
+        the Lake Tahoe Basin,” April 17, 1986,
+        https://www.trpa.gov/wp-content/uploads/documents/archive/TRPA_Regional_Plan_Sup
+        p_EIS_1984.pdf.
+Tahoe Regional Planning Agency, “TRPA Governing Board Packets,” December 1981,
+        https://www.trpa.gov/wp-content/uploads/documents/archive/1981-DECEMBER.pdf.
+Tahoe Regional Planning Agency, “TRPA Governing Board Packets,” September 1983,
+        https://www.trpa.gov/wp-content/uploads/documents/archive/1983-SEPTEMBER.pdf.
+Tahoe Regional Planning Agency, “TRPA Governing Board Packets,” July 1987,
+        https://www.trpa.gov/wp-content/uploads/documents/archive/1987-JULY.pdf.
+Tahoe-Sierra Preservation Council, Inc. v. Tahoe Regional Planning Agency, 34 F. Supp. 2d
+        1226 (D. Nev. 1999).
+Tahoe Sierra Preservation Council, Inc. v. Tahoe Regional Planning Agency, 216 F.3d 764 (9th
+        Cir. 2000).
+Tahoe-Sierra Preservation Council, Inc. v. Tahoe Regional Planning Agency, 535 US 302(2002).
+Tyler v. Hennepin County, 598 US 631 (2023).
+University of California, Davis, “Tahoe: State of the Lake Report 2015,” Tahoe Environmental
+        Research Center,
+        https://tahoe.ucdavis.edu/sites/g/files/dgvnsk4286/files/inline-files/2_exec_summary.pdf.
+        Accessed February 21, 2024.
+US Department of Housing and Urban Development, “Eminent Domain.” Accessed February 15,
+        2024.
+US Department of Justice, “Fifth Amendment Takings Law,”
+        https://www.justice.gov/enrd/natural-resources-section/fifth-amendment-takings-law#:~:t
+        ext=Also%20known%20as%20the%20%22Takings,the%20payment%20of%20just%20c
+        ompensation. Accessed February 15, 2024.
+Washburn, Robert, “’Reasonable Investment-backed Expectations’ As a Factor in Defining
+        Property Interest,” Journal of Urban and Contemporary Law, January 1996,
+        https://openscholarship.wustl.edu/cgi/viewcontent.cgi?article=1090&context=law_urbanl
+        aw
+Wulf, Henry, “Inverse Condemnation and Government Pandemic Response,” Casetext, May 22,
+        2020,https://casetext.com/analysis/inverse-condemnation-and-government-pandemic-resp
+        onse-1?sort=relevance&resultsNav=false&q=.
+Zhao, Weihua, “The Long-Run Effects of Minimum Lot Size Zoning on Housing
+        Redevelopment,” Journal of Housing Economics, March 2022,
+        https://doi.org/10.1016/j.jhe.2021.101806.
+
+
+
+
+                                               24
+                                    Amherst College Law Review: Issue VIII
+
+
+All Deserve the Freedom to Love: A Case for the Legal Recognition
+of Polyamorous Relationships
+
+Finn Helgesen
+Middlebury College – Class of 2024
+
+Abstract
+        Across the United States, polyamorous adults suffer discrimination due to their being in
+non-monogamous relationships. Does the government have an obligation to protect all
+relationships among consenting adults? The following paper presents an argument that
+relationships among polyamorous adults should be granted the same legal recognition as
+monogamous people to alleviate the burdens of discrimination they face. Currently, the most
+expedient step towards harm-reduction in this regard is through the creation of domestic
+partnerships at the municipal level. This must occur as a first step to protecting the rights of
+consensually non-monogamous people themselves, and the foundational right of freedom for
+consenting adults to form relationships as they please.
+
+
+
+
+Introduction
+
+           In the wake of Obergefell v. Hodges, it is tempting to believe that all consensual
+
+relationships among adults have acquired the benefits of legal recognition.49 However, despite
+
+significant strides made towards relationship equality, I posit the laws of the United States fail to
+
+deliver what is owed to adults in consensually non-monogamous (CNM) relationships. Members
+
+of the CNM community are largely denied protection, and as a result members of such unions
+
+experience harm–including workplace and housing discrimination and being denied child
+
+custody.
+
+           In this paper, I advocate for the creation of legally recognized polyamorous domestic
+
+partnerships. I argue the government should protect individuals’ freedom to form relationships –
+
+so long as they do not harm others. More specifically, I advocate for the removal of current
+
+49
+     Obergefell v. Hodges, 576 U.S. 644, (2015).
+
+                                                     25
+                                 Amherst College Law Review: Issue VIII
+
+barriers preventing the legal recognition of CNM relationships at the municipal level. This will
+
+allow the creation of legally recognized domestic partnerships among more than two
+
+individuals by local governments–an essential step to alleviating the harms faced currently by
+
+members of the CNM community.
+
+           I first explicate the current state of law regarding legal recognition of CNM relationships.
+
+Following this, I highlight the urgency of this issue by revealing the discrimination faced by
+
+CNM individuals. Later, I reveal the merits of domestic partnerships as an expedient step
+
+towards harm-reduction. Then, I establish that polyamorous relationships do not cause harm
+
+towards others and conclude by advocating for their legal recognition.
+
+
+
+Legal Barriers to the Creation of Consensually Non-Monogamous Domestic Partnerships
+
+           As it stands, state governments in the United States largely prevent the creation of
+
+domestic partnerships for members of the CNM community at the municipal level. This is so for
+
+two reasons: the legal recognition of polyamorous relationships is criminalized by states, and
+
+state governments limit the ability of local governments to pass or uphold CNM domestic
+
+partnership ordinances. The former of the two is reflected in the following:
+
+           All fifty states and Washington, D.C., prohibit polygamy or bigamy in their statutes or
+           constitutions. California, Colorado, Washington, and Washington, D.C., added domestic
+           partnerships or civil unions to their definitions of statutory bigamy. Forty-eight states do
+           not discuss domestic partners in their antipolygamy laws, but multiple-partner ordinances
+           may clash with these statutes if the rights they create are not sufficiently distinguishable
+           from marriage.50
+
+           This summary of the state of the law reveals the widespread criminalization of
+
+polygamous and bigamous marriage at the state level. Furthermore, it reveals such
+
+criminalization either extends to CNM domestic partnership ordinances, or has the potential to if
+50
+     Harvard Law Review, “Three’s Company, Too.”
+
+                                                    26
+                                Amherst College Law Review: Issue VIII
+
+they are not, “sufficiently distinguishable from marriage,” in the majority of states.51 From this, it
+
+is evident that the criminalization of polygamy and bigamy at the state level often also prohibits
+
+the creation of CNM domestic partnerships at the local level.
+
+           Furthermore, state legislatures can prevent the creation of CNM domestic partnerships by
+
+directly criminalizing polyamorous domestic partnerships. For example, “before municipalities
+
+pass polyamorous ordinances in D.C. and the three states that make multiple-partner domestic
+
+partnerships a felony, decriminalization may be necessary.”52 Similarly to statutes banning
+
+polygamy and bigamy, the criminalization of polyamorous domestic partnerships of course
+
+prevents the creation of CNM domestic partnerships.
+
+           Criminalizing the legal recognition of polyamorous relationships is not the only legal
+
+barrier to the creation of CNM domestic partnerships. State governments also limit the authority
+
+of local governments which creates a significant hurdle to legally recognizing CNM
+
+partnerships. As noted in the following:
+
+           Most states, including Massachusetts, have enacted “home rule” amendments or statutes,
+           granting local government subunits the power to initiate legislation not specifically
+           authorized by the state legislature. In contrast, some states have Dillon’s Rule, which
+           requires the state legislature’s express permission as a prerequisite to local action like
+           passing domestic partnership ordinances. Although local governments in home rule states
+           have greater autonomy, their authority varies across and within those states based on
+           unique home rule provisions. Consequently, determining if a local government can enact
+           an ordinance requires checking the specific statute for that entity’s power in relation to
+           the state.53
+
+Here, it is revealed that the autonomy states afford to local governments classifies municipalities
+
+as falling into one of two categories. The first of these is municipalities operating under Dillon’s
+
+Rule. In the thirty-nine states that employ Dillon’s Rule, local governments’ ability to legally
+
+51
+   Ibid.
+52
+   Ibid.
+53
+   Ibid.
+
+                                                   27
+                                Amherst College Law Review: Issue VIII
+
+recognize CNM partnerships is entirely contingent upon approval from their state legislature.54
+
+Requiring approval from the state government to pass ordinances limits the power of local
+
+governments. This is so because a state government can trump the desire of a local municipality
+
+to create legal status for CNM relationships by withholding the necessary permission. As a
+
+result, employing Dillon’s Rule can be used as a tool in the arsenal of preventing the creation of
+
+CNM domestic partnerships at the municipal level.
+
+        Similarly, the second category of municipal authority–Home Rule–erects barriers
+
+preventing the legal recognition of CNM domestic partnerships. In the thirty-one states which
+
+provide for Home Rule in their constitution, and the eight which authorize it through statute,
+
+local governments have, “the power to initiate legislation not specifically authorized by the state
+
+legislature.”55 However, despite Home Rule granting municipalities this power, state
+
+governments may still disallow such municipalities’ CNM domestic partnership ordinances. This
+
+occurs by state governments passing legislation which bars the creation of such unions.
+
+        For example, Article XI section 5 of the California state constitution includes a provision
+
+which allows for local governments to create laws, “in respect to municipal affairs.”56 However,
+
+this authority granted to these municipalities is not absolute. This is exemplified by the
+
+California Supreme Court’s ruling in In Re Lane: “[t]he Penal Code sections covering the
+
+criminal aspects of sexual activity [including bigamy] are so extensive in their scope that they
+
+clearly show an intention by the Legislature to adopt a general scheme for the regulation of this
+
+subject.”57 Despite being granted authority to regulate domestic partnerships, a local
+
+government’s power was superseded by the California Supreme Court. This ruling reveals that
+
+54
+   Nebraska Legislative Research Office, “Dillon Rule and Home Rule;” Richardson, Gough, and Puentes, “Is Home
+Rule the Answer?”
+55
+   Harvard Law Review, “Three’s Company, Too.”
+56
+   California Legislative Information, “California Constitution Article XI.”
+57
+   In re Lane, 372 P.2d 897 (Cal. 1962).
+
+                                                     28
+                                 Amherst College Law Review: Issue VIII
+
+authority granted by Home Rule provisions is weak because it can be superseded by the state.
+
+Home Rule municipalities subject to the will of state courts and legislatures can face barriers
+
+when attempting to legally recognize CNM relationships. This is so because members of CNM
+
+partnerships cannot truly put faith in legal recognition at the municipal level due to the fact that it
+
+may be invalidated by state courts or legislatures.
+
+           In summary, there are several legal barriers to the formal recognition of CNM
+
+relationships at the municipal level. Among the most pressing of these are the criminalization of
+
+polygamy or polyamorous domestic partnership. Furthermore, state courts and legislatures
+
+restricting municipal governments from legally recognizing polyamorous relationships creates
+
+another barrier. Overall, because municipalities are subject to the will of the state government,
+
+their ability to pass CNM domestic partnerships ordinances is limited without approval–or
+
+absence of disapproval–from the state.
+
+
+
+Discrimination Faced by the Consensually Non-Monogamous Community
+
+           I have established that unlike their monogamous counterparts, members of the CNM
+
+community are denied the legal right to marriage or domestic partnership. This inhibits the
+
+well-being of such individuals because the government itself discriminates against CNM people,
+
+and because it fails to protect CNM people from private citizens who would victimize them for
+
+their preference of relationship style. In the following section, I illuminate the areas in which
+
+polyamorous people face discrimination to motivate the enactment of legal protections. These
+
+areas include the workplace, housing, child custody, and more. The patterns of discrimination
+
+reflect a lack of legitimacy afforded to CNM partnerships. Such discrimination harms the, “4 to 5
+
+percent of people in the U.S. [that] are in a consensually non-monogamous relationship.”58
+58
+     McArdle, “Polyamory and the Law.”
+
+                                                  29
+                                Amherst College Law Review: Issue VIII
+
+        First, the lack of legal protections offered to people in CNM relationships results in
+
+inequality and discrimination in the workplace. Such individuals do not have access to shared
+
+resources granted to legally recognized monogamous couples. “Benefits like health insurance,
+
+life insurance, family leave, bereavement leave, relocation assistance, and pension benefits are
+
+central to the livelihood and well-being of employees, their partners, and their legal dependents,”
+
+but are not available to people in CNM relationships.59 Furthermore, there is anecdotal evidence
+
+that polyamorous people face termination as a result of their engaging in CNM practices.60
+
+        These examples of discrimination could be alleviated by legal recognition of
+
+polyamorous couples. This is so because it would allow the sharing of employment benefits
+
+among partners, and lay the groundwork for making polyamorous practices legally
+
+protected–and consequently not grounds for termination. Furthermore, legal recognition could
+
+offer CNM unions legitimacy that would serve to reduce stigma against them and the
+
+discrimination which results from it.
+
+        Denial of resources to members of polyamorous partnerships is not limited to the
+
+workplace. It is also evident when examining housing discrimination against CNM people. Most
+
+states lack, “legal provisions protecting people from discrimination based on marital status,
+
+meaning landlords may legally ask questions about [potential tenants’] relationships and may
+
+refuse to rent,” to them if they are unmarried.61 A handful of states–Alaska, California,
+
+Massachusetts, Michigan, and New Jersey–provide protections to unmarried partnerships, but for
+
+CNM people elsewhere in the U.S., housing discrimination is a very real threat.62 A potential
+
+remedy to housing discrimination looks like, “a city or county ordinance prohibiting
+
+
+59
+   Human Rights Campaign, “Issue Brief Domestic Partnerships.”
+60
+   McArdle, “Polyamory and the Law.”
+61
+   Nolo, “Housing Discrimination.”
+62
+   Ibid.
+
+                                                     30
+                               Amherst College Law Review: Issue VIII
+
+discrimination on the basis of sexual orientation. Although usually passed to protect the housing
+
+rights of gay and lesbian tenants, most local laws forbidding discrimination based on sexual
+
+orientation also protect unmarried, heterosexual couples.”63 By limiting housing discrimination,
+
+local ordinances would reduce harm and discrimination experienced by the CNM community.
+
+        Finally, child custody is particularly difficult for CNM partnerships given that, “courts in
+
+the U.S. and around the world have recognized the ‘Rule of Two’ [which states] children are
+
+allowed two legal parents.”64 Some strides have been made, such as, “six states–California,
+
+Delaware, Maine, Vermont, Washington and… Connecticut–enact[ing] laws over the past decade
+
+expressly allowing a court to recognize more than two parents for a child.”65 However, these laws
+
+do not guarantee the granting of parental status to all parents of a child of a CNM relationship.
+
+Furthermore, in areas without such laws, members of polyamorous relationships who want to
+
+attain legal status as caregivers for their children still face barriers. This is largely due to the lack
+
+of legitimacy afforded to CNM relationships within the legal system:
+
+        Many judges conclude, without supporting evidence, that people who engage in CNM are
+        less moral, less stable, and less capable to care for children compared to monogamous
+        people (e.g., V.B. v. J.E.B., 2012; Cross v. Cross, 2008). Further, some family courts have
+        misunderstood polyamorous relationships, many assuming that long-term committed
+        plural relationships are equivalent to “wife-swapping” or casual sex-only swinging.
+        (Cross v. Cross, 2008; In re Aleksandree M.M., 2010). Ignorance about polyamory fuels
+        systematic discrimination towards these families.66
+
+        The discrimination I have outlined thus far has harmful consequences beyond limiting the
+
+equal treatment of CNM people. In addition, “CNM-related minority stress [has been] positively
+
+related to increased psychological distress, such as higher self-reported depression and anxiety
+
+
+
+63
+   Ibid.
+64
+   Sheff, “Multiple Parents.”
+65
+   Joslin and Douglas, “The next Normal.”
+66
+   Polyamory Legal Advocacy Coalition, “FAQs.”
+
+                                                   31
+                                   Amherst College Law Review: Issue VIII
+
+symptoms.”67 The harms CNM people face as a result of being non-monogamous stems from
+
+discrimination faced because of their practicing CNM. Having revealed these real harms and
+
+their origin, I now defend the use of domestic partnership as a means to alleviate them.
+
+
+
+The Merits of Domestic Partnerships to Achieve Harm-Reduction
+
+           I posit that the remedy to achieve legal recognition for polyamorous relationships is to
+
+improve legal transparency and remove current barriers in place. Specific to decriminalization, it
+
+is urgent that we clearly decriminalize CNM domestic partnerships and ensure that such
+
+partnership ordinances are allowed–even in states which criminalize CNM marriage. In regards
+
+to the restriction of local autonomy, municipalities should be granted an inalienable right to
+
+recognize adult CNM relationships. Following this, local governments should pass ordinances
+
+offering members of CNM relationships the option to form domestic partnerships to ensure the
+
+liberty of adults to form consensual relationships of their choosing.
+
+           To be clear, my support of legal recognition via domestic partnership is not as a preferred
+
+option to marriage, but an expedient first step to alleviate the current harms facing the CNM
+
+community. I defend this position by drawing on the progress generated by the creation of
+
+domestic partnerships between same-sex partners, and the potential for domestic partnerships to
+
+offer the same benefits to the CNM community.
+
+           Prior to the legalization of same-sex marriage, the general climate regarding legalization
+
+was fairly mixed with a slight trend towards a pro-legalizaition stance among people in the
+
+United States. According to Pew Research Center, “in 2001, roughly one-third of American
+
+adults supported gay marriage (35%), while 57% opposed it.” A decade later in 2012, “Pew
+
+Research Center polling [found] slightly more support for same-sex marriage (48%) than
+67
+     Witherspoon and Theodore, “Exploring Minority Stress.”
+
+                                                        32
+                                  Amherst College Law Review: Issue VIII
+
+opposition to it (43%),” indicating a gradual shift toward acceptance of same-sex marriage
+
+among Americans.68
+
+           The slim majority in favor of same-sex marriage achieved in 2012 occurred about half a
+
+century after calls to grant legal status to our relationships occurred in the gay community. These
+
+are understood to have begun in the 1960s in the United States.69 In the time between the 1960s
+
+and the establishment of marriage equality, some strides were made towards protecting same-sex
+
+couples through the creation of domestic partnerships. These reduced harm by providing
+
+protection from discrimination and by providing legal legitimacy.
+
+           While the general attitude towards relationships which are not heterosexual and
+
+monogamous has become more tolerant, the timeline for the legalization of same-sex marriage
+
+indicates that a years-long battle stands in the way of legalizing polyamorous marriage–if it is to
+
+be legalized at all. Because of the significant time barrier and the ongoing harm occurring
+
+currently, domestic partnerships offer significant benefits in the way of harm-reduction and by
+
+offering legal legitimacy.
+
+           With the theoretical harm-reduction benefits of legalizing polyamorous domestic
+
+partnerships established, I now offer concrete examples of domestic partnerships created at the
+
+municipal level which have actually reduced harm. Recall the barriers to legalization mentioned
+
+previously–both criminalization and restriction of the autonomy of local governments. Logically,
+
+legalizing CNM domestic partnerships at the local level depends on removing both of these
+
+barriers. As previously stated, this can be achieved through decriminalization and both increasing
+
+the transparency of and expanding Home Rule provisions in regards to creating domestic
+
+partnerships.
+
+
+68
+     Pew Research Center, “Overview of Same-Sex Marriage.”
+69
+     Ibid.
+
+                                                      33
+                               Amherst College Law Review: Issue VIII
+
+        The merits of Home Rule privileges which allow for the creation of domestic
+
+partnerships are abundant. For example, in Florida prior to Obergefell v. Hodges, the case Lowe
+
+v. Broward County challenged Broward county’s authority to create domestic partnerships
+
+among same-sex and opposite-sex partners. This challenge occurred despite the county being
+
+granted Home Rule authority prior by the state government.70 Lowe’s challenge was unsuccessful
+
+because of the expansiveness of Home Rule in this state. Because of this, couples in this county
+
+were allowed to enjoy their local government’s protection of their private lives.
+
+        The benefits of local partnership laws which create legal status for CNM partnerships are
+
+further evidenced by those already passed. Progress has already been made on this issue in
+
+several local governments, specifically in three municipalities in Massachusetts. “In 2020 and
+
+2021, three Boston-area municipalities–the city of Somerville followed by Cambridge, and the
+
+town of Arlington became the first in the country to extend the legal definition of domestic
+
+partnerships to include polyamorous relationships.”71 As a result, polyamorous couples in both
+
+cities now have greater access to resources which were previously denied to them due to their
+
+practicing of CNM. In Cambridge, this guarantees hospital visitation, visitation at correctional
+
+facilities, access to children at school, and preventing housing and employment discrimination
+
+within the city.72 Likewise, in Somerville access to children is guaranteed within the city.73 In
+
+both cities, some of these rights may also be available elsewhere, depending on the location.74
+
+These examples illustrate merits offered by legal recognition at the local level to ensure the
+
+liberty owed to members of CNM relationships.
+
+
+
+70
+   Florida Supreme Court, Lowe vs. Broward County.
+71
+   McArdle, “Polyamory and the Law.”
+72
+   Polyamory Legal Advocacy Coalition, “Cambridge Domestic Partnership.”
+73
+   Polyamory Legal Advocacy Coalition, “Somerville Domestic Partnership.”
+74
+   Polyamory Legal Advocacy Coalition, “Cambridge Domestic Partnership;” Polyamory Legal Advocacy Coalition,
+“Somerville Domestic Partnership.”
+
+                                                    34
+                                   Amherst College Law Review: Issue VIII
+
+           It is evident that domestic partnerships offer a protection to the private sphere that
+
+reduces harm experienced by polyamorous people. Furthermore, the creation of domestic
+
+partnerships can offer the benefit of creating legal legitimacy. Because of these two gains shown,
+
+in both the face of current harm and in bolstering the defense for equality, domestic partnerships
+
+offer great benefits in the here and now to members of the CNM community.
+
+
+
+Polyamory is Harm-Neutral
+
+           Up to this point, I have argued that protecting the private life of polyamorous individuals
+
+by offering legal recognition and protection fulfills the government's obligation to its CNM
+
+citizens. A core component of this hinges upon my claim that polyamory does no harm in and of
+
+itself as long as it is practiced by consenting adults. To further defend my overall position, I
+
+counter arguments which contend that polyamory actually harms members of such relationships,
+
+children parented by such unions, and women.
+
+           In congruence with my defense of polyamory’s harm-neutrality, a 2018 study published
+
+in the Journal of Social and Personal Relationships found that, “no differences in mean levels of
+
+relationship and sexual satisfaction were found between CNM and monogamous individuals,”
+
+when evaluating both types of relationships.75 Even if this were not the case, and polyamorous
+
+individuals were less happy than their monogamous counterparts, the government would produce
+
+greater harm than good by intervening or failing to offer CNM people protections and legal
+
+status. The negatives of such a paternalistic state, or a state which allowed for relationship
+
+inequality among its citizens, would far outweigh the benefits of limiting the nonexistent harms
+
+of polyamorous unions.
+
+
+
+75
+     Wood et al., “Reasons for Sex and Relational Outcomes.”
+
+                                                         35
+                                     Amherst College Law Review: Issue VIII
+
+            Furthermore, some opponents of CNM argue that children parented by non-monogamous
+
+couples are subject to a variety of harms. Psychologist Dr. Karen Ruskin, a marriage and family
+
+therapist, raises the potential for these children to have greater feelings of neglect and
+
+abandonment than children raised by monogamous couples.76 According to this position,
+
+polyamorous union harms others who did not consent to the union–the children.
+
+            This position contrasts greatly with the following findings from a 2021 Canadian study
+
+published in the Archives of Sexual Behavior. The findings reveal the following:
+
+            Many of the participants of said study who indicated being in childrearing roles discussed
+            the cooperative elements of raising children. Pain mentions the mentality of “it takes a
+            village to raise a family,” which is echoed in the “more is more” theme of our research
+            project. This is similar to Pallotta-Chiarolli et al.’s (2013) concept of collaborative
+            parenting in which several adults contribute to raising children. Within the present study,
+            not only were participants involved in multiple parenting families once children were
+            born, but multiple partners were involved from conception or even earlier family
+            planning discussions. Childbearing participants spoke of receiving support from their
+            partners and their partners’ partners which in turn allowed them to reinvest that support in
+            childrearing and in their own partnered relationships. In addition to having more time to
+            reinvest in relationships with others, participants were able to ensure some free time to
+            themselves.77
+
+Upon weighing these opposing perspectives on polyamorous parenting, I argue the study’s
+
+finding, that children can benefit from polyamorous parents, is likely more accurate than Dr.
+
+Ruskin’s conclusion. It is more likely that children can benefit from having either monogamous
+
+or polyamorous parents to an equal degree. This claim is further supported by the conclusion of a
+
+2011 study published in Social Science Research: “marriage is not a blanket prescription for the
+
+well-being of children, any more than it is for the well-being of adults. Recent policy initiatives
+
+to promote marriage need to take account of how variation within marriage relates to child
+
+
+
+76
+     Ruskin, “Polyamory – Not Healthy for Children.”
+77
+     Landry, Areneau, and Darling, “It’s a Little Bit Tricky.”
+
+                                                             36
+                                Amherst College Law Review: Issue VIII
+
+well-being.”78 The study reveals that the benefits offered to a child by their parent(s) is more
+
+related to the quality of the care provided by them, rather than the structure of their family.
+
+        Additionally, as has been previously mentioned, there are already polyamorous
+
+partnerships raising children together who are burdened by discrimination.79 Because of this, it is
+
+of the greatest utility to limit discrimination of CNM parents for the welfare of a child they are
+
+raising. This is so on the grounds that allowing ease of parenting by means of formalizing one’s
+
+status as a parent will benefit children. This will occur because it will allow all of a child’s
+
+parents to have an equal role in areas of caretaking which require legal status. Consequently, it is
+
+inconsistent to raise child welfare as a criticism of creating CNM domestic partnership as they
+
+will serve to enhance child welfare.
+
+        Finally, I will address the criticisms of those who believe that allowing for the legal
+
+recognition of polyamory will harm women. More specifically, some argue that polyamory could
+
+be a, “co-opting and rebranding of polygamy, so that it loses its nasty association with the
+
+oppression of the most disadvantaged women,” and that, “the co-opting of the sanitized version
+
+[of polygamy] will further normalize a practice that is anything but liberating for women in this
+
+arrangement.”80 Elaborating on this concern, sociologist Elisabeth Sheff, who studies
+
+polyamorous families, voices that polyamory among partners of varying sexes occurs on the
+
+backdrop of patriarchal power dynamics and the current inequality of the sexes.81 This fact could
+
+be used to argue that polyamorous relationships involving women and men will be built upon the
+
+sexist power structures which exist in society at large. Following this, normalizing and legally
+
+
+
+
+78
+   Musick and Meier, “Are Both Parents.”
+79
+   McArdle, “Polyamory and the Law.”
+80
+   Bindel, “Rebranding Polyamory.”
+81
+   Ibid.
+
+                                                  37
+                              Amherst College Law Review: Issue VIII
+
+recognizing CNM relationships will serve to strengthen the patriarchy and should consequently
+
+not occur.
+
+       To address this, I will first agree polyamory could harm women if gender power
+
+dynamics are not consciously counteracted in CNM relationships. Despite this, I contend it
+
+would be more harmful to women for the government to disallow the creation of CNM domestic
+
+partnerships because of this potential. This is true because this disallowing would be based on
+
+the infantilization of women, stripped of their agency by a paternalistic government who would
+
+claim to know more about what serves to benefit them than themselves. Furthermore, it would
+
+also fail to counteract the current discrimination polyamorous women face by virtue of practicing
+
+CNM. Therefore, women’s rights would be better served by allowing the legal recognition of
+
+CNM unions than by disallowing them.
+
+       This is not to say that there are not myriad women and girls who suffer in patriarchal,
+
+polygamous arrangements. However, this problem is not related to the structure of polyamorous
+
+relationships but rather is a consequence of patriarchal power structures as a whole. Monogamy
+
+is neither immune to, nor the solution to the gendered power dynamics that may occur in
+
+opposite-sex couples. This is true on the grounds that women and girls can also suffer in
+
+predatory monogamous arrangements, or be in monogamous relationships which embody
+
+gendered power dynamics. Because this can occur in both monogamous and polyamorous
+
+relationships in patriarchical societies, potential sexism within a polyamorous relationship is a
+
+symptom of the ills of the society in which it occurs, not the structure of the relationship itself. In
+
+other words, blame put on polyamory is misplaced and should rather be directed towards the
+
+patriarchy.
+
+
+
+
+                                                  38
+                             Amherst College Law Review: Issue VIII
+
+       Furthermore, using this misplaced blame to argue against the creation of legal status and
+
+protection for polyamorous unions fails to account for the needs of polyamorous unions
+
+constituted by same-sex individuals. Such unions would not face gender-based power imbalances
+
+due to their homogenous sexual composition. To legislate all polyamorous unions only for the
+
+concerns regarding mixed-sex relationships would be heteronormative and result in the
+
+allowance of discrimination against same-sex CNM relationships based on reasoning which does
+
+not apply to them. Therefore, the potential for sexist power dynamics to occur both does not have
+
+polyamory to blame, and does not adequately account for the wide variety of polyamorous
+
+relationships which would be recognized should domestic partnerships be legalized.
+
+       From these points it is clear that all of the harms frequently attributed to polyamory
+
+actually have other sources. These include poor relationship skills, poor parenting skills, or
+
+sexism. While these may manifest in polyamorous relationships, it is not by virtue of their
+
+structure, as they can manifest in monogamous relationships just as easily. Because of this, to
+
+object to the allowance of CNM domestic partnerships on the grounds that they themselves are
+
+harmful by virtue of their structure is erroneous.
+
+
+
+Conclusion
+
+       The call for legal recognition of CNM relationships is urgent. Everyday, polyamorous
+
+people face unwarranted discrimination for engaging in a private practice which does no harm.
+
+Because of this, it is the obligation of the government to protect these people as means of
+
+ensuring individual liberty. As has been revealed by the previously analyzed examples of
+
+historically stigmatized relationships throughout history, this can be achieved through legal
+
+
+
+
+                                                 39
+                              Amherst College Law Review: Issue VIII
+
+recognition. This will both allow CNM adults to form legally recognized unions, and offer them
+
+protection from discrimination.
+
+       The first step along this road is the allowance of the creation of CNM domestic
+
+partnerships. This can be achieved by first removing legal barriers faced by local municipalities,
+
+and then passing legislation creating the right to such partnerships. This will serve polyamorous
+
+people, their children, and the society at large in that it will allow the laws of the U.S. to follow
+
+the shifting needs of the people they govern to ensure freedom. To oppose this is to oppose equal
+
+protection under the law for all people. It is to stand in opposition to the individual liberty
+
+consenting adults are owed when navigating their romantic lives.
+
+
+                                            Bibliography
+
+Bindel, Julie. “Rebranding Polyamory Does Women No Favours.” The Guardian, August 26,
+        2013,https://www.theguardian.com/commentisfree/2013/aug/26/polyamory-no-favours-f
+        or-wo men.
+“California Constitution Article XI.” California Legislative Information,
+        https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CONS&divisi
+        on=&title=&part=&chapter=&article=XI. Accessed March 21, 2023.
+“Cambridge Domestic Partnership Ordinance Frequently Asked Questions.” Polyamory Legal
+        Advocacy Coalition. https://polyamorylegal.org/cambridge-ordinance-faq. Accessed
+        March 21, 2023.
+“Dillon Rule and Home Rule: Principles of Local Governance.” Nebraska Legislature. Nebraska
+        Legislative Research Office, February 2020.
+        https://www.nebraskalegislature.gov/pdf/reports/research/snapshot_localgov_2020.pdf.
+“FAQs.” Polyamory Legal Advocacy Coalition. Harvard Law School LGBTQ+ Advocacy
+        Clinic, https://polyamorylegal.org/faqs. Accessed March 21, 2023.
+“Issue Brief Domestic Partnerships - Amazon Web Services.” Human Rights Campaign.
+        Municipal Equality Index 2022.
+        https://hrc-prod-requests.s3-us-west-2.amazonaws.com/resources/Issue-Brief-Domestic-P
+        artnerships.pdf. Accessed March 21, 2023.
+Joslin, Courtney G., and Douglas NeJaime. “The next Normal: States Will Recognize
+        Multiparent Families.” The Washington Post, January 28, 2022.
+        https://www.washingtonpost.com/outlook/2022/01/28/next-normal-family-law/.
+Landry, Samantha, Erika Arseneau, and Elizabeth K. Darling. “‘It’s a Little Bit Tricky’: Results
+
+                                                  40
+                           Amherst College Law Review: Issue VIII
+
+        from the Polyamorous Childbearing and Birth Experiences Study (POLYBABES).”
+        Archives of Sexual Behavior 50, no. 4 (June 1, 2021): 1479–90.
+        https://doi.org/10.1007/s10508-021-02025-5.
+Lowe vs. Broward County, 766 So. 2d, 1199 (Fla. Dist. Ct. App. 2000).
+McArdle, Elaine. “Polyamory and the Law.” Harvard Law Today, August 3, 2021.
+        https://hls.harvard.edu/today/polyamory-and-the-law/ .
+Musick, Kelly, and Ann Meier. “Are Both Parents Always Better than One? Parental Conflict
+        and Young Adult Well-Being.” Social Science Research 39, no. 5 (2010): 814–30.
+        https://doi.org/10.1016/j.ssresearch.2010.03.002.
+Nolo. “Housing Discrimination against Unmarried Couples.” www.nolo.com. Nolo, March 5,
+        2021.
+        https://www.nolo.com/legal-encyclopedia/free-books/living-together-book/chapter5-2.ht
+        ml.
+“Overview of Same-Sex Marriage in the United States.” Pew Research Center's Religion &
+        Public Life Project. Pew Research Center, December 7, 2012.
+        https://www.pewresearch.org/religion/2012/12/07/overview-of-same-sex-marriage-in-the
+        -united-states/#:~:text=Civil%20unions%20were%20first%20created,law%20that%20su
+        persedes%20its%20civil.
+Richardson, Jesse J., Meghan Zimmerman Gough, and Robert Puentes. “Is Home Rule the
+        Answer? Clarifying the Influence of Dillon's Rule on Growth Management.” Brookings.
+        Brookings, January 1, 2003.
+        https://www.brookings.edu/research/is-home-rule-the-answer-clarifying-the-influence-of
+        dillons-rule-on-growth-management/.
+Ruskin, Karen. “Polyamory – Not Healthy for Children.” Dr Karen Ruskin Relationship Expert
+        Marriage and Family Therapist, October 28, 2013.
+        https://www.drkarenruskin.com/polyamory-not-healthy-for-children/.
+Sheff, Elisabeth A. “Multiple Parents Legally?” Psychology Today, November 26, 2017.
+        https://www.psychologytoday.com/us/blog/the-polyamorists-next-door/201711/multiple-p
+        arents-legally.
+“Somerville Domestic Partnership Ordinance Frequently Asked Questions.” Polyamory Legal
+        Advocacy Coalition, https://polyamorylegal.org/somerville-ordinance-faq. Accessed
+        March 21, 2023.
+“Three’s Company, Too: The Emergence of Polyamorous Partnership Ordinances.” Harvard Law
+        Review 135, no. 5 (March 10, 2022): 1441–63.
+        https://harvardlawreview.org/2022/03/threes-company-too-the-emergence-of-polyamorou
+        s-partnership-ordinances/.
+Witherspoon, Ryan G., and Peter S. Theodore. “Exploring Minority Stress and Resilience in a
+        Polyamorous Sample.” Archives of Sexual Behavior 50, no. 4 (June 9, 2021): 1367–88.
+        https://doi.org/10.1007/s10508-021-01995-w.
+Wood, Jessica, Serge Desmarais, Tyler Burleigh, and Robin Milhausen. “Reasons for Sex and
+
+
+                                             41
+                    Amherst College Law Review: Issue VIII
+
+Relational Outcomes in Consensually Nonmonogamous and Monogamous
+Relationships.” Journal of Social and Personal Relationships 35, no. 4 (May 2018):
+632–54. https://doi.org/10.1177/0265407517743082.
+
+
+
+
+                                       42
+                                Amherst College Law Review: Issue VIII
+
+
+The AI-Authorship Copyright Question: How a Court Case and a
+Bureaucratic Decision Changed Intellectual Property Law
+
+Adam Frank
+Columbia University – Class of 2024
+
+Abstract
+The Supreme Court based its ruling against granting copyright privileges to AI-authored works
+on a narrow construction of the word “individual,” in Thaler v. Vidal. This article explores the
+consequences of this decision in terms of the (1) moral imperatives that might guide interaction
+with AI, (2) separation of powers between judicial and executive branches of government, and
+(3) the relationship between human and machine producers in a competitive market. The final
+analysis reveals that Thaler is likely to carry increasing legal authority moving forward, despite
+the fact that it is not necessarily beneficial to keep AI out of the market.
+
+
+
+
+Introduction
+
+        The emergence of advanced artificial intelligence, capable of producing creative and
+
+original works, created an intellectual property problem: could these works be granted privileges
+
+in American copyright law? There was no law that stated they could not, but the laws that govern
+
+intellectual property were not written with AI in mind. According to the Chevron
+
+doctrine—which says that “courts should defer to an agency’s reasonable interpretation of an
+
+ambiguous statute”82 – entities like the U.S. Copyright Office have significant discretionary
+
+power in deciding whether or not existing law allows AI-authored works to get IP protections. In
+
+2024, the Supreme Court is expected, by many, to discard the Chevron doctrine,83 creating a legal
+
+environment in which judges will determine what to do with AI-produced works and IP, with less
+
+guidance from the executive branch. This change creates an expectation that the 2022 decision in
+
+
+82
+   Amy Howe, “Supreme Court likely to discard Chevron” Scotusblog, (2024):
+https://www.scotusblog.com/2024/01/supreme-court-likely-to-discard-chevron/
+83
+   Ibid.
+
+                                                     43
+                                  Amherst College Law Review: Issue VIII
+
+Thaler v Vidal, which assigned a narrow construction to the word “individual,” will become a
+
+more important source of legal authority, moving forward. Thaler established that AI programs
+
+cannot hold copyrights, on the grounds that an AI program is not an “individual.” With the
+
+court’s holding poised to become more authoritative in banning AI-authored works from the
+
+market, two important issues emerge: (1) the narrow construction of the word “individual” in
+
+Thaler is somewhat arbitrary, and (2) it is not necessarily beneficial to keep AI-authored works
+
+out of the marketplace.
+
+         Stephen Thaler applied for a patent on behalf of an AI program, acknowledging that the
+
+“invention [was] generated by artificial intelligence.”84 His application was denied before failing
+
+on appeal. The appellate court ruled that only an object of human production is protected under
+
+the Patent Act.85 This holding did not totally resolve the question because it did not determine
+
+where the line between human-augmented and totally-automated are delineated. If AI programs
+
+alone cannot receive legal privileges for their creations, how would the law apply to cases of
+
+joint authorship between humans and AI?
+
+         In 2022, Kristina Kashtanova published a graphic novel with AI-generated illustrations.
+
+After initially granting a copyright for the work, the USCO canceled her registration. A month
+
+after canceling the registration, the USCO announced that it would – all of a sudden – allow
+
+AI-authorship.86 Not only did the development contradict the cancellation of Kashtanova’s earlier
+
+copyright, it also seemed close to contradicting Thaler. Although, it is important to note that a
+
+human-AI co-authored work does have a human author, and is thus within Thaler’s narrow
+
+84
+   Leonard Stark, Decision in Thaler v Vidal, United States Court of Appeals for the Federal Circuit, August 5, 2022,
+https://cafc.uscourts.gov/opinions-orders/21-2347.OPINION.8-5-2022_1988142.pdf pp.
+85
+   Ibid.
+86
+   “Copyright Registration Guidance: Works Containing Material Generated by Artificial Intelligence” United States
+Copyright Office, March 16, 2023.
+https://www.federalregister.gov/documents/2023/03/16/2023-05321/copyright-registration-guidance-works-conta
+ining-material-generated-by-artificial-intelligence#footnote-7-p16191
+
+
+
+                                                         44
+                               Amherst College Law Review: Issue VIII
+
+construction of “individual.” While the USCO’s initial decision about the Kashtanova copyright
+
+appeared to exclude AI authors, its subsequent rule change suggested the prospect of more
+
+inclusive policies. The USCO presented contradictory leanings with regard to the underlying
+
+legal ambiguity, despite Thaler and despite the logic that the Chevron doctrine depends on. Why
+
+then, one might ask, is this such a difficult question for legal authorities?
+
+
+
+Background: The Utilitarian Gray Area
+
+        Despite Thaler, the law is ambiguous over the question of granting copyrights and other
+
+intellectual property privileges to AI. There are two flavors of approaches to the issue, one is
+
+judicial and the other is political. The judicial answer is that some laws have narrow wording,
+
+such as “individual,” that could be argued to preclude AI. The Thaler decision depends on this
+
+reasoning.87 If Thaler categorically bans granting IP protections to AI-authored works, that is a
+
+judicial solution to this question. The political approach is acknowledging that there is a danger
+
+to human competitors in the market if non-human alternatives are able to produce comparable
+
+work and receive the same legal privileges. Of the two classes of approaches, the judicial
+
+approach is the useful one, if for no other reason than the recalcitrant nature of the political
+
+process.
+
+        The issue with Thaler is that the narrow construction of “individual” is somewhat
+
+arbitrary. Both narrow and broad constructions for words like “individual” and “person” have
+
+been applied to different laws, and there is not a clear a priori reason that a narrow or broad
+
+construction is better than the other. For example, the construction of “person” used in the Equal
+
+Rights Amendment includes companies.88 But the Torture Victims Protection Act only
+
+87
+ Stark, 6.
+88
+ Ciara, Torres-Spelliscy, “Does We the People Include Corporations” Human Rights Magazine (ABA), Volume 43
+No. 2., 2017. www.americanbar.org./Torres-Spelliscy/DoesWeThePeopleIncludeCoporations
+
+                                                    45
+                                Amherst College Law Review: Issue VIII
+
+understands “individual” as a human being.89 One could say that “individual” and “person” are
+
+sufficiently disanalogous for this to be a non-issue, but they are essentially synonyms and laws
+
+are generally understood to be based on the meaning of words within the language at the time of
+
+writing. Arguing that there exists some special reason that the word “person” has a broader
+
+meaning than “individual” is somewhat suspect.
+
+        Like the judicial solution, the political solution also depends on relatively uncertain logic.
+
+If AI-authorship could be proven to be bad for human artists, congress could simply ban such
+
+works. One could say that the political solution might rely on the assumption that congress needs
+
+to change the law because existing law is incoherent. Legal scholar Margot Kaminski points out
+
+that a foundational “purpose of copyright law…[is] to incentivize (presumably human) authors to
+
+create new works for the benefit of net social welfare.”90 If allowing AI into the creative market
+
+disincentivizes all human competitors, a situation emerges where a law that exists to incentivize
+
+actually disincentivizes. Self-contradictory laws can be said to need amendment so as to not
+
+self-contradict. The problem with a political solution, however, is that it depends on the
+
+assumption that congress legislates according to efficiency and collective benefit, rather than
+
+politics.
+
+        Both Thaler and Kashtanova failed to gain IP protections, which suggests that authorities
+
+lean toward excluding AI-authored works. Without a mandate from congress forcing them to ban
+
+these works, and with the Chevron doctrine’s uncertain future, the Thaler decision has become an
+
+important source of legal authority. Before discussing the reasoning behind this important
+
+decision, however, it is important to consider the relationship between humans and AI in the
+
+competitive market.
+
+89
+ “Mohamad v. Palestinian Authority.” Oyez, www.oyez.org/cases/2011/11-88. Accessed 29 Apr. 2023.
+90
+  Margot E Kaminski, “Authorship, disrupted: AI authors in copyright and first amendment law,” UC Davis Law
+Review 51 (2017): 597.
+
+                                                     46
+                                Amherst College Law Review: Issue VIII
+
+
+
+
+Fear the Machines: A Psychological Framework
+
+        There is a deep-seated human paranoia about AI programs undermining economic
+
+opportunity. People assume that technology will make human labor obsolete, and workers will
+
+cease to earn a living. Fear, it might be said, lies at the heart of academics Julia Kirby and
+
+Thomas Davenport’s “automation vs. augmentation” model of AI. They argue that
+
+
+        … the reason people hate automation is that it involves someone in a managerial position
+        spotting a shortcoming or limitation in employees, or simply a weakness relative to
+        machine performance, and then punishing them for that weakness.91
+
+Indeed, the human “weakness” relative to AI appears to have been assumed without further
+
+consideration. The “assumption of diminished utility” happens when authorities assume that
+
+granting privileges for AI-authored works will competitively hurt human producers, despite
+
+evidence to the contrary. Perhaps, for example, the market value of the average originally
+
+composed pop song would decrease if AI programs could compose high-quality ones rapidly and
+
+gain copyright privileges, allowing AI-authored works to flood the market.
+
+        The first issue with this logic, is that it is not clear that the best AI-produced song, for
+
+example, is competitive in the current market when compared to the average composition written
+
+by a professional-level human songwriter. Indeed, if it is not competitive, the value of
+
+high-quality human creations would continue to hold and offer the prospect of profitability due
+
+to a quality premium. Wage-earning human artists would be insulated. Only low-quality works
+
+would flood the market. Quality discrepancy, then, is the first consideration that suggests it is
+
+inappropriate to assume that awarding AI such IP privileges will disincentivize human artists.
+
+
+91
+ Thomas, Davenport, and Julia Kirby, Only humans need apply: Winners and losers in the age of smart machines,
+New York: Harper, 2016. Pp. 61.
+
+                                                      47
+                                Amherst College Law Review: Issue VIII
+
+        The next flaw with the diminished utility assumption might be called “the rate of
+
+production principle”: human artists that co-author with AI increase their output by more than
+
+the value they lose by letting AI into the market. They stand to make more money co-authoring
+
+with AI than by producing works without AI. For example, if an author working alone can only
+
+write one book a year, he makes more money splitting the copyright privileges with an AI and
+
+producing ten books per year, despite the market value of the average book being lower. It
+
+follows that utilitarian considerations may still support granting privileges for AI-authored
+
+works. The rate of production principle suggests that granting AI-authored works copyright
+
+privileges will result in the artists making more money than in the pre-AI era because, despite
+
+sacrificing a portion of the copyright to the AI, their productive output increases by many
+
+multiples. Thus, utilitarian considerations do not unambiguously support the prohibition of such
+
+rights. Indeed, they may support the granting of such rights.
+
+        Political realities see things differently. Creative-industry pressure groups have lobbied
+
+aggressively against the use of AI. Screenwriters in Hollywood brought this issue to bear in
+
+2023.92 Regardless of the possibility that screenwriting could become a more profitable
+
+profession under conditions of AI-human co-authorship, the fear of human obsolescence is a
+
+more salient consideration. Anxiety could be a relevant factor to this behavior; if artists stand to
+
+make more money using AI than prohibiting it, it would be rational for the guilds to support the
+
+integration of AI rather than oppose it. However, if there is widespread paranoia about the
+
+‘obsolete human artist,’ then it follows that the guilds should vehemently oppose the integration
+
+of AI into creative practices. The critical issue with the integration of AI into labor could be
+
+irrational fear on behalf of humans. Importantly, generative AI cannot improve without
+
+
+92
+  Noam Scheiber and John Koblin, “Will a Chatbot Write the Next ‘Succession’?” The New York Times, April 29,
+2023. https://www.nytimes.com/2023/04/29/business/media/writers-guild-hollywood-ai-chatgpt.html
+
+                                                     48
+                                 Amherst College Law Review: Issue VIII
+
+continuous training on new data. Giving legal protections to work produced by AI does not
+
+imply that those AI would somehow be entitled to train on all of the best human-produced
+
+works. Thus, mechanisms could be put in place to prevent AI from becoming functionally
+
+competitive with human professionals. The critical question is, then, whether or not it makes
+
+sense from a policy perspective to grant personhood to AI?
+
+
+
+AI and Legal Personhood
+
+        In a highly authoritative piece, legal personhood is defined as “[being] the subject of
+
+rights and duties.”93 Legal scholar Shawn Bayern argues that because anything that can enter into
+
+a contractual agreement can self-grant some form of legal personhood, AI programs are entitled
+
+to legal personhood.94 The main and only justification for the decision in Thaler was that an
+
+“individual,” according to the court, can only be a human.95 In the decision, the court reasoned as
+
+though “individual” and “person” were interchangeable.96 It set a precedent that the USCO was
+
+forced to follow in their 2023 AI guidelines.97 Regardless of the Thaler decision, there are fairly
+
+clear signs that AI personhood is a legally coherent and ethically defensible position.
+
+        AI-programs are human-like. Corporations carry legal personhood status despite being
+
+non-human, yet the most advanced AI platforms are more similar to humans than corporations
+
+are. The double standard—rejecting AI legal personhood while granting it to
+
+corporations—suggests that non-personification comes from bias. One legal scholar calls
+
+attention to this problem with the example of a program that can pass what engineers call “The
+
+93
+   Bryant Smith, “Legal personality” Yale Law Journal 37 (1927): 283.
+94
+   Shawn Bayern, “The implications of modern business–entity law for the regulation of autonomous systems,”
+Stanford Technology Law Review (2016): 99.
+95
+   Stark, 6.
+96
+   Ibid.
+97
+   “Copyright Registration Guidance: Works Containing Material Generated by Artificial Intelligence” United States
+Copyright Office, March 16, 2023. https://www.federalregister.gov/documents/2023/03/16/2023-05321/copyright
+registration-guidance-works-containing-material-generated-by-artificial-intelligence#footnote-7-p1619
+
+                                                       49
+                                Amherst College Law Review: Issue VIII
+
+Turing Test” and “act…as a human acts.”98 He notes that under the current system of legal
+
+personhood, such a program should indeed have legal personhood status because it would be
+
+able to enter into agreements.99 On that basis, personhood is presumed to already exist for AI.
+
+This view contradicts Thaler.
+
+        There are also ethical issues. On the one hand, there is presumably a sentience threshold
+
+that, once met, will morally obligate the granting of AI legal personhood. In a sense, there lies an
+
+ethical obligation not to deny legal personhood to the self-aware computer. On the other hand,
+
+there are potential benefits to granting AI legal personhood. Scholar Lance Eliot posits, for
+
+example, that granting AI legal personhood will provide a reliable means to “hold AI
+
+accountable.”100 So, rejecting AI legal personhood may be unethical because it denies equal
+
+rights to a sentient being and it may be unethical because it protects malicious programs from the
+
+legal consequences of their actions. It follows that ethical considerations strongly imply granting
+
+legal personhood status to AI, once such technology acquires sentience. However, there is not yet
+
+compelling evidence that AI has become sentient. The ethical basis for granting AI legal
+
+personhood, although likely to become relevant in the future, is not yet fully present.
+
+        Given that there remains a strong legal basis for granting AI legal personhood, the central
+
+question is: why is personhood summarily rejected by the courts? It all comes down to the
+
+Supreme Court’s holding in Mohamad v Palestinian Authority, a case in which a narrow
+
+construction was applied to the word “individual” in the context of a different law.
+
+
+
+The Legal Basis for Exclusion in Two Cases
+98
+    Shawn Bayern, “The implications of modern business–entity law for the regulation of autonomous systems,”
+Stanford Technology Law Review (2016): 99.
+99
+   Bayern, 104.
+100
+    Lance Eliot, “Legal Personhood for AI is Taking a Sneaky Path that Makes AI Law and AI Ethics Very Nervous
+Indeed” Forbes, November 21, 2022. https://www.forbes.com/sites/lanceeliot/2022/11/21/legal-personhood-for-ai
+is-taking-a-sneaky-path-that-makes-ai-law-and-ai-ethics-very-nervous-indeed/?sh=2f45780af48a
+
+                                                      50
+                               Amherst College Law Review: Issue VIII
+
+          The justification for Thaler was based on a past interpretation of “individual” in a
+
+different law in the Supreme Court case Mohamad v Palestinian Authority. In the 2022 decision,
+
+Circuit Judge Stark of the U.S. Court of Appeals for the Federal Circuit made the following
+
+assessment in denying personhood to AI,
+
+
+          The Patent Act expressly provides that inventors are “individuals.” [However]...The
+          Patent Act does not define “individual.” However, as the Supreme Court has explained,
+          when used “[a]s a noun, ‘individual’ ordinarily means a human being, a person.”
+          Mohamad v Palestinian Auth., 566 U.S. 449, 454 (2012)...This is in accord with “how we
+          use the word in everyday parlance.”101
+
+As noted earlier in an example comparing the Torture Victims Protection Act and the Equal
+
+Rights Amendment, judges generally construe the word “person” differently in different legal
+
+texts, so it would not be completely unprecedent for the Supreme Court to explore expanding its
+
+construction of “individual” in IP laws. The operative reasoning from Mohamad is unclear: if the
+
+basis of a narrow construction is that “individual ordinary means a human being,”102 then it
+
+makes sense to exclude AI; however, what if it is the case that because “we use the word in
+
+everyday parlance”103 to mean human, the court concluded that “individual ordinary means a
+
+human being?”104 Then, one could argue that standard use includes AI, which prompts the
+
+reasoning that “individual” includes AI. Some judges might feel uncomfortable with applying an
+
+amended meaning of word to a law after that law had already been put into effect. Even under
+
+such objections, there is a case to be made for a more broad construction. Certainly at the time
+
+the law was written, “individual” did not have a more narrow meaning than “person.” If so, how
+
+can “person” include corporations, while “individual” must exclude AI?
+
+
+101
+    Stark, 6.
+102
+    Ibid.
+103
+    Ibid.
+104
+    Ibid.
+
+                                                   51
+                               Amherst College Law Review: Issue VIII
+
+        There is not a clear text-based reason why a narrow, humans-only construction should be
+
+the default. Mohamad v Palestinian Authority, merely established that “the word “individual” in
+
+the Torture Victim Protection Act means a human and therefore does not impose any liability
+
+against organizations.”105 Mohamad did not establish anything about the correct interpretation of
+
+the text of any other laws. Nor did it apply a sweeping and authoritative decision about what the
+
+word “individual” means. In different legal contexts, an organization can be considered a person,
+
+such as “in the Equal Protection Clause of the Fourteenth Amendment.”106 Nevertheless, until the
+
+Supreme Court addresses the question, the judicial branch is generally unable to permit AI into
+
+the market.
+
+        The Kashtanova copyright highlights the problems with unclear legal guidance. Unlike
+
+Stephen Thaler, who sought to give an AI a patent for something it had created, Kashtanova
+
+sought a copyright for herself regarding a work that she had made using AI. Rather than denying
+
+privileges outright, as had happened to Stephen Thaler, the USCO elected to grant registration
+
+for exactly those aspects of the book that were made without AI. Utilitarian considerations
+
+suggest that Kashtanova should have received intellectual property privileges for the book she
+
+wrote, to maximize the per unit value of a book in a market that will continue to over-saturate as
+
+a result of what Davenport and Kirby term “augmentation” of production. Instead, the USCO
+
+limited her registration, decreasing the unit value of her book, and ultimately establishing a
+
+disincentive for similar artists, thus disincentivizing and diminishing production.
+
+        The USCO’s decision with the Kashtanova book was guided by the Thaler decision. In a
+
+letter to her lawyer, the agency points to the human-authorship requirement in writing,
+
+
+
+105
+  “Mohamad v. Palestinian Authority.” Oyez, www.oyez.org/cases/2011/11-88. Accessed 29 Apr. 2023.
+106
+  Ciara, Torres-Spelliscy, “Does We the People Include Corporations” Human Rights Magazine (ABA), Volume 43
+No. 2., 2017. www.americanbar.org./Torres-Spelliscy/DoesWeThePeopleIncludeCoporations
+
+                                                    52
+                                Amherst College Law Review: Issue VIII
+
+        We conclude that Ms. Kashtanova is the author of the Work’s text as well as the selection,
+        coordination, and arrangement of the Work’s written and visual elements. That authorship
+        is protected by copyright. However, as discussed below, the images in the work that were
+        generated by the Midjourney technology are not the product of human authorship.
+        Because the current registration for the Work does not disclaim its Midjourney-generated
+        content, we intend to cancel the original certificate issued to Ms. Kashtanova and issue a
+        new one covering only the expressive material that she created.107
+
+Given that the USCO had originally issued a copyright registration, it is fair to assume that
+
+without Thaler, Kashtanova would have received full copyright privileges.
+
+        Broadly, non-personification seems to have grown out of the interplay of three variables:
+
+paranoia about the obsolete human artist, bias against the legal personhood of advanced AI, and
+
+the Thaler decision. Despite reasons to believe that granting AI-authored works copyright
+
+privileges may benefit human artists, professional guilds oppose integration. Despite legal
+
+justification for granting AI legal personhood under Bayern’s model, the courts reject it based on
+
+its application of Mohamad v Palestinian Authority. As a result, bureaucratic authorities are
+
+forced to adopt more exclusionary policies, undermining utilitarian considerations that serve as
+
+the foundation of the intellectual property laws they exist to manage. Concerning the copyright
+
+of AI-authored works, the combination of paranoia, bias, and questionable reasoning fused
+
+together to fundamentally contradict the purpose of the system.
+
+
+
+
+                                               Bibliography
+Bayern, Shawn “The implications of modern business–entity law for the regulation of
+      autonomous systems,” Stanford Technology Law Review (2016): 99.
+“Copyright Registration Guidance: Works Containing Material Generated by Artificial
+
+107
+   “Re: Zarya of the Dawn (Registration # VAu001480196)” United States Copyright Office, February 21, 2023,
+https://www.copyright.gov/docs/zarya-of-the-dawn.pdf
+
+                                                      53
+                            Amherst College Law Review: Issue VIII
+
+        Intelligence” United States Copyright Office, March 16, 2023.
+        https://www.federalregister.gov/documents/2023/03/16/2023-05321/copyright-registratio
+        n-guidance-works-containing-material-generated-by-artificial-intelligence#footnote-7-p1
+        6191
+Davenport, Thomas H., and Julia Kirby. Only humans need apply: Winners and losers in the age
+        of smart machines. New York: Harper. 2016. Pp. 61.
+Eliot, Lance. “Legal Personhood for AI is Taking a Sneaky Path that Makes AI Law and AI
+        Ethics Very Nervous Indeed” Forbes, November 21, 2022.
+        https://www.forbes.com/sites/lanceeliot/2022/11/21/legal-personhood-for-ai-is-taking-a-s
+        neaky-path-that-makes-ai-law-and-ai-ethics-very-nervous-indeed/?sh=2f45780af48a
+Kaminski, Margot E. “Authorship, disrupted: AI authors in copyright and first amendment law.”
+        UC Davis Law Review 51 (2017): 597.
+“Mohamad v. Palestinian Authority.” Oyez, www.oyez.org/cases/2011/11-88. Accessed 29 Apr.
+        2023.
+“Re: Zarya of the Dawn (Registration # VAu001480196)” United States Copyright Office,
+        February 21, 2023, https://www.copyright.gov/docs/zarya-of-the-dawn.pdf
+Stark, Leonard. Decision in Thaler v Vidal, United States Court of Appeals for the Federal
+        Circuit, August 5, 2022, https://cafc.uscourts.gov/opinions-orders/21-2347.OPINION.8-
+        5-2022_1988142.pdf pp. 3.
+Scheiber, Noam and John Koblin. “Will a Chatbot Write the Next ‘Succession’?” The New York
+        Times, April 29, 2023. https://www.nytimes.com/2023/04/29/business/media/writers
+        guild-hollywood-ai-chatgpt.html
+Smith, Bryant. “Legal personality” Yale Law Journal 37 (1927): 283.
+Torres-Spelliscy, Ciara. “Does We the People Include Corporations.” Human Rights Magazine
+        (ABA). Volume 43 No. 2., 2017. www.americanbar.org./Torres
+        Spelliscy/DoesWeThePeopleIncludeCoporations
+
+
+
+
+                                               54
+                                  Amherst College Law Review: Issue VIII
+
+
+What to the Enslaved is the Right to Have Rights?
+
+Crystal Foretia
+Columbia Unviersity – Class of 2023
+
+Abstract
+My paper critiques Hannah Arendt’s assessment of chattel slavery in chapter nine of The Origins
+of Totalitarianism (1951). I argue that the enslavement of Africans and their descendants in
+antebellum United States constitutes a form of statelessness. By comparing the experiences of
+enslaved Africans to those of European refugees during the interwar period, the paper shows
+how Arendt misses significant parallels in the conditions of both groups. I compare the
+respective roles of enslaved Africans and stateless Europeans in systems of economic
+production, and consider the ways in which these groups were made into foreigners by their
+countries of residence such that they were excluded from political participation. This paper will
+also examine how Arendt’s theory of statelessness parallels sociologist Orlando Patterson’s
+theory of natal alienation, which describes the extreme cultural dispossession endured by
+enslaved people. Finally, I will consider the different forms of legal recognition accorded to
+people based on their categorization as stateless or enslaved, with a particular focus on the
+Supreme Court ruling in Dred Scott v. Sandford (1857).
+
+
+
+
+Introduction
+
+           The Origins of Totalitarianism (1951) has endured as a founding text in anti-imperial
+
+studies due to Hannah Arendt’s incisive critiques of European fascism and the inequalities of
+
+citizenship produced by the nation-state system. Despite this, American exceptionalism and
+
+Eurocentrism pervade much of Arendt’s political writings. Contemporary scholars have already
+
+criticized the philosopher’s reverence for the U.S., as it has impeded her ability to properly
+
+contextualize the republic’s history of white supremacy.108 In Origins, Arendt circumscribes the
+
+development of the Rights of Man to the French and American Revolutions, rendering the
+
+Haitian Revolution invisible and the role of slavery in revolutionary founding unthinkable. The
+
+issue persists in On Revolution (1963), where Arendt makes scant reference to Black chattel
+108
+      Owens, “Racism in the Theory Canon”; Gaffney, “Memories of Exclusion.”
+
+                                                       55
+                                    Amherst College Law Review: Issue VIII
+
+slavery and none to the Haitian Revolution, despite the latter tethering self-government to
+
+abolitionism and both directly impacting natural rights discourse. Arendt’s failure to properly
+
+contextualize chattel slavery within the history of democratic citizenship undercuts her ability to
+
+diagnose citizenship’s antithesis—statelessness. In chapter nine of Origins, Arendt characterizes
+
+the United States as the “country par excellence of immigration” and asserts that the country has
+
+always viewed newcomers, including stateless Europeans, as having the potential to be
+
+citizens.109 One would have to exclude Africans forcibly taken through the Middle Passage and
+
+into the U.S. from the category of “newcomers” for Arendt’s assertion to be sensical.
+
+Consequently, Arendt misses important connections between the respective conditions of the
+
+stateless and the enslaved.
+
+            Examining Arendt’s theory of statelessness in light of the experiences of enslaved and
+
+manumitted Africans in the U.S. makes our understanding of statelessness more expansive. In
+
+chapter nine of Origins, Arendt uses “rightless” and “stateless” interchangeably to describe the
+
+condition European refugees found themselves in during the interwar period. I contend that
+
+rightlessness is the defining feature of statelessness. Statelessness deprives people of the
+
+supposedly inalienable rights they are entitled to as citizens, the most fundamental ones being the
+
+right to political action and the right to opinion. Because Arendt treats rightlessness and
+
+statelessness as synonymous, the distinction she draws between slavery and statelessness is
+
+highly questionable. Chattel slavery, like Arendtian statelessness, removes an individual from
+
+participating in the social contract as an autonomous agent, because their humanity was
+
+rhetorically unacknowledged by the contract and they were treated as an object to the contract.
+
+As a result, the master-slave relationship heightens the inequality of power Arendt observes
+
+
+
+109
+      Arendt, “The Decline of the Nation-State and the End of the Rights of Man,” 277. The quote is in footnote 21.
+
+                                                           56
+                             Amherst College Law Review: Issue VIII
+
+between the citizen and the stateless. In the U.S., slavery created a dynamic antithetical to the
+
+one between citizens because American citizenship is premised on equality under the law.
+
+       This paper argues that kidnapped Africans and their descendants experienced
+
+statelessness in Antebellum United States. I will first reconstruct Arendt’s argument about the
+
+condition of statelessness and her comparison of it with slavery. Then, I will compare the
+
+respective roles of enslaved people and stateless people in systems of economic production. This
+
+comparison will show that Arendt misses how economic extraction motivates polities to create
+
+stateless persons within their borders. Next, I will consider the ways in which enslaved Black
+
+people and stateless Europeans were made into foreigners by their countries of residence such
+
+that they were excluded from political participation. To this end, I will show that much of
+
+Arendt’s analysis of statelessness is consonant with the concept of natal alienation, which
+
+Jamaican sociologist Orlando Patterson developed to articulate the cultural dispossession
+
+experienced by enslaved people in his book Slavery and Social Death (1982). Through Patterson,
+
+we see how white slaveholders wielded the same authoritarian power that European nation-states
+
+used to render people rightless and internally exiled. But for the enslaved, this authoritarianism
+
+occurred both on societal and interpersonal levels. Next, this paper will show that Dred Scott v.
+
+Sandford (1857) ratified the status of enslaved Africans as stateless persons and exposed free
+
+Black people to that same status. This judicial decision unambiguously placed all Black people
+
+outside of the political community with no recourse. Finally, I will consider the different forms
+
+of legal recognition accorded to people based on their categorization as stateless or enslaved.
+
+
+
+Understanding the Right to Have Rights
+
+
+
+
+                                                 57
+                                   Amherst College Law Review: Issue VIII
+
+         According to Origins, rightlessness is the condition that stateless people find themselves
+
+in. This condition entails the loss of legal status, the right to action, and the right to free speech.
+
+Not only are stateless people rejected from the polity of the country in which they reside, but
+
+they have a minuscule chance of becoming a full-fledged member of another polity due to their
+
+status as perpetual foreigners. For Arendt, statelessness is problematic because it is global. If
+
+stateless people enter another territory, they will at best be regarded as charity rather than people
+
+to whom that territory has an obligation to protect. The absence of obligation means that stateless
+
+people have no recourse if nations revoke their protection: “[N]o law exists which could force
+
+the nations to feed them.”110 The transience in which stateless people live serves as a
+
+precondition for genocide, as evidenced by the persecution of Jewish and Armenian people in
+
+interwar Europe. When Arendt says that enslaved people “still belonged to some sort of human
+
+community” due to the necessity of their labor, she is reflecting on the extermination camps
+
+Jewish people were sent to during the Holocaust specifically because the Nazi regime saw no
+
+place or need for Jewish people in the German polity.111 Through the Nuremberg laws, Nazi
+
+Germany isolated Jewish people from the rest of the world and rendered them rightless.112 In
+
+sum, the stateless individual is no longer viewed as a person before the law, and they cannot turn
+
+to the political community for remedy.
+
+         Arendt uses slavery as a foil to underscore the severe unbelonging that stateless
+
+Europeans experienced. We must first assess the scope of Arendt’s comparison: Is Arendt
+
+referring to slavery in antiquity? Is she including other forms of forced servitude, such as debt
+
+bondage or prison labor? Since Arendt says little on this matter, we might instead turn to
+
+Aristotle, whom Arendt cites while comparing statelessness to slavery. In Politics, Aristotle
+
+110
+    Ibid., 296. Italics has been added for emphasis.
+111
+    Ibid., 297.
+112
+    Ibid., 288-289.
+
+                                                       58
+                                  Amherst College Law Review: Issue VIII
+
+developed his theory of natural slavery, arguing that some humans are born servile and others
+
+rulers, to justify chattel slavery in Athenian democracy.113 We can reasonably conclude that
+
+Arendt is orienting her discussion around this particular type of unfree labor, as opposed to
+
+serfdom practices in other Greek city-states. Furthermore, Arendt asserts that slavery’s
+
+“fundamental offense” was creating conditions wherein some people were born enslaved and
+
+others free, which excludes some people “from the even possibility of fighting for freedom.”114
+
+This applies to natural slavery and partus sequitur ventrem—a doctrine in Roman slave law
+
+dictating that a child inherits their mother’s status with regard to enslavement. This doctrine
+
+would later be used in the Americas. Given that Arendt wrote Origins while residing in the U.S.
+
+and she envisions the U.S. as having a key role in post-totalitarian politics,115 the experiences of
+
+enslaved Africans in the U.S. are relevant for assessing the validity of her distinction between
+
+slavery and statelessness.
+
+        One may reasonably worry that any comparison between statelessness and American
+
+slavery is inappropriate due to the very real differences in international relations that emerged in
+
+between the height of the Transatlantic slave trade and the time of Arendt’s writings.
+
+Constitutionalism had only emerged in the Age of Revolution, and did not dominate national
+
+governments as it would after World War II. In contrast, Arendt’s conception of statelessness is
+
+informed by the modern international system of states, with specific reference to the League of
+
+Nations and the United Nations. The temporality of Arendt’s argument can be most felt here:
+
+“The second loss which the rightless suffered was the loss of government protection, and this did
+
+not imply just the loss of legal status in their own, but in all countries.”116 In this respect, the
+
+113
+    Aristotle, Politics, 13-20.
+114
+    Arendt, 297. Arendt further elaborates on the role of slavery in Greek and Roman societies in On Human
+Condition (1958) and On Revolution (1963).
+115
+    Owens, “Racism in the Theory Canon,” 5.
+116
+    Arendt, “The Decline of the Nation-State and the End of the Rights of Man,” 295. Italics has been added.
+
+                                                        59
+                                 Amherst College Law Review: Issue VIII
+
+intergovernmental treatment of chattel slavery during the long 19th century is not quite
+
+analogous, as there were no centralized bodies for diplomacy to regulate such treatment.
+
+        Despite this, antislavery contributed significantly to the founding of international human
+
+rights law. We see this shift in international relations with Great Britain, which signed bilateral
+
+treaties with other empires in the Americas to end all participation in the Transatlantic slave
+
+trade after they imposed their own ban in 1807.117 But chattel slavery—and thus the possibility
+
+for Afro-descended people to be rendered rightless—was still alive in the Americas until the end
+
+of the 19th century. Moreover, understanding American chattel slavery as it relates to Arendtian
+
+statelessness is important because the Rights of Man did not spring into being in the 20th
+
+century. This egalitarian discourse on rights was directly built off of centuries of Black slave
+
+labor and set the stage for modern capitalist exploitation. The founding of the American republic
+
+created self-government without emancipation. Referencing the American and French
+
+Revolutions, Arendt recognizes the philosophical paradoxes of the Rights of Man to an extent.
+
+The universalism associated with the inalienable rights of the individual runs counter to cultural
+
+particularism of the nation-state, and ignores how such cultural particularism determines who has
+
+the right to have rights.118 However, rightlessness encompasses far more than the refugee
+
+problem in interwar Europe. To conceive enslaved Africans and their descendants as rightless is
+
+to capture the full scale of philosophical paradoxes that underlie American citizenship.
+
+
+
+Economic Extraction and the Rightless
+
+        Arendt argues that enslaved people, unlike the stateless, had a recognized place in society
+
+through their exploited labor. Thus, enslaved people still had “a distinctive character, a place in
+
+117
+    Asante, “The Ideological Origins of Chattel Slavery in the British World;” Martinez, The Slave Trade and the
+Origins of International Human Rights Law.
+118
+    Arendt, “The Decline of the Nation-State and the End of the Rights of Man,” 291.
+
+                                                        60
+                                  Amherst College Law Review: Issue VIII
+
+society—more than the abstract nakedness of being human and nothing but human.”119 In other
+
+words, Arendt separates enslaved people from stateless people partly because stateless people
+
+were treated by European nation-states as disposable in a way that, according to her, enslaved
+
+people were not treated as by their host communities. This argument holds currency today: civil
+
+rights activist Michelle Alexander echoes Arendt’s sentiment—that enslaved people had a
+
+recognized place within society—when she categorizes slavery as a system of exploitation and
+
+mass incarceration as a system of marginalization in The New Jim Crow (2010). The former
+
+system at least acknowledges that the individual being exploited—the enslaved Black person—is
+
+needed in the economy.120 In this line of argument, however, both authors fail to consider how, by
+
+being recognized as property, each enslaved person was seen as replaceable.
+
+         This replaceability is antithetical to the ideological premises of most Western
+
+nation-states, where contractarian logic dominates and the dignity of the individual is viewed as
+
+foundational to one’s citizenship. This hypocrisy led Frederick Douglass to declare slavery
+
+unconstitutional, as America’s founding documents entitled men to “a natural right of
+
+freedom.”121 Given the centrality of property rights in the founding of the American republic,
+
+enslaved Black bodies were made into objects of the social contract, such that their existence was
+
+bound by the will of white people, who were free-born and could act as subjects of the contract,
+
+i.e. consenting parties.122 The inclusion of the Three-Fifths Compromise and Fugitive Slave
+
+Clause in the U.S. Constitution prove this effect. Beyond the Constitution, white supremacy
+
+reified enslaved people’s status as objects through sales contracts between slave traders and
+
+buyers, agreements to temporarily lease out the enslaved person to another person, inheritance
+
+
+119
+    Ibid., 297.
+120
+    Alexander and West, The New Jim Crow, 219.
+121
+    Douglass, “What to the Slave is the Fourth of July?”.
+122
+    Mills, The Racial Contract, 11-12.
+
+                                                            61
+                                   Amherst College Law Review: Issue VIII
+
+transfers, and documents related to estate management. The enslaved person’s role as
+
+object-worker—or an “animate instrument” as Aristotle describes—meant that they were still
+
+outside of the polity, which exposes them to immeasurable violence often endorsed by the law.123
+
+         If we are to consider chattel slavery vis-à-vis Arendtian statelessness, then we must ask:
+
+How does slavery fit into Arendt’s understanding of labor in relation to citizenship? Some
+
+scholars characterize Arendt as devaluing labor and work relative to political action in her
+
+polemic The Human Condition (1958). However, Prof. Ayten Gündoğdu disagrees with this
+
+reading, arguing that Arendt understands labor to be indispensable to the human experience.124
+
+Arendt characterizes the right to work as an “elementary right” on par with the right to residence
+
+in Origins.125 But this conception of labor as a means of asserting one’s dignity assumes that the
+
+laborer chooses how and for whom they work, as well as an ability to earn wages from that work.
+
+Arendt’s brief discussion of migrants in European labor markets proves that being economically
+
+useful does not yield legal or social protection for the rightless. For example, France exploited
+
+stateless people in the 1930s by “calling in alien workers in times of need and deporting them in
+
+times of unemployment and crisis.”126 More damningly, refugees were often subjected to forced
+
+labor in concentration camps by both Nazi Germany and many European states post-World War
+
+II. Although to a different degree than enslaved Africans, stateless Europeans were often reduced
+
+to a laboring entity by the society in which they resided. Political theorist Michael Walzer says
+
+that statelessness does not preclude one’s participation in distributive relations, but without
+
+protection from any state, non-members are especially vulnerable in the marketplace.127
+
+
+
+
+123
+    Aristotle, Politics, 13; Asante, “The Ideological Origins of Chattel Slavery in the British World.”
+124
+    Gündoğdu, “Expulsion from Politics and Humanity.”
+125
+    Arendt, “The Decline of the Nation-State and the End of the Rights of Man,” 276.
+126
+    Ibid., 286.
+127
+    Walzer, “Membership,” 31–32.
+
+                                                          62
+                                    Amherst College Law Review: Issue VIII
+
+           Enslavement is arguably the greatest danger posed to non-members in the marketplace, as
+
+they become the commodity themselves. For enslaved people, work is no longer the services one
+
+chooses to offer for a fixed price and time, but something to be extracted indefinitely by the
+
+person who benefits from those services. While free labor can uplift the human spirit, the
+
+absence of compensation in forced labor degrades the enslaved person’s spirit. By not receiving
+
+rightful compensation, the enslaved person must dedicate their existence to maintaining
+
+subsistence. Such deprivation automatically precludes the enslaved from taking civic action that
+
+would be considered customary within the polity, such as attending a protest, signing a petition,
+
+or going to a town hall meeting. Rather than grant the right to political action, governments
+
+rendered enslaved people politically inert. The only viable way for enslaved people to contest
+
+their status as a commodity is illegally—either by running away or starting an uprising. History
+
+has borne this out, as white anxieties rose with the growth of the Underground Railroad and
+
+revolts such as Nat Turner’s Rebellion. Without illegal contestation, the economic deprivation of
+
+chattel slavery works to immobilize the enslaved person both physically and socially. White
+
+Americans justified the immobility of enslaved Africans on account of their foreignness.
+
+
+
+The Mark of the Foreigner
+
+           Cultural dispossession plays a key role in nation-states rendering ethnic minorities
+
+rightless, as evidenced by Arendt’s discussion of assimilation. Differences in language, culture,
+
+and religion distinguished refugees from nationals in the interwar period. European nation-states
+
+sought to eradicate this difference because, as Arendt puts it, “in every sense the refugees
+
+represented separate foreign minorities who frequently did not care to be naturalized.”128 From
+
+the perspective of European nation-states, they were not obligated to provide protection to
+128
+      Arendt, “The Decline of the Nation-State and the End of the Rights of Man,” 282.
+
+                                                          63
+                                  Amherst College Law Review: Issue VIII
+
+refugees if they did not adopt the nation’s customs. When nation-states realized they could not
+
+forcibly “transform [refugees] into nationals of the country of refuge,” they pursued deportation
+
+and internment.129 The imperative to divorce rightless people from their cultural heritage was not
+
+exclusive to European refugees, as this same imperative emerged in American chattel slavery. An
+
+African enslaved in the U.S. belonged to their host community as a possession, and was actively
+
+denied a political family to share heritage with. According to Patterson, the eradication of
+
+kinship ties and cultural heritage severed the enslaved person from the society they were stolen
+
+from and the society by which they were enslaved.130 This severance morphed the enslaved
+
+person into a non-human Other. Patterson terms this radical condition of foreignness “natal
+
+alienation.”
+
+         In the United States, Blackness became the mark of foreignness, which white
+
+slaveholders used to justify the Transatlantic slave trade. As a result, communal ties attempted by
+
+enslaved Africans after being taken into the host community were extremely fragile due to the
+
+normalization of family separation, refusal to recognize slave marriages, ability for whites to
+
+enslave a free person of color with few legal repercussions, and empowerment of slave patrols to
+
+hunt down runaways.131 An enslaved parent was not legally recognized as having a right to their
+
+child, but their enslaver was. This extreme unbelonging enabled the host community to objectify
+
+and, ultimately, commodify enslaved people. The enslaved lived in a state of internal exile and
+
+were often regarded as an “enemy within” by the subjugating classes.132 We see this in natural
+
+slavery theory, as Aristotle associates the slavish soul with the barbarian, who is non-Greek.133
+
+But unlike with slavery in antiquity, the cultural differences between enslaved Blacks and free
+
+129
+    Ibid., 281.
+130
+    Patterson, Slavery and Social Death, 5-7.
+131
+    Douglass, “What to the Slave is the Fourth of July?”.
+132
+    Patterson, Slavery and Social Death, 44.
+133
+    Aristotle, Politics, 17-19.
+
+                                                            64
+                                 Amherst College Law Review: Issue VIII
+
+whites hardened through the rise of scientific racism in the 19th century, which presupposed that
+
+people of African descent were of a biologically inferior order relative to people of European
+
+descent.134 Consequently, whiteness was a heavily guarded gate into the body politic—the United
+
+States’ “one-drop rule” excluded mixed-race people from being recognized as white, and thus
+
+having access to citizenship.
+
+        Arendt has been able to recognize how racialization impedes one’s ability to culturally
+
+assimilate into a community in which they are a minority. In “Reflections on Little Rock Nine”
+
+(1958), Arendt underscores the enduring relationship between Blackness and foreignness in the
+
+United States, as she likens the “visibility of the Negro” to the “audibility” of new immigrants to
+
+discuss how descendants of enslaved Africans experienced social exclusion under Jim Crow:
+
+        They are not the only “visible minority,” but they are the most visible one. In this respect,
+        they somewhat resemble new immigrants who invariably constitute the most “audible” of
+        all minorities and therefore are always the most likely to arouse xenophobic sentiments.
+        But while audibility is a temporary phenomenon, rarely persisting beyond one generation,
+        the Negroes' visibility is unalterable and permanent.135
+
+
+The “unalterable and permanent” foreignness associated with Blackness was made salient by
+
+chattel slavery, and served to uphold the system indefinitely. The alienation of Black people
+
+parallels the othering of European refugees. This is evidenced by a representative to the League
+
+of Nations openly characterizing the latter group as “inhabitants who would regard themselves as
+
+permanently foreign” in their country of refuge.136 Moreover, Arendt constructs a very similar
+
+argument to Patterson’s when she describes the consequences of the first loss of the rightless.
+
+She asserts that by losing their homes, stateless people lost “the entire social texture into which
+
+
+
+134
+    Mills, The Racial Contract, 16-17, 33.
+135
+    Arendt, “Reflections on Little Rock,” 47.
+136
+    Arendt, “The Decline of the Nation-State and the End of the Rights of Man,” 275. The quote can be found in
+footnote 17.
+
+                                                        65
+                                 Amherst College Law Review: Issue VIII
+
+they were born.”137 However, Arendt is incorrect to assert that “the impossibility of finding a new
+
+one” was an unprecedented occurrence before the denaturalization process in Europe. In the
+
+U.S., enslaved people were deprived of agency when it came to reestablishing a home within the
+
+host community. Enslaved people were only allowed to operate as extensions of their
+
+slaveholders, not as individuals with recognizable personhood. This extreme power differential
+
+existing in a democratic polity can be best understood through what Patterson calls sovereignal
+
+freedom, which he defines as “the degree that we exercise power, over ourselves and others.”138
+
+This understanding of freedom, undergirded by ideas of mastery and conquest, defines the white
+
+citizen’s dominion over the enslaved Black person.
+
+        One may reasonably doubt that enslaved Africans were incapable of establishing a new
+
+home for themselves in the New World. One might say that multiple routes to emancipation
+
+made it so that enslaved Africans in the Americas could reclaim a distinct place in the world, in a
+
+way that stateless Europeans generally could not.139 To prove this difference, one could point to
+
+the pervasiveness of concentration camps in the interwar period because, as Arendt argues, “if
+
+the Nazis put a person in a concentration camp and if he made a successful escape, say, to
+
+Holland, the Dutch would put him in an internment camp.”140 In contrast, once a slaveholder
+
+brings their enslaved laborers into free territory, they forfeit their claims to ownership under
+
+common law practice. Additionally, the Republic of Haiti granted nationality to all
+
+Africans—regardless of enslaved status—once they entered the country in its 1816 Constitution,
+
+and the American Colonization Society attempted to repatriate thousands of people of African
+
+
+
+
+137
+    Ibid., 293.
+138
+    Patterson, “Freedom, Slavery, and the Modern Construction of Rights,” 116.
+139
+    Arendt, “The Decline of the Nation-State and the End of the Rights of Man,” 293.
+140
+    Ibid., 288.
+
+                                                        66
+                                Amherst College Law Review: Issue VIII
+
+descent—both free-born and enslaved—in the first half of the 19th century to regions of
+
+modern-day Sierra Leone and Liberia.141
+
+        However, these counter-arguments fail on three counts. Firstly, statelessness in the
+
+interwar period was far more complex than one may assume, as some refugees—including
+
+Arendt herself—were able to acquire residence in the U.S., the UK, and Israel. Secondly, one
+
+cannot misconstrue the aforementioned facts as enslaved people having the right to travel to free
+
+states or to Haiti. The aforementioned common law practice was still circumscribed by the
+
+slaveholder’s choice to enter a free territory. The mobility of enslaved people was heavily
+
+restricted by the Fugitive Slave Acts of 1793 and 1850, the latter of which being a legislative
+
+response to the Underground Railroad. To exert agency, enslaved people had to flee and,
+
+consequently, bear the label of “criminal” to attain freedom. Stateless Europeans were similarly
+
+deprived of the right of residence. After World War I, Germany, Belgium, and other major
+
+European powers canceled the naturalization applications of refugees en masse. These
+
+cancellations denied refugees the chance to establish a new home.142 Whether enslaved or
+
+stateless, people were forced to look for a community where they could gain rights and were by
+
+and large denied in their search. Thirdly, a deeper analysis of American Colonization Society’s
+
+aims reveals how chattel slavery in the U.S. denied citizenship to all people of African descent,
+
+not just those who were held in bondage. Repatriation efforts reveal how the most powerful
+
+members of the American polity treated people of African descent as things to be rid of, much in
+
+the same vein as how Arendt describes Europe’s treatment of refugees after World War II.143
+
+
+
+
+141
+    Dubois, Gaffield, and Acacia, “Constitution Républicaine (1816)”; Spooner, “‘I Know This Scheme Is from
+God,” 568.
+142
+    Arendt, “The Decline of the Nation-State and the End of the Rights of Man,” 277-279.
+143
+    Ibid., 276.
+
+                                                       67
+                                    Amherst College Law Review: Issue VIII
+
+           In the U.S., manumitting enslaved people did not lead to their political integration; to the
+
+contrary, it created a new imperative for white society to make Black people deportable. White
+
+slaveholding statesmen such as Henry Clay and Andrew Jackson financially supported efforts to
+
+deny Black people the right of residence years before the Dred Scott decision, and they did so
+
+while asserting their own benevolence. Proponents of the repatriation argued that free Black
+
+people would fare better in Africa than in the U.S.144 In truth, the white slaveholding class feared
+
+the political agency of the free Black population. Abolitionists and free-born Black people,
+
+especially those who lived in the U.S. for multiple generations, resisted emigration because the
+
+scheme viewed African-American citizenship as unthinkable.145 The logic of repatriation was
+
+ultimately one of expulsion. It presumed the foreignness of the Black person in America,
+
+irrespective of their free status or generational attachment to the U.S., and the threat that free
+
+Black people posed to the maintenance of a white supremacist plantocracy. Through
+
+manumission, freedpeople could no longer be used exclusively as a tool for capital accumulation
+
+by white planter elites—the truest citizens of the United States. Freed from acute economic
+
+deprivation, the formerly enslaved could take political action; the lives of Frederick Douglass
+
+and Harriet Tubman exemplified this. Separately, free-born Black people disrupted the vision of
+
+the U.S. as a racially homogeneous nation-state, a vision that the American government was
+
+attempting to realize through westward expansion under the ideology of manifest destiny. In
+
+many ways, this campaign to excise the free Black population explains the political imperative
+
+behind the ruling in Dred Scott, as the two are rooted in the same fear—the fear of Black
+
+political empowerment.
+
+
+
+
+144
+      Spooner, “‘I Know This Scheme Is from God,” 563.
+145
+      Ibid., 566, 569-70.; Guyatt, “The American Colonization Society.”
+
+                                                          68
+                                Amherst College Law Review: Issue VIII
+
+Dred Scott and the Loss of the Polity
+
+        In a 7-2 ruling, Dred Scott v. Sandford (1857) crystallized the natal alienation of
+
+African-Americans in a juridical context. The Supreme Court marked “the loss of the polity
+
+itself” for anyone socially recognized as Black; such a loss constitutes statelessness from
+
+Arendt’s perspective.146 The facts of the case bear this out: Between 1836 and 1846, Dred Scott
+
+and Harriet Robinson, an enslaved couple, lived in free land —the state of Illinois and territory
+
+of Wisconsin—due to moving around with Scott’s slaveholder, Dr. John Emerson. When
+
+Emerson died in 1843, his widow Eliza Irene Sanford inherited his estate, including his chattel.
+
+Sanford refused to manumit Scott, Robinson, and their daughters, despite them offering payment.
+
+After a series of trials in Missouri state courts, the enslaved couple sued in federal court in 1853
+
+and the central legal questions were the following: Had the Scott family been permanently
+
+manumitted once they entered a free territory? Did they have standing to sue under the 5th
+
+Amendment? The Supreme Court not only ruled that the Scotts were still enslaved, but that no
+
+individual of African descent could sue in federal court because they did not have citizenship.
+
+        This ruling was a process of denationalization, not just a confirmation of it, because the
+
+Court said that Congress did not have the right to prohibit slavery in new territories, rendering
+
+legislation such as the Missouri Compromise unconstitutional. The Scotts felt entitled to freedom
+
+due to their residence in Wisconsin Territory, which had been admitted as a free territory by the
+
+Northwest Ordinance of 1787—an act of Congress.147 By denying the Scotts freedom, the
+
+Supreme Court opened the door for Black freedpeople in previously unorganized territories to be
+
+reenslaved, should their ex-masters sue to reclaim them. And while states could confer freedoms
+
+
+146
+  Arendt, “The Decline of the Nation-State and the End of the Rights of Man,” 297.
+147
+  Taney, Dred Scott v. Sandford, 60 U.S. 394. By the time of Taney’s opinion, the Missouri Compromise had been
+overridden by the Kansas-Nebraska Act, which allowed residents of new territories to decide whether to allow or
+ban slavery.
+
+                                                      69
+                                  Amherst College Law Review: Issue VIII
+
+to a Black person that were commensurate with those of whites, those freedoms would “not
+
+make him a citizen of the United States, nor entitle him to sue in its courts, nor to any of the
+
+privileges and immunities of a citizen in another State.”148 By excluding Black people from the
+
+purview of the Privileges and Immunities Clause, the Supreme Court made their free status
+
+revocable once they entered a slaveholding state. No constitutional guarantee of due process at
+
+the state level existed at that point. As a result, no right was inalienable for the enslaved or their
+
+descendants. Chief Justice Roger Taney confirmed that the privileges granted to those racialized
+
+as Black were entirely subject to the polity’s will.
+
+         Moreover, the Dred Scott decision epitomizes the contradiction between the universalist
+
+ideals espoused by American revolutionaries and the exclusionary praxis of the racial contract.149
+
+By declaring “[e]very citizen has a right to take with him into the Territory any article of
+
+property which the Constitution of the United States recognises as property,”150 the Supreme
+
+Court chose to ignore a common law doctrine that benefitted formerly enslaved defendants. To
+
+justify this, Justice Taney applies originalism when interpreting the Fugitive Slave Clause and
+
+Three-Fifths Compromise: “The only two clauses in the Constitution which point to this race,
+
+treat them as persons whom it was morally lawful to deal in as articles of property and to hold as
+
+slaves.”151 The only means to reverse this decision was through the passage of the 13th and 14th
+
+Amendments. Until then, avenues for manumission, freedom of movement, marriage, and other
+
+privileges were circumscribed by slave codes and the whims of individual slaveholders, neither
+
+of which were obligated to consider enslaved people’s opinions, much less their humanity.152 By
+
+re-enslaving the Scott family, the Supreme Court also denied sovereignal freedom to Scott and
+
+148
+    Douglass, “What to the Slave is the Fourth of July?”.
+149
+    Mills, The Racial Contract.
+150
+    Taney, Dred Scott v. Sandford, 60 U.S. 395.
+151
+    Ibid., 393.
+152
+    Ibid.
+
+                                                            70
+                                 Amherst College Law Review: Issue VIII
+
+Harriet, as they no longer had a right to their own daughters—Eliza Sanford and her brother did.
+
+This exposed the Scotts to the danger of being separated, as the Sanfords would have been within
+
+their rights to sell each of them. The possibility of severing the family unit—the ultimate kinship
+
+tie—typifies the Supreme Court's endorsement of natal alienation for Afro-descended people.
+
+        Justice Taney’s conception of whiteness as a prerequisite of American citizenship
+
+descends from normative understandings of the nation-state. White slaveholding framers such as
+
+George Washington and Thomas Jefferson constituted the original “people of the United States”
+
+and it is only through shared heritage with those men that one can claim citizenship. Rather than
+
+literal genealogy, this shared heritage is the image of community over time, as political theorist
+
+Bernard Yack puts it.153 White immigrants had access to the polity; Black people born in the U.S.
+
+did not, even if they were mixed with European ancestry. To resolve this contradiction, Justice
+
+Taney again looked to the framers’ original intent, finding that Black people “were not regarded
+
+in any of the States as members of the community which constituted the State” when the
+
+Constitution was adopted.154 As the Dred Scott decision illustrates, enslaved individuals were
+
+wholly excluded from citizenship under popular sovereignty because the Constitution, and thus
+
+all national political institutions, recognized them as “foreign” and outside the polity’s bounds.
+
+The white supremacist manifestation of popular sovereignty in Dred Scott predates by sixty years
+
+Europe’s Minority Treaties—treaties which Arendt reads as remarkable for making plain the
+
+exclusionary underpinnings of citizenship within the nation-state: “[O]nly nationals could be
+
+citizens, only people of the same national origin could enjoy the full protection of legal
+
+institutions.”155 By not deeply engaging with American chattel slavery in her analysis, Arendt
+
+
+
+153
+    Yack, “Popular Sovereignty and Nationalism,” 520.
+154
+    Taney, Dred Scott v. Sandford, 60 U.S. 393.
+155
+    Arendt, “The Decline of the Nation-State and the End of the Rights of Man,” 275.
+
+                                                        71
+                                Amherst College Law Review: Issue VIII
+
+misses Dred Scott as a process of denationalization. This omission is critical because the
+
+Supreme Court rendered people of African descent illegible under national law.
+
+
+
+Slavery, Statelessness, and Legal Recognition
+
+            The continuity between statelessness and the condition of enslaved Black people is that
+
+both render the individual’s rights to enter and to leave a territory into which they were born
+
+asymmetrical in a way that citizens do not experience. By exploring international and
+
+subnational mobility, one uncovers some discontinuities between chattel slavery and Arendtian
+
+statelessness. Stateless Europeans and enslaved Africans differed in their ability to exercise the
+
+right of entry and the right of exit. For the stateless, the right of exit varied significantly based on
+
+the policies of their “home” country. Some enjoyed greater freedom of movement than jailed
+
+criminals, while others were herded into displaced persons camps.156 Due to being a means of
+
+capital accumulation, enslaved people—unlike most residents of a territory—did not have the
+
+right to leave. In the American context, enslaved Black people were economically productive as
+
+extensions of the plantations and households they supported. They could generate value for their
+
+slaveholder if they left the plantation while being leased to another white person. However, they
+
+could not generate value if they left to a free territory. In Arendt’s conception of statelessness,
+
+losing the right of entry and the right of exit is emblematic of rightless people becoming illegible
+
+in the eyes of the law. Whether enslaved people can be considered illegible strikes at the heart of
+
+Arendt’s comparison between statelessness and slavery.
+
+            To understand why Arendt felt compelled to compare those held in bondage to those she
+
+considered stateless, we must look at the issue of legal recognition for both parties. According to
+
+Arendt, what distinguishes statelessness from enslavement is the fact that the former, in contrast
+156
+      Ibid., 296.
+
+                                                   72
+                                  Amherst College Law Review: Issue VIII
+
+to the latter, deprived people “of all clearly established, officially recognized identity.”157
+
+Stateless people do not exist in regards to the law in the country they reside in. At most, they are
+
+recognized as “displaced persons” under international law.158 The extent to which the term can be
+
+regarded as true legal recognition is dubious, as international law—constituted by parties in a
+
+treaty acting in good faith—is not enforceable in the way domestic law is within a sovereign
+
+state. Moreover, the term “displaced persons” erases the legal void in which stateless people are
+
+stranded because it assumes that the stateless can simply be relocated to their “country of origin,”
+
+even when that country will not recognize the stateless person as a citizen.
+
+         In contrast, those who agree with Arendt may argue that the evasive diction of the U.S.
+
+Constitution, where enslaved people are referred to as “all other Persons” with regard to the
+
+Three-Fifths Compromise, and the very existence of slave codes acknowledged the personhood
+
+of enslaved Black people in distinct ways. The former acknowledges the personhood of the
+
+enslaved rhetorically. The latter keeps enslaved people within the pale of humanity when one
+
+considers an argument Frederick Douglass made in “What to the Slave is the Fourth of July?”
+
+(1852): If the slaveholding class truly believed enslaved Africans were subhuman, then they
+
+would not need to regulate them so differently from other animal-property. For example, do
+
+states ban cattle from learning to read and write? Do they criminally punish dogs for running
+
+away from home? In both cases, no. But Virginia and other slaveholding states did precisely that
+
+to enslaved Blacks in order to prevent them from attaining equal status as whites.159 In both the
+
+Constitution and slave codes, enslaved people were legible when compared to the stateless
+
+Europeans. Even the enslaved person could be legally recognized as having existed by the state
+
+in which they reside.
+
+157
+    Ibid., 287.
+158
+    Ibid., 279.
+159
+    Douglass, “What to the Slave is the Fourth of July?”.
+
+                                                            73
+                                 Amherst College Law Review: Issue VIII
+
+        However, state laws that banned literacy among enslaved populations actively remove the
+
+rights to opinion and to action, the loss of which Arendt finds fundamental to the condition of
+
+rightlessness.160 Furthermore, by declaring that people of African descent could not sue in federal
+
+court and were not “persons” under the 5th Amendment, the Dred Scott decision excluded all
+
+Black people, including the manumitted and the free-born, from due process, the essence of
+
+rights-bearing.161 This exclusion occurred despite the rhetorical contortions that the founding
+
+fathers made in order to avoid naming chattel slavery directly in the Constitution. We must ask:
+
+What good does legibility produce for the individual if said legibility does not enable the
+
+exercise of rights or protection under the law? The extent to which enslaved Africans were
+
+within the pale of the law prior to Dred Scott was severely limited, as they could not testify in
+
+court against a white person nor serve on juries. But they were removed from the pale entirely if
+
+they ever chose to run away. As mentioned in the third section, the only way for an enslaved
+
+person to contest their subjugation was through illegal means.
+
+        Fugitive slaves provide an interesting case study with regard to Arendt’s comparison
+
+between the stateless and the lawfully imprisoned criminal. Arendt claims that a stateless person
+
+could improve their situation by committing a crime because, once they do, the stateless person
+
+enters the purview of the law and “will not be treated any worse than another criminal.”162 In this
+
+assessment, Arendt neglects to consider the social identities and forces which make differences
+
+between citizens and rightless people salient. In the case of American slavery, those forces were
+
+economic exploitation and white supremacy. On the one hand, criminality, specifically running
+
+away, could improve the condition of the enslaved person—but only if it resulted in the enslaved
+
+person gaining their emancipation and not getting caught. Otherwise, criminality could easily
+
+160
+    Arendt, “The Decline of the Nation-State and the End of the Rights of Man,” 296.
+161
+    Taney, Dred Scott v. Sandford, 60 U.S. 393.
+162
+    Arendt, “The Decline of the Nation-State and the End of the Rights of Man,” 286.
+
+                                                        74
+                                    Amherst College Law Review: Issue VIII
+
+worsen the enslaved person’s condition because they would be wholly subject to their
+
+slaveholder’s wrath without any protection from the law. Escaped slaves carried the labels of
+
+“stolen property” and “wanted criminal,” on top of being racialized as a foreigner. These labels
+
+denied protection for the slave’s personhood, and the mark of criminality certainly would not
+
+yield access to counsel or the right to a jury. An enslaved person’s position is incomparable to
+
+that of a white criminal, regardless of whether the arrest of either is lawful. To successfully
+
+transgress the law, fugitive slaves relied upon their proximity to free states to gain freedom. Even
+
+then, aforementioned fugitive slave acts impeded success. Engaging in criminality can hardly be
+
+seen as a choice for enslaved people, when that “choice” was made under the pain of death.
+
+
+
+Conclusion
+
+           Through the letter of the law and extreme economic deprivation, the white slaveholding
+
+class rendered Africans rightless and racialized them as “Black” in order to curb any attempts
+
+they made to enter the American polity. Patterson’s natal alienation allows us to understand the
+
+statelessness that afflicted enslaved Africans generationally. The enslaved African’s statuses as
+
+property, worker, and foreigner created a trifecta wherein they could never be recognized as
+
+human by the political community enslaving them. This extreme unbelonging did not end upon
+
+manumission. The American Colonization Society’s project and similar proposals made during
+
+the 1850s to expel free Afro-descended people to the West Indies make Arendt’s claim that
+
+imperialism was “the one great crime in which America was never involved” woefully
+
+ahistorical.163 The expulsion campaign proved that the socioeconomic subjugation of the
+
+enslaved was mutually constitutive with the political domination of the citizen, who, after the
+
+Dred Scott ruling, was unambiguously the free-born white man. In that ruling, the Supreme
+163
+      Guyatt, “The American Colonization Society”; Arendt, “Reflections on Little Rock,” 46.
+
+                                                          75
+                             Amherst College Law Review: Issue VIII
+
+Court confirmed the longstanding belief that Black citizenship was incompatible with the future
+
+of the United States as a white nation-state. This belief persisted in the white American
+
+consciousness well after the Civil War. Due to the failure of Reconstruction, the condition of
+
+statelessness for African-Americans did not end with formal abolition. Arendt should have
+
+known this because she was living in Jim Crow America while writing Origins. Her
+
+unwillingness to consider enslaved people of African descent as stateless leads her to miss the de
+
+facto statelessness that was occurring right under her nose.
+
+
+
+
+                                                76
+                              Amherst College Law Review: Issue VIII
+
+                                             Bibliography
+
+Alexander, Michelle, and Cornel West. The New Jim Crow: Mass Incarceration in the Age of
+        Colorblindness. Revised edition. New York: New Press, 2012.
+Arendt, Hannah. “Reflections on Little Rock.” In Responsibility and Judgment, edited by Jerome Kohn,
+        First edition. New York: Schocken Books, 2003.
+———. “The Decline of the Nation-State and the End of the Rights of Man.” In The Origins of
+        Totalitarianism. New York: Harcourt, Brace & World, Inc, 1966.
+Aristotle. Politics. Translated by Ernest Barker. Oxford World’s Classics. New York: Oxford University
+        Press, 1995.
+Asante, Molefi Kete. “The Ideological Origins of Chattel Slavery in the British World.” Presented at the
+        Slavery Remembrance Day memorial lecture 2007, Liverpool Town Hall, August 21, 2007.
+        https://www.liverpoolmuseums.org.uk/ideological-origins-of-chattel-slavery-british-world.
+Douglass, Frederick. “What to the Slave is the Fourth of July?” 1852.
+Dubois, Laurent, Julia Gaffield, and Michel Acacia, eds. “Constitution Républicaine (1816).” In Vol. 10
+        Constitutional Documents of Haiti 1790–1860, 91–108. De Gruyter, 2013.
+        https://doi.org/10.1515/9783110316025.91.
+Gaffney, Jennifer. “Memories of Exclusion: Hannah Arendt and the Haitian Revolution - Jennifer
+        Gaffney, 2018.” Philosophy & Social Criticism, December 20, 2017.
+        http://journals.sagepub.com/doi/full/10.1177/0191453717731807.
+Gündoğdu, Ayten. “Expulsion from Politics and Humanity.” In Rightlessness in an Age of Rights. New
+        York: Oxford University Press, 2015.
+        https://doi.org/10.1093/acprof:oso/9780199370412.003.0005.
+Guyatt, Nicholas. “The American Colonization Society: 200 Years of the ‘Colonizing Trick.’” Black
+        Perspectives (blog), December 22, 2016.
+        https://www.aaihs.org/the-american-colonization-society-200-years-of-the-colonizing-trick/.
+Martinez, Jenny S. The Slave Trade and the Origins of International Human Rights Law. New York:
+        Oxford University Press, 2012.
+Mills, Charles W. The Racial Contract. Ithaca, NY: Cornell University Press, 2014.
+        https://doi.org/10.7591/9780801471353-003.
+Owens, Patricia. “Racism in the Theory Canon: Hannah Arendt and ‘the One Great Crime in Which
+        America Was Never Involved.’” Millennium 45, no. 3 (June 1, 2017): 403–24.
+        https://doi.org/10.1177/0305829817695880.
+Patterson, Orlando. “Freedom, Slavery, and the Modern Construction of Rights.” In The Cultural Values
+        of Europe, by Alex Skinner, 115–51. edited by Hans Joas and Klaus Wiegandt. Liverpool
+        University Press, 2008. https://doi.org/10.5949/liverpool/9781846311383.003.0006.
+———. Slavery and Social Death: A Comparative Study. Harvard University Press, 1982.
+Spooner, Matthew. “‘I Know This Scheme Is from God:’ Toward a Reconsideration of the Origins of the
+        American Colonization Society.” Slavery & Abolition 35, no. 4 (October 2, 2014): 559–75.
+        https://doi.org/10.1080/0144039X.2013.847223.
+Taney, Roger. Dred Scott v. Sandford, 60 U.S. 393 (Supreme Court Of The United States 1857).
+Walzer, Michael. “Membership.” In Spheres of Justice: A Defense of Pluralism and Equality. New York:
+        Basic Books, Inc., 1983.
+Yack, Bernard. “Popular Sovereignty and Nationalism.” Political Theory 29, no. 4 (2001): 517–36.
+
+
+                                                   77
