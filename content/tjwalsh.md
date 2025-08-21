@@ -99,7 +99,7 @@ This ruling established the precedent that laws restricting the alteration of ex
 
       </article>
       
-      <!-- Right Side Footnotes -->
+      <!-- Footnotes -->
   <aside class="footnotes">
         <div id="fn1" class="footnote-summary">
           <span class="footnote-number">1</span> Cornell Law School, “Takings,” Legal Information Institute, https://www.law.cornell.edu/wex/takings. Accessed February 15, 2024.
@@ -250,15 +250,7 @@ This ruling established the precedent that laws restricting the alteration of ex
     </section>
   </main>
   
-  <!-- Modal for Full Footnote Details -->
-  <div id="footnote-modal" class="modal">
-    <div class="modal-content">
-      <span class="close">&times;</span>
-      <p id="full-footnote-text"></p>
-    </div>
-  </div>
   
-  <script src="script.js"></script>
 </body>
 </html>
 {{< /rawhtml >}}
@@ -290,79 +282,55 @@ body {
 }
 
 main {
-  display: flex;
-  justify-content: center;
-  padding: 2rem;
+  display: block;
+  padding: 2rem 1rem;
 }
 
 .content {
-  display: flex;
+  display: block;
   width: 60rem;
   max-width: 100%;
+  margin: 0 auto;
 }
 
 article {
-  flex: 3;
-  padding-right: 2rem;
+  padding-right: 0;
 }
 
 aside.footnotes {
-  flex: 1;
-  padding-left: 1rem;
-  border-left: 1px solid #ccc;
+  margin-top: 3rem;
+  padding-top: 1rem;
+  border-top: 1px solid #e0e0e0;
 }
 
+/* Inline footnote links */
 .footnote-link {
-  color: #0077cc;
-  font-size: 0.9rem;
+  color: #666;
+  font-size: 0.75rem;
   text-decoration: none;
   cursor: pointer;
+  vertical-align: super;
+  line-height: 0;
+}
+
+.footnote-link:hover {
+  color: #333;
 }
 
 .footnote-summary {
   font-size: 0.9rem;
-  margin-bottom: 1rem;
+  margin-bottom: 0.75rem;
   color: #555;
+  line-height: 1.4;
 }
 
 .footnote-number {
-  font-size: 0.9rem;
+  font-size: 0.75rem;
   font-weight: bold;
-  color: #333;
+  color: #666;
+  margin-right: 0.4rem;
 }
 
-/* Modal Styling */
-.modal {
-  display: none;
-  position: fixed;
-  z-index: 1000;
-  padding-top: 10%;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(0, 0, 0, 0.7);
-}
-
-.modal-content {
-  background-color: #fefefe;
-  margin: auto;
-  padding: 2rem;
-  border-radius: 5px;
-  width: 60%;
-  max-width: 40rem;
-}
-
-.close {
-  color: #aaa;
-  float: right;
-  font-size: 1.5rem;
-  font-weight: bold;
-  cursor: pointer;
-}
-
-.close:hover {
-  color: #333;
-}
+/* Removed modal styles */
 
 </style>
