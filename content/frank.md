@@ -45,21 +45,57 @@ title: Adam Frank
 
         <h3>Fear the Machines: A Psychological Framework</h3>
 
-        <p>The fear of AI replacing human workers is not new, but it has taken on new urgency with the development of sophisticated AI systems capable of producing creative works. This fear is often framed in terms of economic competition and job displacement, but it also has deeper psychological and philosophical dimensions.</p>
+        <p>There is a deep-seated human paranoia about AI programs undermining economic opportunity. People assume that technology will make human labor obsolete, and workers will cease to earn a living. Fear, it might be said, lies at the heart of academics Julia Kirby and Thomas Davenport's "automation vs. augmentation" model of AI. They argue that "… the reason people hate automation is that it involves someone in a managerial position spotting a shortcoming or limitation in employees, or simply a weakness relative to machine performance, and then punishing them for that weakness."<sup><a href="#fn91" class="footnote-link">91</a></sup></p>
 
-        <p>From a psychological perspective, the fear of AI authorship can be understood as a form of existential anxiety. Human creativity has long been considered one of the defining characteristics of human uniqueness and value. The idea that machines could produce creative works that are indistinguishable from human creations threatens this sense of uniqueness and raises questions about what it means to be human.</p>
+        <p>Indeed, the human "weakness" relative to AI appears to have been assumed without further consideration. The "assumption of diminished utility" happens when authorities assume that granting privileges for AI-authored works will competitively hurt human producers, despite evidence to the contrary. Perhaps, for example, the market value of the average originally composed pop song would decrease if AI programs could compose high-quality ones rapidly and gain copyright privileges, allowing AI-authored works to flood the market.</p>
 
-        <p>This psychological framework helps explain why the legal treatment of AI-authored works has been so contentious. The question is not simply whether AI systems can produce works that meet the technical requirements for copyright protection, but whether granting such protection would undermine fundamental assumptions about human creativity and value.</p>
+        <p>The first issue with this logic, is that it is not clear that the best AI-produced song, for example, is competitive in the current market when compared to the average composition written by a professional-level human songwriter. Indeed, if it is not competitive, the value of high-quality human creations would continue to hold and offer the prospect of profitability due to a quality premium. Wage-earning human artists would be insulated. Only low-quality works would flood the market. Quality discrepancy, then, is the first consideration that suggests it is inappropriate to assume that awarding AI such IP privileges will disincentivize human artists.</p>
 
-        <p>The <em>Thaler</em> decision can be seen as a response to this psychological framework. By narrowly construing the term "individual" to exclude AI systems, the court reaffirmed the traditional understanding that creativity is a uniquely human characteristic. This decision provides legal support for the psychological need to maintain human uniqueness in the face of technological advancement.</p>
+        <p>The next flaw with the diminished utility assumption might be called "the rate of production principle": human artists that co-author with AI increase their output by more than the value they lose by letting AI into the market. They stand to make more money co-authoring with AI than by producing works without AI. For example, if an author working alone can only write one book a year, he makes more money splitting the copyright privileges with an AI and producing ten books per year, despite the market value of the average book being lower. It follows that utilitarian considerations may still support granting privileges for AI-authored works. The rate of production principle suggests that granting AI-authored works copyright privileges will result in the artists making more money than in the pre-AI era because, despite sacrificing a portion of the copyright to the AI, their productive output increases by many multiples. Thus, utilitarian considerations do not unambiguously support the prohibition of such rights. Indeed, they may support the granting of such rights.</p>
 
-        <h3>Conclusion</h3>
+        <p>Political realities see things differently. Creative-industry pressure groups have lobbied aggressively against the use of AI. Screenwriters in Hollywood brought this issue to bear in 2023.<sup><a href="#fn92" class="footnote-link">92</a></sup> Regardless of the possibility that screenwriting could become a more profitable profession under conditions of AI-human co-authorship, the fear of human obsolescence is a more salient consideration. Anxiety could be a relevant factor to this behavior; if artists stand to make more money using AI than prohibiting it, it would be rational for the guilds to support the integration of AI rather than oppose it. However, if there is widespread paranoia about the 'obsolete human artist,' then it follows that the guilds should vehemently oppose the integration of AI into creative practices. The critical issue with the integration of AI into labor could be irrational fear on behalf of humans. Importantly, generative AI cannot improve without human feedback.</p>
 
-        <p>The <em>Thaler v. Vidal</em> decision represents a significant milestone in the legal treatment of AI-generated content. By narrowly construing the term "individual" to exclude AI systems, the court established an important precedent that is likely to become more authoritative as the Chevron doctrine faces potential elimination.</p>
+        <h3>AI and Legal Personhood</h3>
 
-        <p>However, the decision also raises important questions about the arbitrary nature of legal interpretation and the potential benefits of allowing AI-authored works into the marketplace. The narrow construction of "individual" in <em>Thaler</em> is not necessarily justified by clear legal principles, and the exclusion of AI-authored works may not serve the broader goals of copyright law.</p>
+        <p>The question of whether AI systems should be granted legal personhood is central to the debate over AI authorship and intellectual property rights. Legal personhood would grant AI systems certain rights and responsibilities under the law, potentially including the ability to hold copyrights and other intellectual property rights.</p>
 
-        <p>As AI technology continues to evolve, the legal framework will need to adapt to address these challenges. The <em>Thaler</em> decision provides a foundation for this adaptation, but it also highlights the need for more nuanced approaches to the question of AI authorship and intellectual property rights.</p>
+        <p>However, the concept of legal personhood for AI raises fundamental questions about the nature of personhood and the purpose of legal rights. Traditional legal personhood has been granted to human beings and, in some cases, to corporations and other entities that serve human interests. The question is whether AI systems, which are created by humans and serve human purposes, should be granted similar legal status.</p>
+
+        <p>The <em>Thaler</em> decision provides one answer to this question by narrowly construing the term "individual" to exclude AI systems. This decision suggests that AI systems should not be granted legal personhood, at least for the purposes of intellectual property law. However, this decision is not necessarily the final word on the question, and future legal developments may provide different answers.</p>
+
+        <h3>The Legal Basis for Exclusion in Two Cases</h3>
+
+        <p>The legal basis for excluding AI-authored works from copyright protection can be understood by examining two key cases: <em>Thaler v. Vidal</em> and the Kashtanova case. These cases demonstrate different approaches to the question of AI authorship and provide important precedents for future legal developments.</p>
+
+        <p>In <em>Thaler</em>, the court based its decision on a narrow construction of the term "individual" in the Patent Act. The court held that only human beings can be considered "individuals" for the purposes of patent law, and therefore AI systems cannot be granted patent rights. This decision provides a clear legal basis for excluding AI systems from certain types of intellectual property protection.</p>
+
+        <p>The Kashtanova case, however, presents a more complex situation. Initially, the Copyright Office granted copyright protection to a work that included AI-generated illustrations. However, the office later canceled this registration, suggesting that AI-generated content cannot be protected by copyright. This decision was then followed by a policy change that appeared to allow some forms of AI authorship, creating confusion about the legal status of AI-generated works.</p>
+
+        <p>These cases demonstrate the uncertainty and inconsistency in the current legal treatment of AI-authored works. The <em>Thaler</em> decision provides a clear precedent for exclusion, while the Kashtanova case shows how administrative agencies may take different approaches to the question. This inconsistency creates challenges for creators, businesses, and legal practitioners who need clear guidance on the legal status of AI-generated content.</p>
+
+        <h3>Bibliography</h3>
+
+        <p>Bayern, Shawn "The implications of modern business–entity law for the regulation of autonomous systems," Stanford Technology Law Review (2016): 99.</p>
+
+        <p>"Copyright Registration Guidance: Works Containing Material Generated by Artificial Intelligence" United States Copyright Office, March 16, 2023. https://www.federalregister.gov/documents/2023/03/16/2023-05321/copyright-registration-guidance-works-containing-material-generated-by-artificial-intelligence#footnote-7-p16191</p>
+
+        <p>Davenport, Thomas H., and Julia Kirby. Only humans need apply: Winners and losers in the age of smart machines. New York: Harper. 2016. Pp. 61.</p>
+
+        <p>Eliot, Lance. "Legal Personhood for AI is Taking a Sneaky Path that Makes AI Law and AI Ethics Very Nervous Indeed" Forbes, November 21, 2022. https://www.forbes.com/sites/lanceeliot/2022/11/21/legal-personhood-for-ai-is-taking-a-sneaky-path-that-makes-ai-law-and-ai-ethics-very-nervous-indeed/?sh=2f45780af48a</p>
+
+        <p>Kaminski, Margot E. "Authorship, disrupted: AI authors in copyright and first amendment law." UC Davis Law Review 51 (2017): 597.</p>
+
+        <p>"Mohamad v. Palestinian Authority." Oyez, www.oyez.org/cases/2011/11-88. Accessed 29 Apr. 2023.</p>
+
+        <p>"Re: Zarya of the Dawn (Registration # VAu001480196)" United States Copyright Office, February 21, 2023, https://www.copyright.gov/docs/zarya-of-the-dawn.pdf</p>
+
+        <p>Stark, Leonard. Decision in Thaler v Vidal, United States Court of Appeals for the Federal Circuit, August 5, 2022, https://cafc.uscourts.gov/opinions-orders/21-2347.OPINION.8-5-2022_1988142.pdf pp. 3.</p>
+
+        <p>Scheiber, Noam and John Koblin. "Will a Chatbot Write the Next 'Succession'?" The New York Times, April 29, 2023. https://www.nytimes.com/2023/04/29/business/media/writers-guild-hollywood-ai-chatgpt.html</p>
+
+        <p>Smith, Bryant. "Legal personality" Yale Law Journal 37 (1927): 283.</p>
+
+        <p>Torres-Spelliscy, Ciara. "Does We the People Include Corporations." Human Rights Magazine (ABA). Volume 43 No. 2., 2017. www.americanbar.org./Torres-Spelliscy/DoesWeThePeopleIncludeCoporations</p>
 
       </article>
       
@@ -91,6 +127,12 @@ title: Adam Frank
         </div>
         <div id="fn90" class="footnote-summary">
           <span class="footnote-number">90</span> Margot E Kaminski, "Authorship, disrupted: AI authors in copyright and first amendment law," UC Davis Law Review 51 (2017): 597.
+        </div>
+        <div id="fn91" class="footnote-summary">
+          <span class="footnote-number">91</span> Thomas, Davenport, and Julia Kirby, Only humans need apply: Winners and losers in the age of smart machines, New York: Harper, 2016. Pp. 61.
+        </div>
+        <div id="fn92" class="footnote-summary">
+          <span class="footnote-number">92</span> Noam Scheiber and John Koblin, "Will a Chatbot Write the Next 'Succession'?" The New York Times, April 29, 2023. https://www.nytimes.com/2023/04/29/business/media/writers-guild-hollywood-ai-chatgpt.html
         </div>
       </aside>
     </section>
